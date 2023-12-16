@@ -102,6 +102,7 @@
 
 ## C++ 
 
+- [jmpoep/vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) - 
 - [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll) - :electron: O-MVLL is a LLVM-based obfuscator for native code (Android & iOS)
 - [jackullrich/ShellcodeStdio](https://github.com/jackullrich/ShellcodeStdio) - An extensible framework for easily writing compiler optimized position independent x86 / x64 shellcode for windows platforms.
 - [DreamSoule/ollvm17](https://github.com/DreamSoule/ollvm17) - Obfuscation LLVM 17
@@ -519,6 +520,8 @@
 
 ## Rust 
 
+- [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data collector for BloodHound written in Rust. 🦀
+- [bluss/scopeguard](https://github.com/bluss/scopeguard) - Rust crate for a convenient RAII scope guard.
 - [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
 - [SeaQL/FireDBG.for.Rust](https://github.com/SeaQL/FireDBG.for.Rust) - 🔥 Time Travel Visual Debugger for Rust
 - [puffyCid/artemis](https://github.com/puffyCid/artemis) - A cross platform forensic parser written in Rust!
