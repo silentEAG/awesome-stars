@@ -169,6 +169,7 @@
 
 ## Go 
 
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [pion/ice](https://github.com/pion/ice) - A Go implementation of ICE
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
@@ -436,6 +437,7 @@
 
 ## Python 
 
+- [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
 - [skelsec/pypykatz](https://github.com/skelsec/pypykatz) - Mimikatz implementation in pure Python
 - [Kkevsterrr/backdoorme](https://github.com/Kkevsterrr/backdoorme) - powerful auto-backdooring utility
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
@@ -455,7 +457,6 @@
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 - [Crusaders-of-Rust/corCTF-2023-public-challenge-archive](https://github.com/Crusaders-of-Rust/corCTF-2023-public-challenge-archive) - public archive for corCTF 2023
-- [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
 - [angr/cle](https://github.com/angr/cle) - CLE Loads Everything (at least, many binary formats!)
 - [KingBridgeSS/XZSpider](https://github.com/KingBridgeSS/XZSpider) - 
 - [waderwu/extractor-java](https://github.com/waderwu/extractor-java) - CodeQL extractor for java, which don't need to compile java source
@@ -520,6 +521,7 @@
 
 ## Rust 
 
+- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data collector for BloodHound written in Rust. 🦀
 - [bluss/scopeguard](https://github.com/bluss/scopeguard) - Rust crate for a convenient RAII scope guard.
 - [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
