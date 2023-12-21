@@ -245,6 +245,7 @@
 
 ## Java 
 
+- [luelueking/Bypass_JVM_Verifier](https://github.com/luelueking/Bypass_JVM_Verifier) - Bypass JVM Class ByteCode Verifier , 对抗反编译器
 - [veo/vagent](https://github.com/veo/vagent) - 多功能 java agent 内存马
 - [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，自定义SQL查询，执行脚本语言等功能
 - [qi4L/JYso](https://github.com/qi4L/JYso) - It can be either a JNDIExploit or a ysoserial. JYso是一个可以用于 jndi 注入攻击和生成反序列化数据流的工具。
@@ -320,7 +321,7 @@
 
 ## LLVM 
 
-- [bluesadi/Pluto-Obfuscator](https://github.com/bluesadi/Pluto-Obfuscator) - Obfuscator based on LLVM 12.0.1
+- [bluesadi/Pluto](https://github.com/bluesadi/Pluto) - Obfuscator based on LLVM 12.0.1
 
 ## Lua 
 
@@ -524,6 +525,7 @@
 
 ## Rust 
 
+- [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
 - [m4b/goblin](https://github.com/m4b/goblin) - An impish, cross-platform binary parsing crate, written in Rust
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data collector for BloodHound written in Rust. 🦀
