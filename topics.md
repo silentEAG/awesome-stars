@@ -929,6 +929,8 @@
 
 ## others 
 
+- [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
+- [luelueking/Bypass_JVM_Verifier](https://github.com/luelueking/Bypass_JVM_Verifier) - Bypass JVM Class ByteCode Verifier , 对抗反编译器
 - [WKL-Sec/dcomhijack](https://github.com/WKL-Sec/dcomhijack) - Lateral Movement Using DCOM and DLL Hijacking
 - [cloud-native-security-news/cloud-native-security-news](https://github.com/cloud-native-security-news/cloud-native-security-news) - 
 - [jmpoep/vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) - 
@@ -1092,7 +1094,7 @@
 - [wx-chevalier/Network-Notes](https://github.com/wx-chevalier/Network-Notes) - 分布式系统之网络篇，TCPIP、HTTP、WebSocket、SDN 等。
 - [plctlab/PLCT-Open-Reports](https://github.com/plctlab/PLCT-Open-Reports) - PLCT实验室的公开演讲，或者决定公开的组内报告
 - [Yuki-Master/Japanese-R18-anime-download](https://github.com/Yuki-Master/Japanese-R18-anime-download) - 这是日本里番合集，磁力下载地区
-- [bluesadi/Pluto-Obfuscator](https://github.com/bluesadi/Pluto-Obfuscator) - Obfuscator based on LLVM 12.0.1
+- [bluesadi/Pluto](https://github.com/bluesadi/Pluto) - Obfuscator based on LLVM 12.0.1
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
 - [ChrisTheCoolHut/Zeratool](https://github.com/ChrisTheCoolHut/Zeratool) - Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems
 - [shuosc/SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) - 上海大学本科生毕业论文Typst模板
