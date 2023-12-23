@@ -246,6 +246,7 @@
 
 ## Java 
 
+- [kyo-w/router-router](https://github.com/kyo-w/router-router) - Java web路由内存分析工具
 - [luelueking/Bypass_JVM_Verifier](https://github.com/luelueking/Bypass_JVM_Verifier) - Bypass JVM Class ByteCode Verifier , 对抗反编译器
 - [veo/vagent](https://github.com/veo/vagent) - 多功能 java agent 内存马
 - [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，自定义SQL查询，执行脚本语言等功能
@@ -346,6 +347,7 @@
 
 ## Others 
 
+- [TideSec/TscanPlus](https://github.com/TideSec/TscanPlus) - 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [cloud-native-security-news/cloud-native-security-news](https://github.com/cloud-native-security-news/cloud-native-security-news) - 
 - [milabs/awesome-linux-rootkits](https://github.com/milabs/awesome-linux-rootkits) - awesome-linux-rootkits
 - [Flangvik/SharpCollection](https://github.com/Flangvik/SharpCollection) - Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.
@@ -468,7 +470,7 @@
 - [waderwu/extractor-java](https://github.com/waderwu/extractor-java) - CodeQL extractor for java, which don't need to compile java source
 - [Tokeii0/VolatilityPro](https://github.com/Tokeii0/VolatilityPro) - 一款用于自动化处理内存取证的Python脚本，并提供GUI界面
 - [grayhatacademy/ghidra_scripts](https://github.com/grayhatacademy/ghidra_scripts) - Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
-- [Marven11/Fenjing](https://github.com/Marven11/Fenjing) - 专为CTF设计的Jinja2 SSTI全自动绕WAF脚本 | A Jinja2 SSTI cracker for bypassing WAF
+- [Marven11/Fenjing](https://github.com/Marven11/Fenjing) - 专为CTF设计的Jinja2 SSTI全自动绕WAF脚本 | A Jinja2 SSTI cracker for bypassing WAF, design for CTF
 - [litheory/AWD](https://github.com/litheory/AWD) - awd比赛用到的脚本
 - [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
 - [TheKingOfDuck/FileMonitor](https://github.com/TheKingOfDuck/FileMonitor) - 文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具)
@@ -784,7 +786,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [sismo-core/sismo-badges](https://github.com/sismo-core/sismo-badges) - Contracts of the Sismo Badge Minting Protocol
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
