@@ -226,6 +226,7 @@
 
 ## HTML 
 
+- [swisskyrepo/InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) - Active Directory and Internal Pentest Cheatsheets
 - [hookmaster/frida-all-in-one](https://github.com/hookmaster/frida-all-in-one) - 《FRIDA操作手册》by @hluwa @r0ysue
 - [silentEAG/note](https://github.com/silentEAG/note) - 个人 notebook
 - [niltok/magic-in-ten-mins](https://github.com/niltok/magic-in-ten-mins) - 十分钟魔法练习
@@ -534,6 +535,7 @@
 
 ## Rust 
 
+- [fuzzland/ityfuzz](https://github.com/fuzzland/ityfuzz) - Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts
 - [rust-lang/socket2](https://github.com/rust-lang/socket2) - Advanced configuration options for sockets.
 - [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
 - [m4b/goblin](https://github.com/m4b/goblin) - An impish, cross-platform binary parsing crate, written in Rust
@@ -764,6 +766,7 @@
 
 ## Stylus 
 
+- [saicaca/hexo-theme-vivia](https://github.com/saicaca/hexo-theme-vivia) - A clean and minimalist theme for Hexo.
 - [91ac0m0/journally](https://github.com/91ac0m0/journally) - 
 
 ## Svelte 
@@ -778,6 +781,7 @@
 
 ## TypeScript 
 
+- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [uiwjs/react-login-page](https://github.com/uiwjs/react-login-page) - Some `react` login pages, which can be used quickly after installation.
