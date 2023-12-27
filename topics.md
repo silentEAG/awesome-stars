@@ -44,6 +44,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [devops](#devops)
+- [discord](#discord)
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
@@ -266,6 +267,7 @@
 
 ## blockchain 
 
+- [fuzzland/ityfuzz](https://github.com/fuzzland/ityfuzz) - Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [WTFAcademy/WTF-CTF](https://github.com/WTFAcademy/WTF-CTF) - Collect CTFs related to evm, and provide solutions, using Foundry. 收集 EVM 类的 CTF 挑战，并提供解决方案。
 - [chainflag/solidctf](https://github.com/chainflag/solidctf) - SolidCTF is an infrastructure solution that simplifies the build of Solidity CTF challenges.
@@ -279,6 +281,7 @@
 
 ## bot 
 
+- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
 - [Vu1nT0tal/yarb](https://github.com/Vu1nT0tal/yarb) - 方便获取每日安全资讯的爬虫和推送程序
 - [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界
 - [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
@@ -432,6 +435,10 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 
+## discord 
+
+- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
+
 ## docker 
 
 - [phith0n/phpsrc-debug-docker](https://github.com/phith0n/phpsrc-debug-docker) - Debug environment for PHP inside a Docker container. Document waiting to be completed.
@@ -485,6 +492,7 @@
 
 ## ethereum 
 
+- [fuzzland/ityfuzz](https://github.com/fuzzland/ityfuzz) - Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [ZtesoftCS/go-ethereum-code-analysis](https://github.com/ZtesoftCS/go-ethereum-code-analysis) - 
 - [WTFAcademy/WTF-CTF](https://github.com/WTFAcademy/WTF-CTF) - Collect CTFs related to evm, and provide solutions, using Foundry. 收集 EVM 类的 CTF 挑战，并提供解决方案。
@@ -930,6 +938,8 @@
 
 ## others 
 
+- [swisskyrepo/InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) - Active Directory and Internal Pentest Cheatsheets
+- [saicaca/hexo-theme-vivia](https://github.com/saicaca/hexo-theme-vivia) - A clean and minimalist theme for Hexo.
 - [rust-lang/socket2](https://github.com/rust-lang/socket2) - Advanced configuration options for sockets.
 - [Y4tacker/HackingFernFlower](https://github.com/Y4tacker/HackingFernFlower) - 2023白帽补天大会部分代码
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
@@ -1343,6 +1353,7 @@
 
 ## react 
 
+- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [uiwjs/react-login-page](https://github.com/uiwjs/react-login-page) - Some `react` login pages, which can be used quickly after installation.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
@@ -1614,6 +1625,7 @@
 
 ## solidity 
 
+- [fuzzland/ityfuzz](https://github.com/fuzzland/ityfuzz) - Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts
 - [WTFAcademy/WTF-CTF](https://github.com/WTFAcademy/WTF-CTF) - Collect CTFs related to evm, and provide solutions, using Foundry. 收集 EVM 类的 CTF 挑战，并提供解决方案。
 - [minaminao/ctf-blockchain](https://github.com/minaminao/ctf-blockchain) - A summary of 100+ CTF blockchain challenges
 - [0xJuancito/multichain-auditor](https://github.com/0xJuancito/multichain-auditor) - Observations and tips checklist for auditing protocols on multiple chains 🧐
@@ -1702,6 +1714,7 @@
 
 ## typescript 
 
+- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
 - [oscartbeaumont/specta](https://github.com/oscartbeaumont/specta) - Easily export your Rust types to other languages
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A tool to generate interactive call graphs for multiple languages
