@@ -44,6 +44,7 @@
 - [Typst](#typst)
 - [V](#v)
 - [VBScript](#vbscript)
+- [Visual Basic](#visual-basic)
 - [Vue](#vue)
 - [XSLT](#xslt)
 
@@ -535,6 +536,8 @@
 
 ## Rust 
 
+- [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no_std + serde compatible message library for Rust
+- [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [fuzzland/ityfuzz](https://github.com/fuzzland/ityfuzz) - Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts
 - [rust-lang/socket2](https://github.com/rust-lang/socket2) - Advanced configuration options for sockets.
 - [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
@@ -781,6 +784,7 @@
 
 ## TypeScript 
 
+- [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -817,6 +821,10 @@
 ## VBScript 
 
 - [rootclay/WMIHACKER](https://github.com/rootclay/WMIHACKER) - A Bypass Anti-virus Software Lateral Movement Command Execution Tool
+
+## Visual Basic 
+
+- [mdsecactivebreach/SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework
 
 ## Vue 
 
