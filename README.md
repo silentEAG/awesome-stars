@@ -222,7 +222,7 @@
 - [passer-W/shc_bypass](https://github.com/passer-W/shc_bypass) - 内存加载shellcode绕过waf
 - [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) - SSH based reverse shell
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
-- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [andeya/pholcus](https://github.com/andeya/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
 
 ## HTML 
@@ -240,7 +240,7 @@
 - [thewhitepaper/thewhitepaper.github.io](https://github.com/thewhitepaper/thewhitepaper.github.io) - Voice for our freedom of speech
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
