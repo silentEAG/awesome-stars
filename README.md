@@ -359,6 +359,7 @@
 
 ## Others 
 
+- [ErodedElk/Chaos-me-JavaScript-V8](https://github.com/ErodedElk/Chaos-me-JavaScript-V8) - 零基础入门V8引擎漏洞挖掘
 - [TideSec/TscanPlus](https://github.com/TideSec/TscanPlus) - 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [cloud-native-security-news/cloud-native-security-news](https://github.com/cloud-native-security-news/cloud-native-security-news) - 
 - [milabs/awesome-linux-rootkits](https://github.com/milabs/awesome-linux-rootkits) - awesome-linux-rootkits
@@ -545,6 +546,7 @@
 
 ## Rust 
 
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [dizda/fast-socks5](https://github.com/dizda/fast-socks5) - Fast SOCKS5 client/server implementation written in Rust async/.await (with tokio)
 - [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
 - [iggy-rs/iggy](https://github.com/iggy-rs/iggy) - Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.
@@ -799,6 +801,7 @@
 
 ## TypeScript 
 
+- [abrahamjuliot/creepjs](https://github.com/abrahamjuliot/creepjs) - Creepy device and browser fingerprinting
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
