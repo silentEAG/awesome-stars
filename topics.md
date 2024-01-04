@@ -961,6 +961,9 @@
 
 ## others 
 
+- [helloexp/0day](https://github.com/helloexp/0day) - 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新
+- [FunnyWolf/pystinger](https://github.com/FunnyWolf/pystinger) - Bypass firewall for traffic forwarding using webshell 一款使用webshell进行流量转发的出网工具
+- [dtolnay/linkme](https://github.com/dtolnay/linkme) - Safe cross-platform linker shenanigans
 - [ambionics/wrapwrap](https://github.com/ambionics/wrapwrap) - Generates a `php://filter` chain that adds a prefix and a suffix to the contents of a file.
 - [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust
@@ -1298,6 +1301,7 @@
 
 ## penetration-testing 
 
+- [Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识仓库
 - [arch3rPro/PentestTools](https://github.com/arch3rPro/PentestTools) - Awesome Pentest Tools Collection
 - [machine1337/gmailc2](https://github.com/machine1337/gmailc2) - A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections and Network Traffic Restrictions
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
