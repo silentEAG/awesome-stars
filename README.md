@@ -176,6 +176,7 @@
 
 ## Go 
 
+- [firefart/stunner](https://github.com/firefart/stunner) - Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
 - [Zerx0r/dvenom](https://github.com/Zerx0r/dvenom) - 🐍 Double Venom (DVenom) is a tool that provides an encryption wrapper and loader for your shellcode.
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
@@ -635,7 +636,7 @@
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [memN0ps/bootkit-rs](https://github.com/memN0ps/bootkit-rs) - Rusty Bootkit - Windows UEFI Bootkit in Rust (Codename: RedLotus)
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A tool to generate interactive call graphs for multiple languages
@@ -687,7 +688,7 @@
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
 - [ItsEthra/scotch](https://github.com/ItsEthra/scotch) - Create WASM plugins easily in Rust
 - [SUPERCILEX/forkfs](https://github.com/SUPERCILEX/forkfs) - ForkFS allows you to sandbox a process's changes to your file system.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [MythicAgents/thanatos](https://github.com/MythicAgents/thanatos) - Mythic C2 agent targeting Linux and Windows hosts written in Rust
 - [neonmoe/minreq](https://github.com/neonmoe/minreq) - Simple, minimal-dependency HTTP client.
