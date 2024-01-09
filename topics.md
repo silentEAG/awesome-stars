@@ -967,6 +967,7 @@
 
 ## others 
 
+- [JacyCui/static-analysis](https://github.com/JacyCui/static-analysis) - 静态分析基础教程
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [icyguider/LightsOut](https://github.com/icyguider/LightsOut) - Generate an obfuscated DLL that will disable AMSI & ETW
 - [Zerx0r/dvenom](https://github.com/Zerx0r/dvenom) - 🐍 Double Venom (DVenom) is a tool that provides an encryption wrapper and loader for your shellcode.
