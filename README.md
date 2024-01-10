@@ -60,7 +60,6 @@
 
 - [helloexp/0day](https://github.com/helloexp/0day) - 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新
 - [gloxec/CrossC2](https://github.com/gloxec/CrossC2) - generate CobaltStrike's cross-platform payload
-- [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [BUPT-OS/RROS](https://github.com/BUPT-OS/RROS) - RROS is a dual-kernel OS for satellites or other scenarios that need both real-time and general-purpose abilities.  RROS = RTOS (Rust) + Linux (C).
 - [trustedsec/COFFLoader](https://github.com/trustedsec/COFFLoader) - 
 - [RalfHacker/Kerbeus-BOF](https://github.com/RalfHacker/Kerbeus-BOF) - BOF for Kerberos abuse (an implementation of some important features of the Rubeus).
@@ -158,6 +157,7 @@
 ## Dart 
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [gskinnerTeam/flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app) - A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -812,6 +812,7 @@
 
 ## TypeScript 
 
+- [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
