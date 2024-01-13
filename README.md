@@ -72,6 +72,7 @@
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [odzhan/shellcode](https://github.com/odzhan/shellcode) - Shellcodes for Windows/Linux/BSD running on x86, AMD64, ARM, ARM64
 - [i0gan/pwn_waf](https://github.com/i0gan/pwn_waf) - This is a simple network firewall for pwn challenges of ctf awd competition, light and simple code.There is no dependence, the log format is clear with the hexadecimal payload string and original stri
+- [4ra1n/code-encryptor](https://github.com/4ra1n/code-encryptor) - 使用JNI加密字节码，通过JVMTI解密字节码以保护代码，支持自定义包名和密钥，使用魔法禁止黑客dump字节码
 - [yasukata/zpoline](https://github.com/yasukata/zpoline) - system call hook for Linux
 - [nbs-system/naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 - [4ra1n/java-gate](https://github.com/4ra1n/java-gate) - Java JNI HellsGate/HalosGate/TartarusGate/RecycledGate/SSN Syscall/Many Shellcode Loaders
@@ -176,6 +177,7 @@
 
 ## Go 
 
+- [Metarget/cloud-native-security-book](https://github.com/Metarget/cloud-native-security-book) - 《云原生安全：攻防实践与体系构建》资料仓库
 - [Enelg52/OffensiveGo](https://github.com/Enelg52/OffensiveGo) - Golang weaponization for red teamers.
 - [firefart/stunner](https://github.com/firefart/stunner) - Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
 - [Zerx0r/dvenom](https://github.com/Zerx0r/dvenom) - 🐍 Double Venom (DVenom) is a tool that provides an encryption wrapper and loader for your shellcode.
@@ -192,7 +194,7 @@
 - [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
 - [Mob2003/rakshasa](https://github.com/Mob2003/rakshasa) - 基于go编写的跨平台、稳定、隐秘的多级代理内网穿透工具
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Automatically update domain name resolution to public IP (Support Aliyun, Tencent, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, Na
+- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [liamg/dismember](https://github.com/liamg/dismember) - :knife: Scan memory for secrets and more. Maybe eventually a full /proc toolkit.
 - [Ne0nd0g/merlin-agent](https://github.com/Ne0nd0g/merlin-agent) - Post-exploitation agent for Merlin
@@ -260,14 +262,13 @@
 - [kyo-w/router-router](https://github.com/kyo-w/router-router) - Java web路由内存分析工具
 - [luelueking/Bypass_JVM_Verifier](https://github.com/luelueking/Bypass_JVM_Verifier) - Bypass JVM Class ByteCode Verifier , 对抗反编译器
 - [veo/vagent](https://github.com/veo/vagent) - 多功能 java agent 内存马
-- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，自定义SQL查询，执行脚本语言等功能
+- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，自定义SQL查询
 - [qi4L/JYso](https://github.com/qi4L/JYso) - It can be either a JNDIExploit or a ysoserial. JYso是一个可以用于 jndi 注入攻击和生成反序列化数据流的工具。
 - [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ &lt; 5.18.3 RCE 回显利用 内存马注入
 - [silentEAG/java-patch](https://github.com/silentEAG/java-patch) - awd/awdp 小工具，使用 javassist 对 jar 包进行 patch
 - [lsieun/learn-java-asm](https://github.com/lsieun/learn-java-asm) - :bug: Java ASM
 - [baidu-security/openrasp-testcases](https://github.com/baidu-security/openrasp-testcases) - OpenRASP 漏洞测试环境
 - [GamerGirlandCo/xposed-clipboard-whitelist](https://github.com/GamerGirlandCo/xposed-clipboard-whitelist) - an xposed/lsposed module that allows for background clipboard monitoring on android 10+
-- [4ra1n/code-encryptor](https://github.com/4ra1n/code-encryptor) - 使用JNI加密字节码，通过JVMTI解密字节码以保护代码，支持自定义包名和密钥，使用魔法禁止黑客dump字节码
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [MountCloud/BehinderClientSource](https://github.com/MountCloud/BehinderClientSource) - ❄️冰蝎客户端源码-V4.0.6🔞
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
