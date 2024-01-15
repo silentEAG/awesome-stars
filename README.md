@@ -58,6 +58,7 @@
 
 ## C 
 
+- [JuliaPoo/Artfuscator](https://github.com/JuliaPoo/Artfuscator) - A C compiler targeting an artistically pleasing nightmare for reverse engineers
 - [helloexp/0day](https://github.com/helloexp/0day) - 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新
 - [gloxec/CrossC2](https://github.com/gloxec/CrossC2) - generate CobaltStrike's cross-platform payload
 - [BUPT-OS/RROS](https://github.com/BUPT-OS/RROS) - RROS is a dual-kernel OS for satellites or other scenarios that need both real-time and general-purpose abilities.  RROS = RTOS (Rust) + Linux (C).
@@ -263,7 +264,7 @@
 - [luelueking/Bypass_JVM_Verifier](https://github.com/luelueking/Bypass_JVM_Verifier) - Bypass JVM Class ByteCode Verifier , 对抗反编译器
 - [veo/vagent](https://github.com/veo/vagent) - 多功能 java agent 内存马
 - [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，自定义SQL查询
-- [qi4L/JYso](https://github.com/qi4L/JYso) - It can be either a JNDIExploit or a ysoserial. JYso是一个可以用于 jndi 注入攻击和生成反序列化数据流的工具。
+- [qi4L/JYso](https://github.com/qi4L/JYso) - It can be either a JNDIExploit or a ysoserial.
 - [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ &lt; 5.18.3 RCE 回显利用 内存马注入
 - [silentEAG/java-patch](https://github.com/silentEAG/java-patch) - awd/awdp 小工具，使用 javassist 对 jar 包进行 patch
 - [lsieun/learn-java-asm](https://github.com/lsieun/learn-java-asm) - :bug: Java ASM
