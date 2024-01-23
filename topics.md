@@ -1082,7 +1082,7 @@
 - [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project
 - [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
 - [Ne0nd0g/merlin-agent](https://github.com/Ne0nd0g/merlin-agent) - Post-exploitation agent for Merlin
-- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
+- [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [SecurityAnalysts01/ShellcodeLoader](https://github.com/SecurityAnalysts01/ShellcodeLoader) - Windows通用免杀shellcode生成器，能够绕过Microsoft Defender、360、火绒、Panda等杀软的查杀。
 - [i0gan/pwn_waf](https://github.com/i0gan/pwn_waf) - This is a simple network firewall for pwn challenges of ctf awd competition, light and simple code.There is no dependence, the log format is clear with the hexadecimal payload string and original stri
 - [4ra1n/code-encryptor](https://github.com/4ra1n/code-encryptor) - 使用JNI加密字节码，通过JVMTI解密字节码以保护代码，支持自定义包名和密钥，使用魔法禁止黑客dump字节码
