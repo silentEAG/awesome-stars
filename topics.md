@@ -161,6 +161,7 @@
 - [vue](#vue)
 - [web](#web)
 - [web-components](#web-components)
+- [web-development](#web-development)
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
@@ -998,6 +999,7 @@
 
 ## others 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [JANlittle/IDARustHelper](https://github.com/JANlittle/IDARustHelper) - 
 - [P001water/yuze](https://github.com/P001water/yuze) - A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式
@@ -1042,7 +1044,7 @@
 - [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
 - [luelueking/Bypass_JVM_Verifier](https://github.com/luelueking/Bypass_JVM_Verifier) - Bypass JVM Class ByteCode Verifier , 对抗反编译器
 - [WKL-Sec/dcomhijack](https://github.com/WKL-Sec/dcomhijack) - Lateral Movement Using DCOM and DLL Hijacking
-- [cloud-native-security-news/cloud-native-security-news](https://github.com/cloud-native-security-news/cloud-native-security-news) - 
+- [cloud-native-security-news/cloud-native-security-news](https://github.com/cloud-native-security-news/cloud-native-security-news) - Cloud Native Security News
 - [jmpoep/vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) - 
 - [bluss/scopeguard](https://github.com/bluss/scopeguard) - Rust crate for a convenient RAII scope guard.
 - [skelsec/pypykatz](https://github.com/skelsec/pypykatz) - Mimikatz implementation in pure Python
@@ -1345,7 +1347,7 @@
 ## p2p 
 
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
-- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Enhance your app with seamless collaboration and effortless time-travel features
+- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
 - [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [lbl8603/vnt](https://github.com/lbl8603/vnt) - A virtual network tool (or VPN),简便高效的异地组网、内网穿透工具
@@ -1879,6 +1881,10 @@
 ## web-components 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+
+## web-development 
+
+- [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 
 ## webpack 
 
