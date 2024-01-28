@@ -339,7 +339,6 @@
 
 ## Kotlin 
 
-- [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 ## LLVM 
