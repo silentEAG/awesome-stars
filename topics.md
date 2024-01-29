@@ -432,6 +432,7 @@
 - [k8gege/K8tools](https://github.com/k8gege/K8tools) - K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week!
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
@@ -993,6 +994,7 @@
 
 ## others 
 
+- [S1ckB0y1337/Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet) - Some notes and examples for cobalt strike's functionality
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [JANlittle/IDARustHelper](https://github.com/JANlittle/IDARustHelper) - 
@@ -1282,7 +1284,6 @@
 - [vgvassilev/cling](https://github.com/vgvassilev/cling) - The interactive C++ interpreter Cling
 - [reeceyng/v2ray-agent](https://github.com/reeceyng/v2ray-agent) - 【纯净版】原八合一共存脚本，去除广告等推广信息，支持xtls-rprx-vision
 - [Ogeon/palette](https://github.com/Ogeon/palette) - A Rust library for linear color calculations and conversion
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week!
 - [capt-meelo/laZzzy](https://github.com/capt-meelo/laZzzy) - laZzzy is a shellcode loader, developed using different open-source libraries, that demonstrates different execution techniques.
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor) - A collection of out-of-tree LLVM passes for teaching and learning
@@ -1604,6 +1605,7 @@
 - [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week!
 - [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, 
 - [postrequest/link](https://github.com/postrequest/link) - link is a command and control framework written in rust
 - [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust.
