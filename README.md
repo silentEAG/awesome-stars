@@ -58,7 +58,7 @@
 
 ## C 
 
-- [P001water/yuze](https://github.com/P001water/yuze) - A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式
+- [P001water/yuze](https://github.com/P001water/yuze) - A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式，支持跨平台使用
 - [WKL-Sec/HiddenDesktop](https://github.com/WKL-Sec/HiddenDesktop) - HVNC for Cobalt Strike
 - [0xcpu/WinAltSyscallHandler](https://github.com/0xcpu/WinAltSyscallHandler) - Some research on AltSystemCallHandlers functionality in Windows 10 20H1 18999
 - [JuliaPoo/Artfuscator](https://github.com/JuliaPoo/Artfuscator) - A C compiler targeting an artistically pleasing nightmare for reverse engineers
