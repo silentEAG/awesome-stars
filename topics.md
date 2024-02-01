@@ -1000,7 +1000,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [JANlittle/IDARustHelper](https://github.com/JANlittle/IDARustHelper) - 
-- [P001water/yuze](https://github.com/P001water/yuze) - A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式
+- [P001water/yuze](https://github.com/P001water/yuze) - A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式，支持跨平台使用
 - [solana-labs/rbpf](https://github.com/solana-labs/rbpf) - Rust virtual machine and JIT compiler for eBPF programs
 - [charonlight/NacosExploitGUI](https://github.com/charonlight/NacosExploitGUI) - Nacos漏洞综合利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用
 - [icewolf-sec/PerlinPuzzle-Webshell-PHP](https://github.com/icewolf-sec/PerlinPuzzle-Webshell-PHP) - 使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀
