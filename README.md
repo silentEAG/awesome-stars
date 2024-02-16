@@ -578,6 +578,7 @@
 
 ## Rust 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina) - A system information frontend with an emphasis on performance.
 - [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment
 - [mira-screen-share/sharer](https://github.com/mira-screen-share/sharer) - A screen-sharing / remote collaboration software written in Rust
