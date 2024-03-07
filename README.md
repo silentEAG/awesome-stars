@@ -396,6 +396,7 @@
 
 ## Others 
 
+- [masatokinugawa/filterbypass](https://github.com/masatokinugawa/filterbypass) - Browser's XSS Filter Bypass Cheat Sheet
 - [jamesmunns/awesome-rust-streaming](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of Rust Language streamers
 - [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
 - [ByteSnipers/awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
@@ -607,6 +608,7 @@
 
 ## Rust 
 
+- [veeso/pavao](https://github.com/veeso/pavao) - A Rust client library for SMB 🦚
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [purpleprotocol/mimalloc_rust](https://github.com/purpleprotocol/mimalloc_rust) - A Rust wrapper over Microsoft's MiMalloc memory allocator
 - [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust. Developed by Surface.
