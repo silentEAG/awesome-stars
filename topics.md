@@ -1054,6 +1054,7 @@
 
 ## others 
 
+- [veeso/pavao](https://github.com/veeso/pavao) - A Rust client library for SMB 🦚
 - [S3cur3Th1sSh1t/PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - 
 - [MultSec/MultCheck](https://github.com/MultSec/MultCheck) - Identifies bad bytes from static analysis with any Anti-Virus scanner.
 - [Velocidex/Linpmem](https://github.com/Velocidex/Linpmem) - Linpmem is a linux memory acquisition tool
@@ -1785,6 +1786,7 @@
 
 ## security 
 
+- [masatokinugawa/filterbypass](https://github.com/masatokinugawa/filterbypass) - Browser's XSS Filter Bypass Cheat Sheet
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) - Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
