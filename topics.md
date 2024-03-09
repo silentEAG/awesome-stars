@@ -1073,7 +1073,7 @@
 - [luojia65/plugin-system-example](https://github.com/luojia65/plugin-system-example) - Example design of executable with `dylib`-based runtime plugin system in Rust, `libloading` used
 - [slowmist/solana-smart-contract-security-best-practices](https://github.com/slowmist/solana-smart-contract-security-best-practices) - 
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
-- [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) - 一款支持多人协作的渗透测试图形化框架、支持lua插件扩展、域前置/CDN上线、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能
+- [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) - 一款支持多人协作的渗透测试图形化框架、支持lua插件扩展、域前置/CDN上线、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能，插件编写文档：https://github.com/INotGreen/Xiebro-Plugins
 - [itaymigdal/Nimbo-C2](https://github.com/itaymigdal/Nimbo-C2) - Nimbo-C2 is yet another (simple and lightweight) C2 framework
 - [LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - [Zerx0r/rs_ppid_spoof_hollow](https://github.com/Zerx0r/rs_ppid_spoof_hollow) - a PoC for combining PPID spoofing with process hollowing shellcode injection
