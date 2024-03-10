@@ -201,7 +201,7 @@
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [lal0ne/vulnerability](https://github.com/lal0ne/vulnerability) - 收集、整理、修改互联网上公开的漏洞POC
 - [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) - Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
-- [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) - 一款支持多人协作的渗透测试图形化框架、支持lua插件扩展、域前置/CDN上线、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能，插件编写文档：https://github.com/INotGreen/Xiebro-Plugins
+- [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) - 一款支持多人协作的渗透测试图形化框架、支持lua插件扩展、域前置/CDN上线、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载等功能，插件编写文档：https://github.com/INotGreen/Xiebro-Plugins
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [Metarget/cloud-native-security-book](https://github.com/Metarget/cloud-native-security-book) - 《云原生安全：攻防实践与体系构建》资料仓库
 - [Enelg52/OffensiveGo](https://github.com/Enelg52/OffensiveGo) - Golang weaponization for red teamers.
@@ -452,7 +452,7 @@
 - [Yuki-Master/Japanese-R18-anime-download](https://github.com/Yuki-Master/Japanese-R18-anime-download) - 这是日本里番合集，磁力下载地区
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [dyingsu/nolsp](https://github.com/dyingsu/nolsp) - NoLsp_fix_WSL2_参考的对象类型不支持尝试的操作.exe 下载此软件(原始链接_www.proxifier.com/tmp/Test20200228/NoLsp.exe) 管理员身份运行CMD输入：  NoLsp.exe C:\windows\system32\wsl.exe  请自行注意NoLsp.exe程序的位置，以及你的wsl.exe位置。  产生原因和解决方法分析：  代理软件
-- [veo/vshell](https://github.com/veo/vshell) - vshell 是一款go编写的主机管理工具 vshell is a Remote Administation tool written in Go (C2)
+- [veo/vshell](https://github.com/veo/vshell) - vshell 是一款安全对抗模拟、红队工具。提供隧道代理和隐蔽通道，模拟长期潜伏攻击者的策略和技术
 - [RicoloveFeng/SPA-Freestyle-Guidance](https://github.com/RicoloveFeng/SPA-Freestyle-Guidance) - 带你畅游《软件分析》
 - [gobysec/Goby](https://github.com/gobysec/Goby) - Attack surface mapping
 - [Awrrays/Pentest-Tips](https://github.com/Awrrays/Pentest-Tips) - RedTeam Pentesting 学习资源，工具
@@ -935,7 +935,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [chezhe/aleph-desktop](https://github.com/chezhe/aleph-desktop) - Aleph is a cross-platform RSS Reader & Podcast client, built with Tauri
 
