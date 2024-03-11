@@ -1490,6 +1490,7 @@
 
 ## php 
 
+- [1337r0j4n/php-backdoors](https://github.com/1337r0j4n/php-backdoors) - php backdoors | php webshells ( collection )
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [phith0n/phpsrc-debug-docker](https://github.com/phith0n/phpsrc-debug-docker) - Debug environment for PHP inside a Docker container. Document waiting to be completed.
 - [pangudashu/php7-internal](https://github.com/pangudashu/php7-internal) - PHP7内核剖析
@@ -1524,7 +1525,7 @@
 - [NiiightmareXD/windows-capture](https://github.com/NiiightmareXD/windows-capture) - Fastest Windows Screen Capture Library For Rust And Python 🔥
 - [nnsee/fileless-elf-exec](https://github.com/nnsee/fileless-elf-exec) - Execute ELF files without dropping them on disk
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
-- [Marven11/Fenjing](https://github.com/Marven11/Fenjing) - 专为CTF设计的Jinja2 SSTI全自动绕WAF脚本 | A Jinja2 SSTI cracker for bypassing WAF, design for CTF
+- [Marven11/Fenjing](https://github.com/Marven11/Fenjing) - 专为CTF设计的Jinja2 SSTI全自动绕WAF脚本 | A Jinja2 SSTI cracker for bypassing WAF, designed for CTF
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A tool to generate interactive call graphs for multiple languages
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [renpy/renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
@@ -1812,7 +1813,7 @@
 - [Ascotbe/HackerMind](https://github.com/Ascotbe/HackerMind) - 各种安全相关思维导图整理收集。渗透步骤，web安全，CTF，业务安全，人工智能，区块链安全，数据安全，安全开发，无线安全，社会工程学，二进制安全，移动安全，红蓝对抗，运维安全，风控安全，linux安全
 - [chainreactors/gogo](https://github.com/chainreactors/gogo) - 面向红队的, 高度可控可拓展的自动化引擎
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
-- [Marven11/Fenjing](https://github.com/Marven11/Fenjing) - 专为CTF设计的Jinja2 SSTI全自动绕WAF脚本 | A Jinja2 SSTI cracker for bypassing WAF, design for CTF
+- [Marven11/Fenjing](https://github.com/Marven11/Fenjing) - 专为CTF设计的Jinja2 SSTI全自动绕WAF脚本 | A Jinja2 SSTI cracker for bypassing WAF, designed for CTF
 - [Vu1nT0tal/yarb](https://github.com/Vu1nT0tal/yarb) - 方便获取每日安全资讯的爬虫和推送程序
 - [yaklang/yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
@@ -2010,6 +2011,7 @@
 
 ## web 
 
+- [1337r0j4n/php-backdoors](https://github.com/1337r0j4n/php-backdoors) - php backdoors | php webshells ( collection )
 - [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
