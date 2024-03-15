@@ -196,6 +196,7 @@
 
 ## Go 
 
+- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [MultSec/MultCheck](https://github.com/MultSec/MultCheck) - Identifies bad bytes from static analysis with any Anti-Virus scanner.
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
@@ -274,7 +275,6 @@
 - [KingBridgeSS/wiki](https://github.com/KingBridgeSS/wiki) - 
 - [r3kapig/writeup](https://github.com/r3kapig/writeup) - CTF challenges writeup
 - [dicegang/dicectf-2022-challenges](https://github.com/dicegang/dicectf-2022-challenges) - All challenges from DiceCTF 2022
-- [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
 - [thewhitepaper/thewhitepaper.github.io](https://github.com/thewhitepaper/thewhitepaper.github.io) - Voice for our freedom of speech
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -316,6 +316,7 @@
 - [nneonneo/ghidra-wasm-plugin](https://github.com/nneonneo/ghidra-wasm-plugin) - Ghidra Wasm plugin with disassembly and decompilation support
 - [zema1/suo5](https://github.com/zema1/suo5) - 一款高性能 HTTP 代理隧道工具 | A high-performance http proxy tunneling tool
 - [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马/Webshell，一种新型内存马/WebShell技术
+- [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
 - [EkiXu/marshalexp](https://github.com/EkiXu/marshalexp) - 
 - [L-codes/Neo-reGeorg](https://github.com/L-codes/Neo-reGeorg) - Neo-reGeorg is a project that seeks to aggressively refactor reGeorg
 - [Litch1-v/ysoserial](https://github.com/Litch1-v/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
@@ -402,7 +403,7 @@
 - [ByteSnipers/awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
 - [slowmist/solana-smart-contract-security-best-practices](https://github.com/slowmist/solana-smart-contract-security-best-practices) - 
 - [sts10/rust-command-line-utilities](https://github.com/sts10/rust-command-line-utilities) - A curated list of command-line utilities written in Rust
-- [wy876/POC](https://github.com/wy876/POC) - 2023HW漏洞整理，收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了300多个poc/exp，长期更新。
+- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了300多个poc/exp，长期更新。
 - [chaitin/Real-World-CTF-6th-Challenges](https://github.com/chaitin/Real-World-CTF-6th-Challenges) - attachments and (some) writeups/source code for RWCTF 6th
 - [S1ckB0y1337/Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet) - Some notes and examples for cobalt strike's functionality
 - [JacyCui/static-analysis](https://github.com/JacyCui/static-analysis) - 静态分析基础教程
@@ -609,6 +610,7 @@
 
 ## Rust 
 
+- [phra/rustbuster](https://github.com/phra/rustbuster) - A Comprehensive Web Fuzzer and Content Discovery Tool
 - [jerryshell/ac-esp](https://github.com/jerryshell/ac-esp) - AssaultCube ESP DLL with Rust 🦀
 - [microsoft/elfcore](https://github.com/microsoft/elfcore) - A Rust crate for creating memory dumps of running processes on Linux
 - [veeso/pavao](https://github.com/veeso/pavao) - A Rust client library for SMB 🦚
@@ -625,7 +627,7 @@
 - [luojia65/plugin-system-example](https://github.com/luojia65/plugin-system-example) - Example design of executable with `dylib`-based runtime plugin system in Rust, `libloading` used
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems
-- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language.
+- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language. (In Construction)
 - [Zerx0r/rs_ppid_spoof_hollow](https://github.com/Zerx0r/rs_ppid_spoof_hollow) - a PoC for combining PPID spoofing with process hollowing shellcode injection
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina) - A system information frontend with an emphasis on performance.
