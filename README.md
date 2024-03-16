@@ -46,8 +46,8 @@
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [V](#v)
+- [VBA](#vba)
 - [VBScript](#vbscript)
-- [Visual Basic](#visual-basic)
 - [Vue](#vue)
 - [XSLT](#xslt)
 
@@ -512,6 +512,7 @@
 
 ## Python 
 
+- [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [bata24/gef](https://github.com/bata24/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
@@ -816,7 +817,7 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [WirefishInc/wirefish](https://github.com/WirefishInc/wirefish) - A blazingly fast multiplatform packet sniffer built with Tauri!
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [mttaggart/OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) - Notion as a platform for offensive operations
 - [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -951,13 +952,13 @@
 
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
+## VBA 
+
+- [mdsecactivebreach/SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework
+
 ## VBScript 
 
 - [rootclay/WMIHACKER](https://github.com/rootclay/WMIHACKER) - A Bypass Anti-virus Software Lateral Movement Command Execution Tool
-
-## Visual Basic 
-
-- [mdsecactivebreach/SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework
 
 ## Vue 
 
