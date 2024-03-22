@@ -49,6 +49,7 @@
 - [VBA](#vba)
 - [VBScript](#vbscript)
 - [Vue](#vue)
+- [WebAssembly](#webassembly)
 - [XSLT](#xslt)
 
 ## Assembly 
@@ -64,6 +65,7 @@
 
 ## C 
 
+- [realoriginal/grimreaper](https://github.com/realoriginal/grimreaper) - A improved memory obfuscation primitive using a combination of special and 'normal' Asynchronous Procedural Calls
 - [Velocidex/Linpmem](https://github.com/Velocidex/Linpmem) - Linpmem is a linux memory acquisition tool
 - [VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls](https://github.com/VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls) - The following two code samples can be used to understand the difference between direct syscalls and indirect syscalls
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -618,6 +620,7 @@
 
 ## Rust 
 
+- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) interpreter.
 - [metaplex-foundation/metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) - Smart contracts maintained by the Metaplex team
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [Litch1-v/sigma-rs](https://github.com/Litch1-v/sigma-rs) - 
@@ -979,6 +982,10 @@
 - [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
 - [Zerx0r/Kage](https://github.com/Zerx0r/Kage) - Kage is Graphical User Interface for Metasploit Meterpreter and Session Handler
 - [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
+
+## WebAssembly 
+
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 
 ## XSLT 
 
