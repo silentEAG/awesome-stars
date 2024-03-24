@@ -319,7 +319,7 @@
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A tool to generate interactive call graphs for multiple languages
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
-- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library that makes it easy to add wireless connectivity to your projects. With support for MacOS, iOS, Windows, and Linux, SimpleBLE has you covered no matter what
+- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, and Linux.
 - [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book) - A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level langu
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
@@ -390,7 +390,7 @@
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A tool to generate interactive call graphs for multiple languages
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
-- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library that makes it easy to add wireless connectivity to your projects. With support for MacOS, iOS, Windows, and Linux, SimpleBLE has you covered no matter what
+- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, and Linux.
 - [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book) - A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level langu
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 
@@ -631,6 +631,7 @@
 
 ## go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [pion/ice](https://github.com/pion/ice) - A Go implementation of ICE
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
@@ -645,6 +646,7 @@
 
 ## golang 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -789,7 +791,7 @@
 - [hookmaster/frida-all-in-one](https://github.com/hookmaster/frida-all-in-one) - 《FRIDA操作手册》by @hluwa @r0ysue
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
-- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library that makes it easy to add wireless connectivity to your projects. With support for MacOS, iOS, Windows, and Linux, SimpleBLE has you covered no matter what
+- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, and Linux.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## iot 
@@ -904,7 +906,7 @@
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier.
-- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library that makes it easy to add wireless connectivity to your projects. With support for MacOS, iOS, Windows, and Linux, SimpleBLE has you covered no matter what
+- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, and Linux.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [arget13/DDexec](https://github.com/arget13/DDexec) - A technique to run binaries filelessly and stealthily on Linux by "overwriting" the shell's process with another.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -945,7 +947,7 @@
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library that makes it easy to add wireless connectivity to your projects. With support for MacOS, iOS, Windows, and Linux, SimpleBLE has you covered no matter what
+- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, and Linux.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1075,6 +1077,7 @@
 
 ## others 
 
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API.
 - [p1d3er/port_reuse](https://github.com/p1d3er/port_reuse) - golang 实现的windows and linux 端口复用工具。
 - [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A
 - [realoriginal/grimreaper](https://github.com/realoriginal/grimreaper) - A improved memory obfuscation primitive using a combination of special and 'normal' Asynchronous Procedural Calls
@@ -1583,7 +1586,7 @@
 
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library that makes it easy to add wireless connectivity to your projects. With support for MacOS, iOS, Windows, and Linux, SimpleBLE has you covered no matter what
+- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, and Linux.
 
 ## rails 
 
@@ -1778,7 +1781,7 @@
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
 - [lbl8603/vnt](https://github.com/lbl8603/vnt) - A virtual network tool (or VPN),简便高效的异地组网、内网穿透工具
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
-- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library that makes it easy to add wireless connectivity to your projects. With support for MacOS, iOS, Windows, and Linux, SimpleBLE has you covered no matter what
+- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, and Linux.
 - [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
@@ -2125,7 +2128,7 @@
 - [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library that makes it easy to add wireless connectivity to your projects. With support for MacOS, iOS, Windows, and Linux, SimpleBLE has you covered no matter what
+- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, and Linux.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
