@@ -65,6 +65,7 @@
 
 ## C 
 
+- [SolomonSklash/SleepyCrypt](https://github.com/SolomonSklash/SleepyCrypt) - A shellcode function to encrypt a running process image when sleeping.
 - [Tw1sm/SQL-BOF](https://github.com/Tw1sm/SQL-BOF) - Library of BOFs to interact with SQL servers
 - [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A
 - [realoriginal/grimreaper](https://github.com/realoriginal/grimreaper) - A improved memory obfuscation primitive using a combination of special and 'normal' Asynchronous Procedural Calls
@@ -407,6 +408,7 @@
 
 ## Others 
 
+- [iknowjason/Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) - Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.
 - [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
 - [masatokinugawa/filterbypass](https://github.com/masatokinugawa/filterbypass) - Browser's XSS Filter Bypass Cheat Sheet
 - [jamesmunns/awesome-rust-streaming](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of Rust Language streamers
@@ -626,6 +628,7 @@
 
 ## Rust 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [FuelLabs/sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
