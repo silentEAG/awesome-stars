@@ -205,6 +205,7 @@
 
 ## Go 
 
+- [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) - An AWS Lambda powered HTTP/SOCKS web proxy
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
 - [crabkun/switcher](https://github.com/crabkun/switcher) - 一个多功能的端口转发/端口复用工具，支持转发本地或远程地址的端口，支持正则表达式转发（实现端口复用）。
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
