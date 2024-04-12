@@ -535,6 +535,7 @@
 
 ## Python 
 
+- [icyguider/Shhhloader](https://github.com/icyguider/Shhhloader) - Syscall Shellcode Loader (Work in Progress)
 - [ccyanxyz/uniswap-arbitrage-analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis) - Uniswap arbitrage problem analysis
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
@@ -637,6 +638,9 @@
 
 ## Rust 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+- [rusticata/kerberos-parser](https://github.com/rusticata/kerberos-parser) - Kerberos parser written in rust with nom
+- [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
 - [metaworm/luac-parser-rs](https://github.com/metaworm/luac-parser-rs) - lua bytecode parser written in Rust using nom, part of metaworm's lua decompiler, support lua51/lua52/lua53/lua54/luajit/luau https://luadec.metaworm.site/
 - [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [Nariod/RustPacker](https://github.com/Nariod/RustPacker) - Template-based shellcode packer written in Rust, with indirect syscall support. Made with &lt;3 for pentesters.
@@ -954,6 +958,7 @@
 
 ## TypeScript 
 
+- [ba-archive/blue-archive](https://github.com/ba-archive/blue-archive) - 碧蓝档案的档案。我们期待着更多老师的加入，欢迎通过邮件、B站私信或 discussion 联系我们
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [EpicsDAO/solv](https://github.com/EpicsDAO/solv) - 🔥 solv - CLI Tool for Managing Solana Validators
 - [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
