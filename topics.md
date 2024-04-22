@@ -1126,6 +1126,8 @@
 
 ## others 
 
+- [kotauskas/interprocess](https://github.com/kotauskas/interprocess) - Multifunctional cross-platform interprocess communication toolkit for Rust.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [mtth-bfft/adeleg](https://github.com/mtth-bfft/adeleg) - Active Directory delegation management tool
 - [icyguider/Nimcrypt2](https://github.com/icyguider/Nimcrypt2) - .NET, PE, & Raw Shellcode Packer/Loader Written in Nim
 - [fin3ss3g0d/evilgophish](https://github.com/fin3ss3g0d/evilgophish) - evilginx3 + gophish
