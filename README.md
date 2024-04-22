@@ -541,6 +541,7 @@
 
 ## Python 
 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [icyguider/Shhhloader](https://github.com/icyguider/Shhhloader) - Syscall Shellcode Loader (Work in Progress)
 - [ccyanxyz/uniswap-arbitrage-analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis) - Uniswap arbitrage problem analysis
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
@@ -644,6 +645,7 @@
 
 ## Rust 
 
+- [kotauskas/interprocess](https://github.com/kotauskas/interprocess) - Multifunctional cross-platform interprocess communication toolkit for Rust.
 - [mtth-bfft/adeleg](https://github.com/mtth-bfft/adeleg) - Active Directory delegation management tool
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [zer1t0/cerbero](https://github.com/zer1t0/cerbero) - Kerberos protocol attacker
