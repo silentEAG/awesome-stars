@@ -498,7 +498,7 @@
 - [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh) - 手撸解释器教程《Crafting Interpreters》中文翻译
 - [sajjadium/ctf-archives](https://github.com/sajjadium/ctf-archives) - CTF Archives: Collection of CTF Challenges.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) - 本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.
+- [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) - 本书已经正式出版，目前正预售，可在京东搜索《深入RUST标准库》即可。本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.
 - [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [safe6Sec/Fastjson](https://github.com/safe6Sec/Fastjson) - Fastjson姿势技巧集合
@@ -647,6 +647,7 @@
 
 ## Rust 
 
+- [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
 - [kotauskas/interprocess](https://github.com/kotauskas/interprocess) - Multifunctional cross-platform interprocess communication toolkit for Rust.
 - [mtth-bfft/adeleg](https://github.com/mtth-bfft/adeleg) - Active Directory delegation management tool
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
