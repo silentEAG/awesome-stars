@@ -1145,6 +1145,8 @@
 
 ## others 
 
+- [not-matthias/vmprotect-rs](https://github.com/not-matthias/vmprotect-rs) - Rust bindings for VMProtect.
+- [alexcrichton/ssh2-rs](https://github.com/alexcrichton/ssh2-rs) - Rust bindings for libssh2
 - [javaweb-sec/javaweb-sec](https://github.com/javaweb-sec/javaweb-sec) - 
 - [p1d3er/port_reuse](https://github.com/p1d3er/port_reuse) - golang 实现的windows and linux 端口复用工具。
 - [CCob/BOF.NET](https://github.com/CCob/BOF.NET) - A .NET Runtime for Cobalt Strike's Beacon Object Files
