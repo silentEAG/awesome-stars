@@ -1145,6 +1145,7 @@
 
 ## others 
 
+- [y1cunhui/uniswapV3-book-zh-cn](https://github.com/y1cunhui/uniswapV3-book-zh-cn) - uniswapV3-book中文翻译; Chinese translation
 - [evilcos/darkhandbook](https://github.com/evilcos/darkhandbook) - Update by evilcos, for DarkHandBook.io
 - [not-matthias/vmprotect-rs](https://github.com/not-matthias/vmprotect-rs) - Rust bindings for VMProtect.
 - [alexcrichton/ssh2-rs](https://github.com/alexcrichton/ssh2-rs) - Rust bindings for libssh2
