@@ -1150,6 +1150,7 @@
 
 ## others 
 
+- [ebalo55/awesome-offensive-rust](https://github.com/ebalo55/awesome-offensive-rust) - Curated list of projects, articles and more related to Offensive Security and Red Teaming. Completely written in Rust.
 - [kyren/piccolo](https://github.com/kyren/piccolo) - An experimental stackless Lua VM implemented in pure Rust
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [y1cunhui/uniswapV3-book-zh-cn](https://github.com/y1cunhui/uniswapV3-book-zh-cn) - uniswapV3-book中文翻译; Chinese translation
