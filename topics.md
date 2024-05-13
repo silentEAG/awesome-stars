@@ -1639,7 +1639,7 @@
 
 ## php 
 
-- [1337r0j4n/php-backdoors](https://github.com/1337r0j4n/php-backdoors) - php backdoors | php webshells ( collection )
+- [1337r0j4n/php-backdoors](https://github.com/1337r0j4n/php-backdoors) - php backdoors ( collection )
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [phith0n/phpsrc-debug-docker](https://github.com/phith0n/phpsrc-debug-docker) - Debug environment for PHP inside a Docker container. Document waiting to be completed.
 - [pangudashu/php7-internal](https://github.com/pangudashu/php7-internal) - PHP7内核剖析
@@ -2188,6 +2188,7 @@
 
 ## ubuntu 
 
+- [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwardi
 - [EpicsDAO/solv](https://github.com/EpicsDAO/solv) - 🔥 solv - CLI Tool for Managing Solana Validators
 
 ## unity 
@@ -2209,7 +2210,7 @@
 
 ## web 
 
-- [1337r0j4n/php-backdoors](https://github.com/1337r0j4n/php-backdoors) - php backdoors | php webshells ( collection )
+- [1337r0j4n/php-backdoors](https://github.com/1337r0j4n/php-backdoors) - php backdoors ( collection )
 - [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
