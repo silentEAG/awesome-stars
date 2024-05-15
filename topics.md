@@ -1127,6 +1127,7 @@
 
 ## open-source 
 
+- [AabyssZG/Open-Source-Information-Leakage](https://github.com/AabyssZG/Open-Source-Information-Leakage) - 开源项目信息泄露笔记
 - [EpicsDAO/solv](https://github.com/EpicsDAO/solv) - 🔥 solv - CLI Tool for Managing Solana Validators
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
@@ -1149,6 +1150,7 @@
 
 ## osint 
 
+- [AabyssZG/Open-Source-Information-Leakage](https://github.com/AabyssZG/Open-Source-Information-Leakage) - 开源项目信息泄露笔记
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
@@ -1344,7 +1346,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [SecurityAnalysts01/ShellcodeLoader](https://github.com/SecurityAnalysts01/ShellcodeLoader) - Windows通用免杀shellcode生成器，能够绕过Microsoft Defender、360、火绒、Panda等杀软的查杀。
 - [i0gan/pwn_waf](https://github.com/i0gan/pwn_waf) - This is a simple network firewall for pwn challenges of ctf awd competition, light and simple code.There is no dependence, the log format is clear with the hexadecimal payload string and original stri
-- [4ra1n/code-encryptor](https://github.com/4ra1n/code-encryptor) - 使用JNI加密字节码，通过JVMTI解密字节码以保护代码，支持自定义包名和密钥，使用魔法禁止黑客dump字节码
+- [4ra1n/code-encryptor](https://github.com/4ra1n/code-encryptor) - 该项目已集成到 https://github.com/jar-analyzer/jar-obfuscator 使用JNI加密字节码，通过JVMTI解密字节码以保护代码，支持自定义包名和密钥，使用魔法禁止黑客dump字节码
 - [91ac0m0/journally](https://github.com/91ac0m0/journally) - 
 - [project-sekai-ctf/sekaictf-2023](https://github.com/project-sekai-ctf/sekaictf-2023) - 🎵 Official source code and writeups for SekaiCTF 2023!
 - [ibaiw/2023Hvv](https://github.com/ibaiw/2023Hvv) - 2023 HVV情报速递~
@@ -1388,7 +1390,7 @@
 - [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🎨 This is the repo for vuepress-theme-reco 2.
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 - [ClassViewer/ClassViewer](https://github.com/ClassViewer/ClassViewer) - 
-- [4ra1n/jar-analyzer-cli](https://github.com/4ra1n/jar-analyzer-cli) - 本项目可以把一个或多个Jar包构建成数据库，用户连接数据库后通过SQL语句任意搜索需要的内容，例如类和方法信息，方法调用关系等
+- [jar-analyzer/jar-analyzer-v1-cli](https://github.com/jar-analyzer/jar-analyzer-v1-cli) - 本项目可以把一个或多个Jar包构建成数据库，用户连接数据库后通过SQL语句任意搜索需要的内容，例如类和方法信息，方法调用关系等
 - [ProbiusOfficial/SecToolKit](https://github.com/ProbiusOfficial/SecToolKit) - Cybersecurity tool repository / Wiki 收录常用 / 前沿 的CTF和渗透工具以及其 官方/使用 文档，致力于让每个工具都能发挥作用ww，不管你是萌新还是领域从业者希望你都能在这里找到适合你的工具或者获得一定的启发。
 - [Uniswap/v4-core](https://github.com/Uniswap/v4-core) - 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4
 - [Sndav/coffee](https://github.com/Sndav/coffee) - Coffee is a loader for ELF (Executable and Linkable Format) object files written in Rust. Coffee是一个用Rust语言编写的ELF object文件的加载器
@@ -1972,6 +1974,7 @@
 
 ## security 
 
+- [AabyssZG/Open-Source-Information-Leakage](https://github.com/AabyssZG/Open-Source-Information-Leakage) - 开源项目信息泄露笔记
 - [Cyfrin/security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) - The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [TonyPhipps/Meerkat](https://github.com/TonyPhipps/Meerkat) - A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.
