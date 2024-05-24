@@ -66,6 +66,7 @@
 
 ## C 
 
+- [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - A modern 64-bit position independent implant template
 - [RtlDallas/OdinLdr](https://github.com/RtlDallas/OdinLdr) - Cobaltstrike UDRL with memory evasion
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [CCob/BOF.NET](https://github.com/CCob/BOF.NET) - A .NET Runtime for Cobalt Strike's Beacon Object Files
@@ -672,6 +673,7 @@
 
 ## Rust 
 
+- [Mufanc/DexHunter](https://github.com/Mufanc/DexHunter) - 基于内存探测的简易脱壳小工具
 - [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux)
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
