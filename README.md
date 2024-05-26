@@ -51,6 +51,7 @@
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [XSLT](#xslt)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -600,7 +601,7 @@
 - [AabyssZG/AWD-Guide](https://github.com/AabyssZG/AWD-Guide) - 从零学习AWD比赛指导手册以及AWD脚本整理
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
-- [QQBackup/qq-win-db-key](https://github.com/QQBackup/qq-win-db-key) - QQNT / Windows QQ 聊天数据库解密
+- [QQBackup/qq-win-db-key](https://github.com/QQBackup/qq-win-db-key) - 全平台 QQ 聊天数据库解密
 - [project-sekai-ctf/sekaictf-2023](https://github.com/project-sekai-ctf/sekaictf-2023) - 🎵 Official source code and writeups for SekaiCTF 2023!
 - [chainflag/solidctf](https://github.com/chainflag/solidctf) - SolidCTF is an infrastructure solution that simplifies the build of Solidity CTF challenges.
 - [W01fh4cker/VcenterKit](https://github.com/W01fh4cker/VcenterKit) - Vcenter综合渗透利用工具包 | Vcenter Comprehensive Penetration and Exploitation Toolkit
@@ -673,6 +674,8 @@
 
 ## Rust 
 
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [Mufanc/DexHunter](https://github.com/Mufanc/DexHunter) - 基于内存探测的简易脱壳小工具
 - [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux)
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
@@ -1088,6 +1091,10 @@
 
 - [TideSec/BypassAntiVirus](https://github.com/TideSec/BypassAntiVirus) - 远控免杀系列文章及配套工具，汇总测试了互联网上的几十种免杀工具、113种白名单免杀方式、8种代码编译免杀、若干免杀实战技术，并对免杀效果进行了一一测试，为远控的免杀和杀软对抗免杀提供参考。
 - [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
+
+## Zig 
+
+- [The-Z-Labs/bof-launcher](https://github.com/The-Z-Labs/bof-launcher) - Beacon Object File (BOF) launcher - library for executing BOF files in C/C++/Zig applications
 
 
 ## License
