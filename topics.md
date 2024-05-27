@@ -1175,6 +1175,9 @@
 
 ## others 
 
+- [Eternaldeath/BlockchainHome](https://github.com/Eternaldeath/BlockchainHome) - 构建区块链学习的知识体系合集，汇聚各种区块链资源
+- [Fankouzu/my-uniswap-v2-core](https://github.com/Fankouzu/my-uniswap-v2-core) - Uniswap V2 中文注释,中文文档
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - A modern 64-bit position independent implant template
 - [EkiXu/WAFManis](https://github.com/EkiXu/WAFManis) - 
 - [haoami/kkfineblog](https://github.com/haoami/kkfineblog) - 
