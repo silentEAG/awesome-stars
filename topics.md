@@ -91,6 +91,7 @@
 - [javascript](#javascript)
 - [js](#js)
 - [json](#json)
+- [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [learning](#learning)
@@ -379,6 +380,7 @@
 
 ## clojure 
 
+- [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## code 
@@ -541,7 +543,7 @@
 - [mrjackwills/havn](https://github.com/mrjackwills/havn) - A fast configurable port scanner with reasonable defaults
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 A free WAF that is sufficiently simple, effective, and powerful. Utilizing industry-leading semantic engine detection technology, it opera
-- [Threekiii/Vulnerability-Wiki](https://github.com/Threekiii/Vulnerability-Wiki) - 基于 docsify 部署，目前漏洞数量 1000+
+- [Threekiii/Vulnerability-Wiki](https://github.com/Threekiii/Vulnerability-Wiki) - 基于 docsify 快速部署 Awesome-POC 中的漏洞文档
 - [Vu1nT0tal/IoT-vulhub](https://github.com/Vu1nT0tal/IoT-vulhub) - IoT固件漏洞复现环境
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier.
 - [SPuerBRead/shovel](https://github.com/SPuerBRead/shovel) - Docker容器逃逸工具（Docker Escape Tools）
@@ -868,6 +870,7 @@
 
 ## java 
 
+- [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [qi4L/JYso](https://github.com/qi4L/JYso) - It can be either a JNDIExploit or a ysoserial.
@@ -926,6 +929,10 @@
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD.
 - [Marcono1234/struson](https://github.com/Marcono1234/struson) - Streaming JSON reader and writer written in Rust
+
+## kotlin 
+
+- [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
 
 ## kubernetes 
 
@@ -1175,6 +1182,7 @@
 
 ## others 
 
+- [Mayter/mssql-command-tool](https://github.com/Mayter/mssql-command-tool) - xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作，上传，job等相应操作。
 - [Eternaldeath/BlockchainHome](https://github.com/Eternaldeath/BlockchainHome) - 构建区块链学习的知识体系合集，汇聚各种区块链资源
 - [Fankouzu/my-uniswap-v2-core](https://github.com/Fankouzu/my-uniswap-v2-core) - Uniswap V2 中文注释,中文文档
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
@@ -1365,7 +1373,7 @@
 - [tdragon6/Supershell](https://github.com/tdragon6/Supershell) - Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell
 - [jamesmth/llvm-project](https://github.com/jamesmth/llvm-project) - Fork of LLVM for LTO pass plugins support.
 - [GamerGirlandCo/xposed-clipboard-whitelist](https://github.com/GamerGirlandCo/xposed-clipboard-whitelist) - an xposed/lsposed module that allows for background clipboard monitoring on android 10+
-- [Threekiii/Awesome-POC](https://github.com/Threekiii/Awesome-POC) - 一个漏洞POC知识库
+- [Threekiii/Awesome-POC](https://github.com/Threekiii/Awesome-POC) - 一个漏洞POC知识库 目前数量 1000+
 - [Ivan1ee/NET-Deserialize](https://github.com/Ivan1ee/NET-Deserialize) - 总结了20+.Net反序列化文章，持续更新
 - [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
 - [leesh3288/CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) - PoC for CVE-2023-4911
@@ -2014,6 +2022,7 @@
 
 ## security 
 
+- [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
 - [Aabyss-Team/ARL](https://github.com/Aabyss-Team/ARL) - ARL官方仓库备份项目：ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [AabyssZG/Open-Source-Information-Leakage](https://github.com/AabyssZG/Open-Source-Information-Leakage) - 开源项目信息泄露笔记
 - [Cyfrin/security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) - The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.
@@ -2296,6 +2305,7 @@
 
 ## windows 
 
+- [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
