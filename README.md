@@ -258,7 +258,7 @@
 - [murphysecurity/murphysec](https://github.com/murphysecurity/murphysec) - An open source tool focused on software supply chain security. 墨菲安全专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。
 - [KingBridgeSS/serveboy](https://github.com/KingBridgeSS/serveboy) - ServeBoy（简称SB）是一个用go语言编写的搭建简单的http文件服务命令行工具，支持目录展示，文件上传。目前支持windows/linux平台。
 - [yunxu1/dnsub](https://github.com/yunxu1/dnsub) - dnsub一款好用且强大的子域名扫描工具
-- [selinuxG/Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保模拟定级、自动化运维、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具
+- [selinuxG/Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保模拟定级、自动化运维、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具、键盘记录器
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [chunzhennn/separa](https://github.com/chunzhennn/separa) - 
@@ -678,6 +678,9 @@
 
 ## Rust 
 
+- [Kharos102/ReadWriteDriverSample](https://github.com/Kharos102/ReadWriteDriverSample) - 
+- [0vercl0k/snapshot](https://github.com/0vercl0k/snapshot) - WinDbg extension written in Rust to dump the CPU / memory state of a running VM
+- [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
