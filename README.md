@@ -67,6 +67,7 @@
 
 ## C 
 
+- [trustedsec/CS-Remote-OPs-BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF) - 
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - A modern 64-bit position independent implant template
 - [RtlDallas/OdinLdr](https://github.com/RtlDallas/OdinLdr) - Cobaltstrike UDRL with memory evasion
@@ -398,7 +399,7 @@
 
 ## Jupyter Notebook 
 
-- [WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk) - 零知识证明入门教程。
+- [WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk) - 零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP
 - [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - [🔥updating ...] AI 自动量化交易机器人 AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
@@ -456,7 +457,7 @@
 - [ByteSnipers/awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
 - [slowmist/solana-smart-contract-security-best-practices](https://github.com/slowmist/solana-smart-contract-security-best-practices) - 
 - [sts10/rust-command-line-utilities](https://github.com/sts10/rust-command-line-utilities) - A curated list of command-line utilities written in Rust
-- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了500多个poc/exp，长期更新。
+- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了600多个poc/exp，长期更新。
 - [chaitin/Real-World-CTF-6th-Challenges](https://github.com/chaitin/Real-World-CTF-6th-Challenges) - attachments and (some) writeups/source code for RWCTF 6th
 - [S1ckB0y1337/Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet) - Some notes and examples for cobalt strike's functionality
 - [JacyCui/static-analysis](https://github.com/JacyCui/static-analysis) - 静态分析基础教程
