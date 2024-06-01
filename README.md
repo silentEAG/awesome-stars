@@ -317,6 +317,7 @@
 
 ## Java 
 
+- [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
 - [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
 - [gh0stkey/CaA](https://github.com/gh0stkey/CaA) - CaA - Collector and Analyzer, Insight into information, exploring with intelligence in a thousand ways.
 - [javaweb-sec/javaweb-sec](https://github.com/javaweb-sec/javaweb-sec) - 
@@ -346,7 +347,6 @@
 - [4ra1n/mysql-fake-server](https://github.com/4ra1n/mysql-fake-server) - MySQL Fake Server (纯Java实现，支持GUI版和命令行版，提供Dockerfile，支持多种常见JDBC利用)
 - [wh1t3p1g/tabby-path-finder](https://github.com/wh1t3p1g/tabby-path-finder) - A neo4j procedure for tabby
 - [SafeGroceryStore/MDUT](https://github.com/SafeGroceryStore/MDUT) - MDUT - Multiple Database Utilization Tools
-- [WhiteHSBG/JNDIExploit](https://github.com/WhiteHSBG/JNDIExploit) - 对原版https://github.com/feihong-cs/JNDIExploit 进行了实用化修改
 - [iSafeBlue/TrackRay](https://github.com/iSafeBlue/TrackRay) - 溯光 (TrackRay) 3 beta⚡渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|代码审计|AWVS|NMAP|Metasploit|SQLMap）
 - [pwntester/BlockingServer](https://github.com/pwntester/BlockingServer) - Web Server that serves a single file and keeps the connection open until user releases it.
 - [nneonneo/ghidra-wasm-plugin](https://github.com/nneonneo/ghidra-wasm-plugin) - Ghidra Wasm plugin with disassembly and decompilation support
