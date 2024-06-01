@@ -1184,6 +1184,7 @@
 
 ## others 
 
+- [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
 - [trustedsec/CS-Remote-OPs-BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF) - 
 - [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator) - Obfuscator based on LLVM-16.0.6
 - [Kharos102/ReadWriteDriverSample](https://github.com/Kharos102/ReadWriteDriverSample) - 
@@ -1472,7 +1473,6 @@
 - [Pizz33/GobypassAV-shellcode](https://github.com/Pizz33/GobypassAV-shellcode) - shellcode免杀加载器，使用go实现，免杀bypass火绒、360、核晶、def等主流杀软
 - [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386) - CVE-2023-0386在ubuntu22.04上的提权
 - [pho3n1x-web/HTTPServerGO](https://github.com/pho3n1x-web/HTTPServerGO) - 这是一个用Go编写的红队内网环境中一个能快速开启HTTP文件浏览服务的小工具，能够执行shell命令,可以执行webshell
-- [WhiteHSBG/JNDIExploit](https://github.com/WhiteHSBG/JNDIExploit) - 对原版https://github.com/feihong-cs/JNDIExploit 进行了实用化修改
 - [Kiprey/Skr_Learning](https://github.com/Kiprey/Skr_Learning) - 天问之路 - 学习笔记&学习周报。内容包括但不限于C++ STL、编译原理、LLVM IR Pass代码优化、CSAPP Lab、uCore操作系统等等。
 - [molnarg/ascii-zip](https://github.com/molnarg/ascii-zip) - A deflate compressor that emits compressed data that is in the [A-Za-z0-9] ASCII byte range.
 - [tamuctf/tamuctf-2023](https://github.com/tamuctf/tamuctf-2023) - 
