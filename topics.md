@@ -959,6 +959,7 @@
 
 ## linux 
 
+- [godzie44/BugStalker](https://github.com/godzie44/BugStalker) - Rust debugger for Linux x86-64
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
@@ -1184,6 +1185,7 @@
 
 ## others 
 
+- [LxxxSec/CTF-Java-Gadget](https://github.com/LxxxSec/CTF-Java-Gadget) - 
 - [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
 - [trustedsec/CS-Remote-OPs-BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF) - 
 - [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator) - Obfuscator based on LLVM-16.0.6
@@ -1330,7 +1332,7 @@
 - [snnxyss/new_in_swor](https://github.com/snnxyss/new_in_swor) - bypassAll静态引擎，如绕过QVM，绕过VT所有静态引擎
 - [TideSec/TscanPlus](https://github.com/TideSec/TscanPlus) - 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [kyo-w/router-router](https://github.com/kyo-w/router-router) - Java web路由内存分析工具
-- [SakuraLLM/Sakura-13B-Galgame](https://github.com/SakuraLLM/Sakura-13B-Galgame) - 适配轻小说/Galgame的日中翻译大模型
+- [SakuraLLM/SakuraLLM](https://github.com/SakuraLLM/SakuraLLM) - 适配轻小说/Galgame的日中翻译大模型
 - [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
 - [luelueking/Bypass_JVM_Verifier](https://github.com/luelueking/Bypass_JVM_Verifier) - Bypass JVM Class ByteCode Verifier , 对抗反编译器
 - [WKL-Sec/dcomhijack](https://github.com/WKL-Sec/dcomhijack) - Lateral Movement Using DCOM and DLL Hijacking
@@ -1834,6 +1836,7 @@
 
 ## rust 
 
+- [godzie44/BugStalker](https://github.com/godzie44/BugStalker) - Rust debugger for Linux x86-64
 - [0vercl0k/snapshot](https://github.com/0vercl0k/snapshot) - WinDbg extension written in Rust to dump the CPU / memory state of a running VM
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
