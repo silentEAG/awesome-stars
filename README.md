@@ -213,9 +213,10 @@
 
 ## Go 
 
+- [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package.
 - [Le0nsec/SecCrawler](https://github.com/Le0nsec/SecCrawler) - 一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区以及绿盟、腾讯玄武、天融信、360等实验室博客，持续更新中。
 - [Mayter/mssql-command-tool](https://github.com/Mayter/mssql-command-tool) - xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作，上传，job等相应操作。
-- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc.,
+- [casibase/casibase](https://github.com/casibase/casibase) - Spising: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Gr
 - [p1d3er/port_reuse](https://github.com/p1d3er/port_reuse) - golang 实现的windows and linux 端口复用工具。
 - [kost/revsocks](https://github.com/kost/revsocks) - Reverse SOCKS5 implementation in Go
 - [fin3ss3g0d/evilgophish](https://github.com/fin3ss3g0d/evilgophish) - evilginx3 + gophish
@@ -317,6 +318,7 @@
 
 ## Java 
 
+- [jar-analyzer/jar-obfuscator](https://github.com/jar-analyzer/jar-obfuscator) - Jar Obfuscator - 一个 JAR/CLASS 字节码混淆工具，支持包名/类名/方法名/字段名/参数名引用分析和重命名混淆方式，支持字符串加密/整型异或混淆/垃圾代码花指令混淆/等方式，支持 NATIVE 层的 JVMTI 代码加密，配置简单，文档教程齐全，容易上手
 - [LxxxSec/CTF-Java-Gadget](https://github.com/LxxxSec/CTF-Java-Gadget) - 
 - [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
 - [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
@@ -522,7 +524,6 @@
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh) - 手撸解释器教程《Crafting Interpreters》中文翻译
-- [sajjadium/ctf-archives](https://github.com/sajjadium/ctf-archives) - CTF Archives: Collection of CTF Challenges.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) - 本书已经正式出版，目前正预售，可在京东搜索《深入RUST标准库》即可。本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.
 - [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
@@ -649,6 +650,7 @@
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
 - [chaitin/Real-World-CTF-5th-Challenges](https://github.com/chaitin/Real-World-CTF-5th-Challenges) - attachments and (some) writeups/source code for RWCTF 5th
 - [ashemery/exploitation-course](https://github.com/ashemery/exploitation-course) - Offensive Software Exploitation Course
+- [sajjadium/ctf-archives](https://github.com/sajjadium/ctf-archives) - CTF Archives: Collection of CTF Challenges.
 - [Eilonh/s3crets_scanner](https://github.com/Eilonh/s3crets_scanner) - 
 - [MakeMerakGreatAgain/tsctf-j_2022](https://github.com/MakeMerakGreatAgain/tsctf-j_2022) - 
 - [ice-doom/codeql_compile](https://github.com/ice-doom/codeql_compile) - 自动反编译闭源应用，创建codeql数据库
