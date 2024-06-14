@@ -324,7 +324,7 @@
 - [Bl0omZ/JNDIEXP](https://github.com/Bl0omZ/JNDIEXP) - JDNI在java高版本的利用工具,FUZZ利用链
 - [Whoopsunix/JavaRce](https://github.com/Whoopsunix/JavaRce) - Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 实战场景较通用的 Java Rce 相关漏洞的利用方式
 - [Whoopsunix/PPPYSO](https://github.com/Whoopsunix/PPPYSO) - proof-of-concept for generating Java deserialization payload | Proxy MemShell
-- [jar-analyzer/jar-obfuscator](https://github.com/jar-analyzer/jar-obfuscator) - Jar Obfuscator - 一个 JAR/CLASS 字节码混淆工具，支持包名/类名/方法名/字段名/参数名引用分析和重命名混淆方式，支持字符串加密/整型异或混淆/垃圾代码花指令混淆/等方式，支持 NATIVE 层的 JVMTI 代码加密，配置简单，文档教程齐全，容易上手
+- [jar-analyzer/jar-obfuscator](https://github.com/jar-analyzer/jar-obfuscator) - Jar Obfuscator - 一个 JAR/CLASS 字节码混淆工具，支持包名/类名/方法名/字段名/参数名引用分析和重命名混淆方式，支持字符串加密/整型异或混淆/垃圾代码花指令混淆/等方式，支持方法和字段的隐藏，支持 NATIVE 层的 JVMTI 代码加密，配置简单，文档教程齐全，容易上手
 - [LxxxSec/CTF-Java-Gadget](https://github.com/LxxxSec/CTF-Java-Gadget) - 
 - [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
 - [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
@@ -450,6 +450,7 @@
 
 ## Others 
 
+- [Xposed-Modules-Repo/com.r.leapfebruary](https://github.com/Xposed-Modules-Repo/com.r.leapfebruary) - 闰二月，一个小而美的微信模块
 - [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator) - Obfuscator based on LLVM-16.0.6
 - [One-Fox-Security-Team/One-Fox-T00ls](https://github.com/One-Fox-Security-Team/One-Fox-T00ls) - 
 - [AabyssZG/Open-Source-Information-Leakage](https://github.com/AabyssZG/Open-Source-Information-Leakage) - 开源项目信息泄露笔记
@@ -689,6 +690,7 @@
 
 ## Rust 
 
+- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [godzie44/BugStalker](https://github.com/godzie44/BugStalker) - Rust debugger for Linux x86-64
 - [Kharos102/ReadWriteDriverSample](https://github.com/Kharos102/ReadWriteDriverSample) - 
 - [0vercl0k/snapshot](https://github.com/0vercl0k/snapshot) - WinDbg extension written in Rust to dump the CPU / memory state of a running VM
@@ -897,7 +899,7 @@
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
 - [CasualX/obfstr](https://github.com/CasualX/obfstr) - Compiletime string literal obfuscation for Rust.
 - [Matrix-Zhang/tokio_kcp](https://github.com/Matrix-Zhang/tokio_kcp) - A Kcp implementation for tokio
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
 - [rustsbi/rustsbi-tutorial](https://github.com/rustsbi/rustsbi-tutorial) - rustsbi 开发教程
 - [ajmwagar/merino](https://github.com/ajmwagar/merino) - :sheep: A SOCKS5 Proxy server written in Rust
