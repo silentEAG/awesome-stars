@@ -185,6 +185,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xamarin](#xamarin)
+- [zig](#zig)
 
 ## 3d 
 
@@ -2374,6 +2375,10 @@
 ## xamarin 
 
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+
+## zig 
+
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 
 
 ## License
