@@ -887,7 +887,7 @@
 - [niltok/magic-in-ten-mins](https://github.com/niltok/magic-in-ten-mins) - 十分钟魔法练习
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
-- [pen4uin/java-memshell-generator](https://github.com/pen4uin/java-memshell-generator) - 一款支持高度自定义的 Java 内存马生成工具
+- [pen4uin/java-memshell-generator](https://github.com/pen4uin/java-memshell-generator) - 一款支持高度自定义的 Java 内存马生成工具｜A highly customizable Java memory-shell generation tool.
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [youthlql/JavaYouth](https://github.com/youthlql/JavaYouth) - 主要是Java技术栈的文章
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -1195,6 +1195,7 @@
 
 ## others 
 
+- [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - 免杀、逆向、破解
 - [Xposed-Modules-Repo/com.r.leapfebruary](https://github.com/Xposed-Modules-Repo/com.r.leapfebruary) - 闰二月，一个小而美的微信模块
 - [PassKeyRa/solana-ebpf-ida-processor](https://github.com/PassKeyRa/solana-ebpf-ida-processor) - Solana Virtual Machine bytecode processor for IDA Pro
 - [Bl0omZ/JNDIEXP](https://github.com/Bl0omZ/JNDIEXP) - JDNI在java高版本的利用工具,FUZZ利用链
@@ -1852,6 +1853,7 @@
 
 ## rust 
 
+- [dronavallipranav/rust-obfuscator](https://github.com/dronavallipranav/rust-obfuscator) - Automatic Rust Obfuscator and Macro Library
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [godzie44/BugStalker](https://github.com/godzie44/BugStalker) - Rust debugger for Linux x86-64
 - [0vercl0k/snapshot](https://github.com/0vercl0k/snapshot) - WinDbg extension written in Rust to dump the CPU / memory state of a running VM
