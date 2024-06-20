@@ -24,6 +24,7 @@
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
 - [OCaml](#ocaml)
@@ -67,6 +68,7 @@
 
 ## C 
 
+- [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - 免杀、逆向、破解
 - [trustedsec/CS-Remote-OPs-BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF) - 
@@ -432,6 +434,10 @@
 - [PY44N/LuaObfuscatorV2](https://github.com/PY44N/LuaObfuscatorV2) - A program that obfuscates Lua programs so no one can steal your source code
 - [prometheus-lua/Prometheus](https://github.com/prometheus-lua/Prometheus) - Lua Obfuscator written in pure Lua
 - [crisprss/Extracted_WD_VDM](https://github.com/crisprss/Extracted_WD_VDM) - Windows Defender VDM lua collections
+
+## Makefile 
+
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 
 ## Markdown 
 
