@@ -68,6 +68,7 @@
 
 ## C 
 
+- [trustedsec/CS-Situational-Awareness-BOF](https://github.com/trustedsec/CS-Situational-Awareness-BOF) - Situational Awareness commands implemented using Beacon Object Files
 - [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - 免杀、逆向、破解
@@ -324,6 +325,7 @@
 
 ## Java 
 
+- [novysodope/javaeasyscan](https://github.com/novysodope/javaeasyscan) - javaeasyscanner - 富婆系列，代码审计辅助工具，致力于解放大脑，方便双手
 - [cckuailong/JNDI-Injection-Exploit-Plus](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus) - 80+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server.
 - [X1r0z/JNDIMap](https://github.com/X1r0z/JNDIMap) - JNDI 注入利用工具, 支持 RMI 和 LDAP 协议, 包含多种高版本 JDK 绕过方式 | A JNDI injection exploit tool that supports RMI and LDAP protocols, including a variety of methods to bypass higher-version JDK
 - [Bl0omZ/JNDIEXP](https://github.com/Bl0omZ/JNDIEXP) - JDNI在java高版本的利用工具,FUZZ利用链
