@@ -1209,6 +1209,7 @@
 
 ## others 
 
+- [chaitin/xapp](https://github.com/chaitin/xapp) - 
 - [Clouditera/SecGPT](https://github.com/Clouditera/SecGPT) - SecGPT网络安全大模型
 - [whocansee/FilelessAgentMemShell](https://github.com/whocansee/FilelessAgentMemShell) - 无需文件落地Agent内存马生成器
 - [frog-game/lua-5.4.4-comments](https://github.com/frog-game/lua-5.4.4-comments) - lua-5.4.4-每行都加注释版本
@@ -1320,7 +1321,7 @@
 - [W01fh4cker/MemshellKit](https://github.com/W01fh4cker/MemshellKit) - 针对多个框架的高度自定义的内存马一键打入工具 | A highly customized memory shell one-click injection tool for multiple frameworks
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls](https://github.com/VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls) - The following two code samples can be used to understand the difference between direct syscalls and indirect syscalls
-- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了600多个poc/exp，长期更新。
+- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了700多个poc/exp，长期更新。
 - [bata24/gef](https://github.com/bata24/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
 - [NYAN-x-CAT/AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) - Open-Source Remote Administration Tool For Windows C# (RAT)
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
