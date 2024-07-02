@@ -465,6 +465,7 @@
 
 ## Others 
 
+- [y4ney/awesome-cloud-native-security](https://github.com/y4ney/awesome-cloud-native-security) - 云原生安全资料库
 - [chaitin/xapp](https://github.com/chaitin/xapp) - 
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [zodiacon/AllTools](https://github.com/zodiacon/AllTools) - All reasonably stable tools
@@ -709,6 +710,7 @@
 
 ## Rust 
 
+- [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - 🦆 A terminal app for managing docker containers, inpsired by K9s - https://k9scli.io/
 - [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs) - A dynasm-like tool for rust.
 - [dronavallipranav/rust-obfuscator](https://github.com/dronavallipranav/rust-obfuscator) - Automatic Rust Obfuscator and Macro Library
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
@@ -1062,8 +1064,8 @@
 
 ## TypeScript 
 
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [haoami/kkfineblog](https://github.com/haoami/kkfineblog) - 
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [mnixry/hacktricks-press](https://github.com/mnixry/hacktricks-press) - Porting HackTricks to VitePress
 - [ba-archive/blue-archive](https://github.com/ba-archive/blue-archive) - 碧蓝档案的档案。我们期待着更多老师的加入，欢迎通过邮件、B站私信或 discussion 联系我们
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
