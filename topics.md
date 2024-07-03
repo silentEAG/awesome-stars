@@ -759,7 +759,6 @@
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [yaklang/yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
 - [machine1337/gmailc2](https://github.com/machine1337/gmailc2) - A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections and Network Traffic Restrictions
 - [gobysec/Goby](https://github.com/gobysec/Goby) - Attack surface mapping
 - [Kudaes/rust_tips_and_tricks](https://github.com/Kudaes/rust_tips_and_tricks) - Rust For Windows Cheatsheet
@@ -1211,8 +1210,9 @@
 
 ## others 
 
+- [birdhan/SecurityProduct](https://github.com/birdhan/SecurityProduct) - 开源安全产品源码，IDS、IPS、WAF、蜜罐等
+- [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [y4ney/awesome-cloud-native-security](https://github.com/y4ney/awesome-cloud-native-security) - 云原生安全资料库
-- [haoami/kkfineblog](https://github.com/haoami/kkfineblog) - 
 - [chaitin/xapp](https://github.com/chaitin/xapp) - 
 - [Clouditera/SecGPT](https://github.com/Clouditera/SecGPT) - SecGPT网络安全大模型
 - [whocansee/FilelessAgentMemShell](https://github.com/whocansee/FilelessAgentMemShell) - 无需文件落地Agent内存马生成器
@@ -1225,7 +1225,7 @@
 - [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - 免杀、逆向、破解
 - [Xposed-Modules-Repo/com.r.leapfebruary](https://github.com/Xposed-Modules-Repo/com.r.leapfebruary) - 闰二月，一个小而美的微信模块
 - [PassKeyRa/solana-ebpf-ida-processor](https://github.com/PassKeyRa/solana-ebpf-ida-processor) - Solana Virtual Machine bytecode processor for IDA Pro
-- [Bl0omZ/JNDIEXP](https://github.com/Bl0omZ/JNDIEXP) - JDNI在java高版本的利用工具,FUZZ利用链
+- [Bl0omZ/JNDIEXP](https://github.com/Bl0omZ/JNDIEXP) - JNDI在java高版本的利用工具,FUZZ利用链
 - [jar-analyzer/jar-obfuscator](https://github.com/jar-analyzer/jar-obfuscator) - Jar Obfuscator - 一个 JAR/CLASS 字节码混淆工具，支持包名/类名/方法名/字段名/参数名引用分析和重命名混淆方式，支持字符串加密/整型异或混淆/垃圾代码花指令混淆/等方式，支持方法和字段的隐藏，支持 NATIVE 层的 JVMTI 代码加密，配置简单，文档教程齐全，容易上手
 - [LxxxSec/CTF-Java-Gadget](https://github.com/LxxxSec/CTF-Java-Gadget) - 
 - [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
@@ -2149,6 +2149,7 @@
 ## self-hosted 
 
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
 
 ## server 
 
