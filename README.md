@@ -49,6 +49,7 @@
 - [V](#v)
 - [VBA](#vba)
 - [VBScript](#vbscript)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [XSLT](#xslt)
@@ -222,7 +223,7 @@
 
 ## Go 
 
-- [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an alternative to ssh client, offers additional useful features, such as login prompt, trzsz ( trz / tsz ), batch login, remember password, zmodem ( rz / sz ), etc.
+- [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering ad
 - [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package.
 - [Le0nsec/SecCrawler](https://github.com/Le0nsec/SecCrawler) - 一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区以及绿盟、腾讯玄武、天融信、360等实验室博客，持续更新中。
 - [Mayter/mssql-command-tool](https://github.com/Mayter/mssql-command-tool) - xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作，上传，job等相应操作。
@@ -1125,6 +1126,10 @@
 ## VBScript 
 
 - [rootclay/WMIHACKER](https://github.com/rootclay/WMIHACKER) - A Bypass Anti-virus Software Lateral Movement Command Execution Tool
+
+## Visual Basic .NET 
+
+- [DosX-dev/UPX-Patcher](https://github.com/DosX-dev/UPX-Patcher) - Make "upx -d" unpacking impossible!
 
 ## Vue 
 
