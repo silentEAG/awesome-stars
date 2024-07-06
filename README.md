@@ -145,6 +145,7 @@
 
 ## C++ 
 
+- [carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation) - 
 - [0xlane/ollvm-rust](https://github.com/0xlane/ollvm-rust) - out-of-tree llvm obfuscation pass plugin (dynamically loadable by rustc). || rust toolchain with obfuscation llvm pass.
 - [Cloaked9000/ElfLoader](https://github.com/Cloaked9000/ElfLoader) - An ELF loader capable of manually loading ELF executables directly from memory into a new process, without the use of exec.
 - [Neo-Maoku/SearchAvailableExe](https://github.com/Neo-Maoku/SearchAvailableExe) - 寻找可利用的白文件
@@ -463,6 +464,7 @@
 
 ## OCaml 
 
+- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [static-analysis-engineering/codehawk](https://github.com/static-analysis-engineering/codehawk) - CodeHawk Abstract Interpretation Engine and Analyzers
 
 ## Others 
