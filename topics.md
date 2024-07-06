@@ -31,6 +31,7 @@
 - [cli](#cli)
 - [clojure](#clojure)
 - [code](#code)
+- [code-quality](#code-quality)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -122,6 +123,7 @@
 - [nosql](#nosql)
 - [npm](#npm)
 - [numpy](#numpy)
+- [objective-c](#objective-c)
 - [open-source](#open-source)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
@@ -349,6 +351,7 @@
 
 ## c 
 
+- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [trustedsec/CS-Situational-Awareness-BOF](https://github.com/trustedsec/CS-Situational-Awareness-BOF) - Situational Awareness commands implemented using Beacon Object Files
 - [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
@@ -402,6 +405,10 @@
 - [ZtesoftCS/go-ethereum-code-analysis](https://github.com/ZtesoftCS/go-ethereum-code-analysis) - 
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 
+## code-quality 
+
+- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+
 ## compiler 
 
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
@@ -427,6 +434,7 @@
 
 ## cpp 
 
+- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
@@ -889,6 +897,7 @@
 
 ## java 
 
+- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [novysodope/javaeasyscan](https://github.com/novysodope/javaeasyscan) - javaeasyscanner - 富婆系列，代码审计辅助工具，致力于解放大脑，方便双手
 - [cckuailong/JNDI-Injection-Exploit-Plus](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus) - 80+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server.
 - [X1r0z/JNDIMap](https://github.com/X1r0z/JNDIMap) - JNDI 注入利用工具, 支持 RMI 和 LDAP 协议, 包含多种高版本 JDK 绕过方式 | A JNDI injection exploit tool that supports RMI and LDAP protocols, including a variety of methods to bypass higher-version JDK
@@ -1181,6 +1190,10 @@
 
 - [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
 
+## objective-c 
+
+- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+
 ## open-source 
 
 - [AabyssZG/Open-Source-Information-Leakage](https://github.com/AabyssZG/Open-Source-Information-Leakage) - 开源项目信息泄露笔记
@@ -1213,6 +1226,7 @@
 
 ## others 
 
+- [carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation) - 
 - [helius-labs/solana-awesome](https://github.com/helius-labs/solana-awesome) - The "Solana-Awesome" repository serves as a comprehensive, factual resource hub for anyone interested in learning about the Solana blockchain and its underlying technology. It is meticulously curated 
 - [ProbiusOfficial/PHPSerialize-labs](https://github.com/ProbiusOfficial/PHPSerialize-labs) - 【Hello CTF】PHPSerialize-labs是一个使用php语言编写的，用于学习CTF中PHP反序列化的入门靶场。旨在帮助大家对PHP的序列化和反序列化有一个全面的了解。
 - [birdhan/SecurityProduct](https://github.com/birdhan/SecurityProduct) - 开源安全产品源码，IDS、IPS、WAF、蜜罐等
