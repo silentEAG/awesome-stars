@@ -180,7 +180,7 @@
 - [mthipparthi/operating-systems-three-easy-pieces](https://github.com/mthipparthi/operating-systems-three-easy-pieces) - operating systems three easy pieces by Rezmi
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [vgvassilev/cling](https://github.com/vgvassilev/cling) - The interactive C++ interpreter Cling
-- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, and Linux.
+- [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, Linux and Android.
 - [capt-meelo/laZzzy](https://github.com/capt-meelo/laZzzy) - laZzzy is a shellcode loader, developed using different open-source libraries, that demonstrates different execution techniques.
 - [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor) - A collection of out-of-tree LLVM passes for teaching and learning
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
