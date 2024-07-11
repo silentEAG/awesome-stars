@@ -14,6 +14,7 @@
 - [api](#api)
 - [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
+- [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -249,8 +250,13 @@
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 
+## atom 
+
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
+
 ## automation 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
@@ -389,6 +395,7 @@
 
 ## cli 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -571,6 +578,7 @@
 
 ## docker 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
@@ -716,6 +724,7 @@
 
 ## go 
 
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [f1zm0/acheron](https://github.com/f1zm0/acheron) - indirect syscalls for AV/EDR evasion in Go assembly
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
@@ -733,6 +742,7 @@
 
 ## golang 
 
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [f1zm0/acheron](https://github.com/f1zm0/acheron) - indirect syscalls for AV/EDR evasion in Go assembly
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
@@ -1051,6 +1061,7 @@
 
 ## low-code 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
@@ -1175,6 +1186,7 @@
 
 ## node 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
@@ -1237,9 +1249,10 @@
 
 ## others 
 
+- [EdgeSecurityTeam/command](https://github.com/EdgeSecurityTeam/command) - 红队命令速查 是由棱角社区(Edge Forum) 整理的关于 Red Team 期间所常使用的一些基础命令。
+- [fdu-sec/JDD](https://github.com/fdu-sec/JDD) - 
 - [J-Schoepplenberg/zero-packet](https://github.com/J-Schoepplenberg/zero-packet) - A zero-copy Rust library that builds and parses network packets in-place.
 - [EvilBytecode/EDR-XDR-AV-Killer](https://github.com/EvilBytecode/EDR-XDR-AV-Killer) - Reproducing Spyboy technique, which involves terminating all EDR/XDR/AVs processes by abusing the zam64.sys driver
-- [HackerCalico/No_X_Memory_ShellCode_Loader](https://github.com/HackerCalico/No_X_Memory_ShellCode_Loader) - 无可执行权限加载 ShellCode。Loading ShellCode without executable permission.
 - [fiddyschmitt/File-Tunnel](https://github.com/fiddyschmitt/File-Tunnel) - Tunnel TCP connections through a file
 - [kong030813/Z-Godzilla_ekp](https://github.com/kong030813/Z-Godzilla_ekp) - 哥斯拉webshell管理工具二次开发规避流量检测设备
 - [login-securite/DonPAPI](https://github.com/login-securite/DonPAPI) - Dumping DPAPI credz remotely
@@ -1780,6 +1793,7 @@
 
 ## postgresql 
 
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## powershell 
@@ -2187,6 +2201,7 @@
 
 ## self-hosted 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
 
@@ -2326,6 +2341,7 @@
 
 ## typescript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
