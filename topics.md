@@ -1252,6 +1252,7 @@
 
 ## others 
 
+- [ir0nstone/pwn-notes](https://github.com/ir0nstone/pwn-notes) - My notes on pwn
 - [ElliotKillick/windows-vs-linux-loader-architecture](https://github.com/ElliotKillick/windows-vs-linux-loader-architecture) - Side-by-side comparison of the Windows and Linux (GNU) Loaders
 - [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 基于NTQQ的无头Bot框架
 - [EdgeSecurityTeam/command](https://github.com/EdgeSecurityTeam/command) - 红队命令速查 是由棱角社区(Edge Forum) 整理的关于 Red Team 期间所常使用的一些基础命令。
