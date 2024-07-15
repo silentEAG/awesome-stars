@@ -329,6 +329,7 @@
 
 ## blockchain 
 
+- [blockscout/blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 - [WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk) - 零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP
 - [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3) - A curated list of awesome Web3 resources, libraries, tools and more.
 - [EpicsDAO/solv](https://github.com/EpicsDAO/solv) - 🔥 solv - CLI Tool for Managing Solana Validators
@@ -623,6 +624,7 @@
 
 ## elixir 
 
+- [blockscout/blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 
 ## embedded 
@@ -648,6 +650,7 @@
 
 ## ethereum 
 
+- [blockscout/blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 - [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hacked incidents using Foundry.
 - [Cyfrin/security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) - The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.
 - [WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk) - 零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP
@@ -1941,6 +1944,8 @@
 
 ## rust 
 
+- [BlWasp/rs-shell](https://github.com/BlWasp/rs-shell) - A dirty PoC for a reverse shell with cool features in Rust
+- [BurtonQin/lockbud](https://github.com/BurtonQin/lockbud) - Statically detect memory, concurrency bugs and possible panic locations for Rust.
 - [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A MITM Proxy 🧑‍💻! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities. Learning Project.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [0xlane/ollvm-rust](https://github.com/0xlane/ollvm-rust) - out-of-tree llvm obfuscation pass plugin (dynamically loadable by rustc). || rust toolchain with obfuscation llvm pass.
