@@ -1264,6 +1264,8 @@
 
 ## others 
 
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+- [silentEAG/Javashark](https://github.com/silentEAG/Javashark) - 自用 Java 反序列化链子集合
 - [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs) - aws-lc-rs is a cryptographic library using AWS-LC for its cryptographic operations. The library strives to be API-compatible with the popular Rust library named ring.
 - [ZanderChang/anti-sandbox](https://github.com/ZanderChang/anti-sandbox) - Windows对抗沙箱和虚拟机的方法总结
 - [we1h0/redteam-tips](https://github.com/we1h0/redteam-tips) - 关于红队方面的学习资料
