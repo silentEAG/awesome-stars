@@ -148,6 +148,7 @@
 
 ## C++ 
 
+- [hasherezade/pe-sieve](https://github.com/hasherezade/pe-sieve) - Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
 - [oldboy21/RflDllOb](https://github.com/oldboy21/RflDllOb) - Reflective DLL Injection Made Bella
 - [ZanderChang/anti-sandbox](https://github.com/ZanderChang/anti-sandbox) - Windows对抗沙箱和虚拟机的方法总结
 - [carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation) - 
@@ -233,7 +234,7 @@
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [EvilBytecode/EDR-XDR-AV-Killer](https://github.com/EvilBytecode/EDR-XDR-AV-Killer) - Reproducing Spyboy technique, which involves terminating all EDR/XDR/AVs processes by abusing the zam64.sys driver
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering ad
-- [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package.
+- [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package. Windows ONLY.
 - [Le0nsec/SecCrawler](https://github.com/Le0nsec/SecCrawler) - 一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区以及绿盟、腾讯玄武、天融信、360等实验室博客，持续更新中。
 - [Mayter/mssql-command-tool](https://github.com/Mayter/mssql-command-tool) - xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作，上传，job等相应操作。
 - [casibase/casibase](https://github.com/casibase/casibase) - Spising: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Gr
@@ -341,6 +342,7 @@
 
 ## Java 
 
+- [H4cking2theGate/ysogate](https://github.com/H4cking2theGate/ysogate) - Java反序列化/JNDI注入利用工具，支持多种高版本bypass，支持回显/内存马等多种扩展利用。
 - [silentEAG/Javashark](https://github.com/silentEAG/Javashark) - 自用 Java 反序列化链子集合
 - [fdu-sec/JDD](https://github.com/fdu-sec/JDD) - 
 - [whocansee/FilelessAgentMemShell](https://github.com/whocansee/FilelessAgentMemShell) - 无需文件落地Agent内存马生成器
@@ -403,6 +405,7 @@
 
 ## JavaScript 
 
+- [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
