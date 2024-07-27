@@ -930,6 +930,7 @@
 
 ## java 
 
+- [H4cking2theGate/ysogate](https://github.com/H4cking2theGate/ysogate) - Java反序列化/JNDI注入利用工具，支持多种高版本bypass，支持回显/内存马等多种扩展利用。
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [novysodope/javaeasyscan](https://github.com/novysodope/javaeasyscan) - javaeasyscanner - 富婆系列，代码审计辅助工具，致力于解放大脑，方便双手
 - [cckuailong/JNDI-Injection-Exploit-Plus](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus) - 80+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server.
@@ -1266,6 +1267,8 @@
 
 ## others 
 
+- [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
+- [hasherezade/pe-sieve](https://github.com/hasherezade/pe-sieve) - Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
 - [DangJin/awesome-readme-generator-tools](https://github.com/DangJin/awesome-readme-generator-tools) - 收录了一些可以快速创建出精美readme.md的工具集合
 - [MSxDOS/ntapi](https://github.com/MSxDOS/ntapi) - Rust FFI bindings for Native API
 - [klezVirus/SysWhispers3](https://github.com/klezVirus/SysWhispers3) - SysWhispers on Steroids - AV/EDR evasion via direct system calls.
@@ -1946,7 +1949,7 @@
 
 ## reverse-engineering 
 
-- [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package.
+- [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package. Windows ONLY.
 - [eset/nimfilt](https://github.com/eset/nimfilt) - A collection of modules and scripts to help with analyzing Nim binaries
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [HackOvert/AntiDBG](https://github.com/HackOvert/AntiDBG) - A bunch of Windows anti-debugging tricks for x86 and x64.
