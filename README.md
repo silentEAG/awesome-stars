@@ -625,6 +625,7 @@
 
 ## Python 
 
+- [alexmojaki/sorcery](https://github.com/alexmojaki/sorcery) - Dark magic delights in Python
 - [klezVirus/SysWhispers3](https://github.com/klezVirus/SysWhispers3) - SysWhispers on Steroids - AV/EDR evasion via direct system calls.
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [login-securite/DonPAPI](https://github.com/login-securite/DonPAPI) - Dumping DPAPI credz remotely
