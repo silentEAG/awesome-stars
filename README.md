@@ -757,6 +757,7 @@
 
 ## Rust 
 
+- [proptest-rs/proptest](https://github.com/proptest-rs/proptest) - Hypothesis-like property testing for Rust
 - [Pizz33/JoJoLoader](https://github.com/Pizz33/JoJoLoader) - 助力红队成员一键生成免杀木马，使用rust实现 | Help Redteam members generate Evasive Anti-virus software Trojan
 - [oberrich/phnt-rs](https://github.com/oberrich/phnt-rs) - Rust bindings to the System Informer's (formerly known as Process Hacker) "phnt" native Windows headers
 - [MSxDOS/ntapi](https://github.com/MSxDOS/ntapi) - Rust FFI bindings for Native API
@@ -1083,7 +1084,7 @@
 - [RoderickChan/docker_pwn_env](https://github.com/RoderickChan/docker_pwn_env) - Debug pwn using docker image
 - [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
 - [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) - :atom: [WIP] 整理过去的分享，从零开始的Kubernetes攻防 🧐
-- [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line!
+- [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh My Zsh and plugins inside a Docker container with one line!
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 - [reeceyng/v2ray-agent](https://github.com/reeceyng/v2ray-agent) - 【纯净版】原八合一共存脚本，去除广告等推广信息，支持xtls-rprx-vision
