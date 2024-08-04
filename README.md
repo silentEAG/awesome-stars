@@ -75,6 +75,7 @@
 
 ## C 
 
+- [MmMapIoSpace/UCMapper](https://github.com/MmMapIoSpace/UCMapper) - Unknowncheats Magically Optimized Tidy Mapper using nvaudio
 - [WKL-Sec/LayeredSyscall](https://github.com/WKL-Sec/LayeredSyscall) - Generating legitimate call stack frame along with indirect syscalls by abusing Vectored Exception Handling (VEH) to bypass User-Land EDR hooks in Windows.
 - [pathtofile/bad-bpf](https://github.com/pathtofile/bad-bpf) - A collection of eBPF programs demonstrating bad behavior, presented at DEF CON 29
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
@@ -137,6 +138,7 @@
 
 ## C# # 
 
+- [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus) - Trying to tame the three-headed dog.
 - [fiddyschmitt/File-Tunnel](https://github.com/fiddyschmitt/File-Tunnel) - Tunnel TCP connections through a file
 - [robertaachenw/solidity-debugger](https://github.com/robertaachenw/solidity-debugger) - 
 - [QAX-A-Team/BrowserGhost](https://github.com/QAX-A-Team/BrowserGhost) - 这是一个抓取浏览器密码的工具，后续会添加更多功能
