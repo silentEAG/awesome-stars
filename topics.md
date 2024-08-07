@@ -861,7 +861,7 @@
 - [darkarp/chromepass](https://github.com/darkarp/chromepass) - Chromepass - Hacking Chrome Saved Passwords
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -1268,6 +1268,7 @@
 
 ## others 
 
+- [0xsanny/solsec](https://github.com/0xsanny/solsec) - A collection of resources to study Solana smart contract security, auditing, and exploits.
 - [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus) - Trying to tame the three-headed dog.
 - [MmMapIoSpace/UCMapper](https://github.com/MmMapIoSpace/UCMapper) - Unknowncheats Magically Optimized Tidy Mapper using nvaudio
 - [proptest-rs/proptest](https://github.com/proptest-rs/proptest) - Hypothesis-like property testing for Rust
@@ -1992,6 +1993,7 @@
 
 ## rust 
 
+- [joaoviictorti/shadow-rs](https://github.com/joaoviictorti/shadow-rs) - Windows Kernel Rootkit in Rust
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
 - [SoftbearStudios/bitcode](https://github.com/SoftbearStudios/bitcode) - A binary encoder/decoder for Rust
 - [spacewalkhq/raft-rs](https://github.com/spacewalkhq/raft-rs) - An understandable, fast and scalable Raft Consensus implementation
@@ -2257,7 +2259,7 @@
 - [darkarp/chromepass](https://github.com/darkarp/chromepass) - Chromepass - Hacking Chrome Saved Passwords
 - [SPuerBRead/shovel](https://github.com/SPuerBRead/shovel) - Docker容器逃逸工具（Docker Escape Tools）
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [qtc-de/remote-method-guesser](https://github.com/qtc-de/remote-method-guesser) - Java RMI Vulnerability Scanner
@@ -2491,6 +2493,7 @@
 
 ## windows 
 
+- [joaoviictorti/shadow-rs](https://github.com/joaoviictorti/shadow-rs) - Windows Kernel Rootkit in Rust
 - [robiot/rustcat](https://github.com/robiot/rustcat) - Rustcat(rcat) - The modern Port listener and Reverse shell
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
