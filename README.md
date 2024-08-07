@@ -322,7 +322,7 @@
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
 - [passer-W/shc_bypass](https://github.com/passer-W/shc_bypass) - 内存加载shellcode绕过waf
 - [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) - SSH based reverse shell
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [andeya/pholcus](https://github.com/andeya/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
 
@@ -497,6 +497,7 @@
 
 ## Others 
 
+- [0xsanny/solsec](https://github.com/0xsanny/solsec) - A collection of resources to study Solana smart contract security, auditing, and exploits.
 - [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 - [DangJin/awesome-readme-generator-tools](https://github.com/DangJin/awesome-readme-generator-tools) - 收录了一些可以快速创建出精美readme.md的工具集合
 - [we1h0/redteam-tips](https://github.com/we1h0/redteam-tips) - 关于红队方面的学习资料
@@ -759,6 +760,7 @@
 
 ## Rust 
 
+- [joaoviictorti/shadow-rs](https://github.com/joaoviictorti/shadow-rs) - Windows Kernel Rootkit in Rust
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
 - [SoftbearStudios/bitcode](https://github.com/SoftbearStudios/bitcode) - A binary encoder/decoder for Rust
 - [spacewalkhq/raft-rs](https://github.com/spacewalkhq/raft-rs) - An understandable, fast and scalable Raft Consensus implementation
