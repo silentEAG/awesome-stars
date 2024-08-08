@@ -1025,7 +1025,7 @@
 - [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
 - [rust-embedded/riscv-rt](https://github.com/rust-embedded/riscv-rt) - Minimal runtime / startup for RISC-V CPU's.
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
-- [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
+- [rust-scraper/scraper](https://github.com/rust-scraper/scraper) - HTML parsing and querying with CSS selectors
 - [Ogeon/palette](https://github.com/Ogeon/palette) - A Rust library for linear color calculations and conversion
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
@@ -1135,7 +1135,7 @@
 
 ## TypeScript 
 
-- [RSSNext/follow](https://github.com/RSSNext/follow) - 🧡 Next generation information browser
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 基于NTQQ的无头Bot框架
