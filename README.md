@@ -546,7 +546,6 @@
 - [daikerSec/windows_protocol](https://github.com/daikerSec/windows_protocol) - 
 - [tdragon6/Supershell](https://github.com/tdragon6/Supershell) - Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell
 - [jamesmth/llvm-project](https://github.com/jamesmth/llvm-project) - Fork of LLVM for LTO pass plugins support.
-- [gmh5225/awesome-llvm-security](https://github.com/gmh5225/awesome-llvm-security) - awesome llvm security [Welcome to PR]
 - [Threekiii/Awesome-POC](https://github.com/Threekiii/Awesome-POC) - 一个漏洞POC知识库 目前数量 1000+
 - [pangudashu/php7-internal](https://github.com/pangudashu/php7-internal) - PHP7内核剖析
 - [Ivan1ee/NET-Deserialize](https://github.com/Ivan1ee/NET-Deserialize) - 总结了20+.Net反序列化文章，持续更新
@@ -642,6 +641,7 @@
 
 ## Python 
 
+- [CloudCrowSec001/CVE-2024-38077-POC](https://github.com/CloudCrowSec001/CVE-2024-38077-POC) - 原文已被作者删除，备份用，非原创，EXP & POC
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
