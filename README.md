@@ -158,6 +158,7 @@
 
 ## C++ 
 
+- [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
 - [hasherezade/tiny_tracer](https://github.com/hasherezade/tiny_tracer) - A Pin Tool for tracing API calls etc
 - [deepinstinct/ContainYourself](https://github.com/deepinstinct/ContainYourself) - A PoC of the ContainYourself research presented in DEFCON 31, which abuses the Windows containers framework to bypass EDRs.
 - [hasherezade/pe-sieve](https://github.com/hasherezade/pe-sieve) - Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
