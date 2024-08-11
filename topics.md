@@ -1994,6 +1994,7 @@
 
 ## reverse-engineering 
 
+- [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
 - [hasherezade/tiny_tracer](https://github.com/hasherezade/tiny_tracer) - A Pin Tool for tracing API calls etc
 - [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package. Windows ONLY.
 - [eset/nimfilt](https://github.com/eset/nimfilt) - A collection of modules and scripts to help with analyzing Nim binaries
