@@ -158,6 +158,7 @@
 
 ## C++ 
 
+- [trickster0/LdrLoadDll-Unhooking](https://github.com/trickster0/LdrLoadDll-Unhooking) - LdrLoadDll Unhooking
 - [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
 - [hasherezade/tiny_tracer](https://github.com/hasherezade/tiny_tracer) - A Pin Tool for tracing API calls etc
 - [deepinstinct/ContainYourself](https://github.com/deepinstinct/ContainYourself) - A PoC of the ContainYourself research presented in DEFCON 31, which abuses the Windows containers framework to bypass EDRs.
@@ -244,6 +245,8 @@
 
 ## Go 
 
+- [fdx-xdf/darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，免杀火绒，360核晶等国内常见杀软。
+- [EgeBalci/sgn](https://github.com/EgeBalci/sgn) - Shikata ga nai (仕方がない) encoder ported into go with several improvements
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [EvilBytecode/EDR-XDR-AV-Killer](https://github.com/EvilBytecode/EDR-XDR-AV-Killer) - Reproducing Spyboy technique, which involves terminating all EDR/XDR/AVs processes by abusing the zam64.sys driver
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering ad
@@ -767,6 +770,7 @@
 
 ## Rust 
 
+- [taiki-e/pin-project](https://github.com/taiki-e/pin-project) - A crate for safe and ergonomic pin-projection.
 - [joaoviictorti/shadow-rs](https://github.com/joaoviictorti/shadow-rs) - Windows Kernel Rootkit in Rust
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
 - [SoftbearStudios/bitcode](https://github.com/SoftbearStudios/bitcode) - A binary encoder/decoder for Rust
