@@ -75,6 +75,8 @@
 
 ## C 
 
+- [OtterHacker/Conferences](https://github.com/OtterHacker/Conferences) - 
+- [TheWover/donut](https://github.com/TheWover/donut) - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters
 - [MmMapIoSpace/UCMapper](https://github.com/MmMapIoSpace/UCMapper) - Unknowncheats Magically Optimized Tidy Mapper using nvaudio
 - [WKL-Sec/LayeredSyscall](https://github.com/WKL-Sec/LayeredSyscall) - Generating legitimate call stack frame along with indirect syscalls by abusing Vectored Exception Handling (VEH) to bypass User-Land EDR hooks in Windows.
 - [pathtofile/bad-bpf](https://github.com/pathtofile/bad-bpf) - A collection of eBPF programs demonstrating bad behavior, presented at DEF CON 29
@@ -328,7 +330,7 @@
 - [passer-W/shc_bypass](https://github.com/passer-W/shc_bypass) - 内存加载shellcode绕过waf
 - [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) - SSH based reverse shell
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [andeya/pholcus](https://github.com/andeya/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
 
 ## HTML 
@@ -369,7 +371,7 @@
 - [Whoopsunix/JavaRce](https://github.com/Whoopsunix/JavaRce) - Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 实战场景较通用的 Java Rce 相关漏洞的利用方式
 - [Whoopsunix/PPPYSO](https://github.com/Whoopsunix/PPPYSO) - proof-of-concept for generating Java deserialization payload | Proxy MemShell
 - [jar-analyzer/jar-obfuscator](https://github.com/jar-analyzer/jar-obfuscator) - Jar Obfuscator - 一个 JAR/CLASS 字节码混淆工具，支持包名/类名/方法名/字段名/参数名引用分析和重命名混淆方式，支持字符串加密/整型异或混淆/垃圾代码花指令混淆/等方式，支持方法和字段的隐藏，支持 NATIVE 层的 JVMTI 代码加密，配置简单，文档教程齐全，容易上手
-- [LxxxSec/CTF-Java-Gadget](https://github.com/LxxxSec/CTF-Java-Gadget) - 
+- [LxxxSec/CTF-Java-Gadget](https://github.com/LxxxSec/CTF-Java-Gadget) - CTF-Java-Gadget专注于收集CTF中Java赛题的反序列化片段
 - [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
 - [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
 - [gh0stkey/CaA](https://github.com/gh0stkey/CaA) - CaA - Collector and Analyzer, Insight into information, exploring with intelligence in a thousand ways.
@@ -1149,7 +1151,7 @@
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-- [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 基于NTQQ的无头Bot框架
+- [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 现代化的基于 NTQQ 的 Bot 协议端实现
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [mnixry/hacktricks-press](https://github.com/mnixry/hacktricks-press) - Porting HackTricks to VitePress
