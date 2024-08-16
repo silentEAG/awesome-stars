@@ -623,7 +623,6 @@
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## dotnet 
 
@@ -648,6 +647,7 @@
 
 ## embedded 
 
+- [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
@@ -657,7 +657,6 @@
 ## ember 
 
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## emoji 
 
@@ -1291,6 +1290,8 @@
 
 ## others 
 
+- [jseclab/obj2shellcode](https://github.com/jseclab/obj2shellcode) - shellcode生成框架
+- [Hacker-Hermanos/C2_INFRA_WORKSHOP_DEFCON32_RED_TEAM_VILLAGE](https://github.com/Hacker-Hermanos/C2_INFRA_WORKSHOP_DEFCON32_RED_TEAM_VILLAGE) - C2 Infrastructure Automation
 - [LiteSVM/litesvm](https://github.com/LiteSVM/litesvm) - 
 - [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - 
 - [OtterHacker/Conferences](https://github.com/OtterHacker/Conferences) - 
@@ -1298,7 +1299,6 @@
 - [trickster0/LdrLoadDll-Unhooking](https://github.com/trickster0/LdrLoadDll-Unhooking) - LdrLoadDll Unhooking
 - [fdx-xdf/darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，免杀火绒，360核晶等国内常见杀软。
 - [EgeBalci/sgn](https://github.com/EgeBalci/sgn) - Shikata ga nai (仕方がない) encoder ported into go with several improvements
-- [CloudCrowSec001/CVE-2024-38077-POC](https://github.com/CloudCrowSec001/CVE-2024-38077-POC) - 原文已被作者删除，备份用，非原创，EXP & POC
 - [0xsanny/solsec](https://github.com/0xsanny/solsec) - A collection of resources to study Solana smart contract security, auditing, and exploits.
 - [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus) - Trying to tame the three-headed dog.
 - [MmMapIoSpace/UCMapper](https://github.com/MmMapIoSpace/UCMapper) - Unknowncheats Magically Optimized Tidy Mapper using nvaudio
