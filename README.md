@@ -429,6 +429,7 @@
 
 ## JavaScript 
 
+- [Charles7c/charles7c.github.io](https://github.com/Charles7c/charles7c.github.io) - （保持最新版 VitePress）基于 VitePress 构建的个人知识库/博客。扩展 VitePress 默认主题：增加ICP备案号、公安备案号显示，增加文章元数据信息（原创标识、作者、发布时间、分类、标签）显示，增加文末版权声明，增加 Gitalk 评论功能，主页美化、自动生成侧边栏、文章内支持 Mermaid 流程图、MD公式、MD脚注、增加我的标签、我的归档等独立页面，以及浏览器滚条等细
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 - [repnz/windbg-cheat-sheet](https://github.com/repnz/windbg-cheat-sheet) - My personal cheat sheet for using WinDbg for kernel debugging
 - [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
@@ -494,6 +495,7 @@
 
 ## Markdown 
 
+- [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
 - [TonyCrane/note](https://github.com/TonyCrane/note) - TonyCrane's Public Notebook
 - [ZJU-Turing/TuringCourses](https://github.com/ZJU-Turing/TuringCourses) - 浙江大学图灵班课程学习指南
 
@@ -828,7 +830,6 @@
 - [alexcrichton/ssh2-rs](https://github.com/alexcrichton/ssh2-rs) - Rust bindings for libssh2
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
 - [KingBridgeSS/filegirl](https://github.com/KingBridgeSS/filegirl) - 基于notify-rs实现的文件监控系统，支持自动备份、自动回滚、修改的文件自动记录。
-- [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
 - [kotauskas/interprocess](https://github.com/kotauskas/interprocess) - Multifunctional cross-platform interprocess communication toolkit for Rust.
 - [mtth-bfft/adeleg](https://github.com/mtth-bfft/adeleg) - Active Directory delegation management tool
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
