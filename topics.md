@@ -104,6 +104,7 @@
 - [learning](#learning)
 - [linux](#linux)
 - [llm](#llm)
+- [login](#login)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -176,6 +177,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [symfony](#symfony)
+- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -1103,6 +1105,10 @@
 - [casibase/casibase](https://github.com/casibase/casibase) - Spising: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Gr
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 
+## login 
+
+- [uiwjs/react-login-page](https://github.com/uiwjs/react-login-page) - Some `react` login pages, which can be used quickly after installation.
+
 ## low-code 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -1312,7 +1318,6 @@
 - [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus) - Trying to tame the three-headed dog.
 - [MmMapIoSpace/UCMapper](https://github.com/MmMapIoSpace/UCMapper) - Unknowncheats Magically Optimized Tidy Mapper using nvaudio
 - [proptest-rs/proptest](https://github.com/proptest-rs/proptest) - Hypothesis-like property testing for Rust
-- [saicaca/fuwari](https://github.com/saicaca/fuwari) - A static blog template built with Astro.
 - [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
 - [WKL-Sec/LayeredSyscall](https://github.com/WKL-Sec/LayeredSyscall) - Generating legitimate call stack frame along with indirect syscalls by abusing Vectored Exception Handling (VEH) to bypass User-Land EDR hooks in Windows.
 - [deepinstinct/ContainYourself](https://github.com/deepinstinct/ContainYourself) - A PoC of the ContainYourself research presented in DEFCON 31, which abuses the Windows containers framework to bypass EDRs.
@@ -1443,7 +1448,6 @@
 - [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - GitHub Action to compile Rust with cross
 - [JSorngard/zalgo_codec](https://github.com/JSorngard/zalgo_codec) - A crate for converting an ASCII text string to a single unicode grapheme cluster and back. Also provides a macro to embed encoded source code into a Rust source file.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [jamesmunns/awesome-rust-streaming](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of Rust Language streamers
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [klezVirus/NimlineWhispers3](https://github.com/klezVirus/NimlineWhispers3) - A tool for converting SysWhispers3 syscalls for use with Nim projects
@@ -1453,7 +1457,7 @@
 - [luojia65/plugin-system-example](https://github.com/luojia65/plugin-system-example) - Example design of executable with `dylib`-based runtime plugin system in Rust, `libloading` used
 - [slowmist/solana-smart-contract-security-best-practices](https://github.com/slowmist/solana-smart-contract-security-best-practices) - 
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
-- [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) - Supports multi-person collaborative penetration testing graphical framework, Lua plug-in extension, domain front-end/CDN online, custom multiple modules, custom sRDI, file management, process manageme
+- [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) - 支持多人协作的渗透测试C2、Lua插件扩展、域前置/CDN上线、自定义多个模块、自定义sRDI、文件管理、进程管理、内存加载、截图、反向代理
 - [itaymigdal/Nimbo-C2](https://github.com/itaymigdal/Nimbo-C2) - Nimbo-C2 is yet another (simple and lightweight) C2 framework
 - [LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - [Zerx0r/rs_ppid_spoof_hollow](https://github.com/Zerx0r/rs_ppid_spoof_hollow) - a PoC for combining PPID spoofing with process hollowing shellcode injection
@@ -1739,7 +1743,7 @@
 - [KingBridgeSS/wiki](https://github.com/KingBridgeSS/wiki) - 
 - [NJU-ProjectN/nemu](https://github.com/NJU-ProjectN/nemu) - NJU EMUlator, a full system x86/mips32/riscv32/riscv64 emulator for teaching
 - [Liuhaixv/Goose_Goose_Duck_Hack](https://github.com/Liuhaixv/Goose_Goose_Duck_Hack) - External Hack for Goose Goose Duck.  鹅鸭杀外部辅助
-- [idekctf/idekctf2022](https://github.com/idekctf/idekctf2022) - Upload of all challenges from idekCTF 2022
+- [idekctf/idekctf-2022](https://github.com/idekctf/idekctf-2022) - Upload of all challenges from idekCTF 2022
 - [r3kapig/writeup](https://github.com/r3kapig/writeup) - CTF challenges writeup
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.
@@ -2405,6 +2409,18 @@
 ## symfony 
 
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
+
+## tailwindcss 
+
+- [saicaca/fuwari](https://github.com/saicaca/fuwari) - A static blog template built with Astro.
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
+- [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
+- [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
+- [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+- [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 
 ## telegram 
 
