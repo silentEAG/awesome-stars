@@ -275,7 +275,7 @@
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [lal0ne/vulnerability](https://github.com/lal0ne/vulnerability) - 收集、整理、修改互联网上公开的漏洞POC
 - [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) - Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
-- [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) - Supports multi-person collaborative penetration testing graphical framework, Lua plug-in extension, domain front-end/CDN online, custom multiple modules, custom sRDI, file management, process manageme
+- [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) - 支持多人协作的渗透测试C2、Lua插件扩展、域前置/CDN上线、自定义多个模块、自定义sRDI、文件管理、进程管理、内存加载、截图、反向代理
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [Metarget/cloud-native-security-book](https://github.com/Metarget/cloud-native-security-book) - 《云原生安全：攻防实践与体系构建》资料仓库
 - [Enelg52/OffensiveGo](https://github.com/Enelg52/OffensiveGo) - Golang weaponization for red teamers.
@@ -1044,7 +1044,7 @@
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 - [google/tarpc](https://github.com/google/tarpc) - An RPC framework for Rust with a focus on ease of use.
-- [idekctf/idekctf2022](https://github.com/idekctf/idekctf2022) - Upload of all challenges from idekCTF 2022
+- [idekctf/idekctf-2022](https://github.com/idekctf/idekctf-2022) - Upload of all challenges from idekCTF 2022
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.
 - [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
