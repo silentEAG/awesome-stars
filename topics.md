@@ -1303,6 +1303,7 @@
 
 ## others 
 
+- [EkiXu/JarAgent](https://github.com/EkiXu/JarAgent) - Write HotPatches with Java Instrumentation API
 - [N0fix/rustbinsign](https://github.com/N0fix/rustbinsign) - Rust symbol recovery tool
 - [sevagas/Advanced_Initial_access_in_2024_OffensiveX](https://github.com/sevagas/Advanced_Initial_access_in_2024_OffensiveX) - Resources linked to my presentation at OffensiveX in Athens in June 2024 on the topic "Breach the Gat, Advanced Initial Access in 2024"
 - [jseclab/obj2shellcode](https://github.com/jseclab/obj2shellcode) - shellcode生成框架
