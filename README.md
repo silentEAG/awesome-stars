@@ -367,6 +367,7 @@
 
 ## Java 
 
+- [EkiXu/JarAgent](https://github.com/EkiXu/JarAgent) - Write HotPatches with Java Instrumentation API
 - [H4cking2theGate/ysogate](https://github.com/H4cking2theGate/ysogate) - Java反序列化/JNDI注入利用工具，支持多种高版本bypass，支持回显/内存马等多种扩展利用。
 - [silentEAG/Javashark](https://github.com/silentEAG/Javashark) - 自用 Java 反序列化链子集合
 - [fdu-sec/JDD](https://github.com/fdu-sec/JDD) - 
