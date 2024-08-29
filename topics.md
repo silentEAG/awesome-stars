@@ -30,6 +30,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -407,6 +408,11 @@
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+
+## chatbot 
+
+- [casibase/casibase](https://github.com/casibase/casibase) - Spising: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Gr
+- [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 
 ## chatgpt 
 
@@ -1313,6 +1319,7 @@
 
 ## others 
 
+- [Cracked5pider/kaine-assembly](https://github.com/Cracked5pider/kaine-assembly) - a demo module for the kaine agent to execute and inject assembly modules
 - [bornacvitanic/fumble](https://github.com/bornacvitanic/fumble) - fumble is an oxidized (Rust-based) implementation of the original clumsy tool, designed to simulate adverse network conditions on Windows systems.
 - [cloudflare/wildcard](https://github.com/cloudflare/wildcard) - Wildcard matching
 - [SheLLVM/SheLLVM](https://github.com/SheLLVM/SheLLVM) - A collection of LLVM transform and analysis passes to write shellcode in regular C
