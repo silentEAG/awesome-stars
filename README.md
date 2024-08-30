@@ -76,6 +76,7 @@
 
 ## C 
 
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
 - [Cracked5pider/kaine-assembly](https://github.com/Cracked5pider/kaine-assembly) - a demo module for the kaine agent to execute and inject assembly modules
 - [OtterHacker/Conferences](https://github.com/OtterHacker/Conferences) - 
 - [TheWover/donut](https://github.com/TheWover/donut) - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters
@@ -254,6 +255,7 @@
 
 ## Go 
 
+- [wjlab/Darksteel](https://github.com/wjlab/Darksteel) - 域内自动化信息搜集利用工具
 - [fdx-xdf/darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，免杀火绒，360核晶等国内常见杀软。
 - [EgeBalci/sgn](https://github.com/EgeBalci/sgn) - Shikata ga nai (仕方がない) encoder ported into go with several improvements
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -789,6 +791,7 @@
 
 ## Rust 
 
+- [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [bornacvitanic/fumble](https://github.com/bornacvitanic/fumble) - fumble is an oxidized (Rust-based) implementation of the original clumsy tool, designed to simulate adverse network conditions on Windows systems.
 - [cloudflare/wildcard](https://github.com/cloudflare/wildcard) - Wildcard matching
@@ -850,7 +853,7 @@
 - [rusticata/kerberos-parser](https://github.com/rusticata/kerberos-parser) - Kerberos parser written in rust with nom
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
 - [metaworm/luac-parser-rs](https://github.com/metaworm/luac-parser-rs) - lua bytecode parser written in Rust using nom, part of metaworm's lua decompiler, support lua51/lua52/lua53/lua54/luajit/luau https://luadec.metaworm.site/
-- [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
+- [Vrtgs/thirtyfour](https://github.com/Vrtgs/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [Nariod/RustPacker](https://github.com/Nariod/RustPacker) - Template-based shellcode packer written in Rust, with indirect syscall support. Made with &lt;3 for pentesters.
 - [AbelChe/rabbithole](https://github.com/AbelChe/rabbithole) - 🦀️ 一个完全使用Rust编写的代理池工具，从网络搜索socks5代理，检测可用性之后开启socks5代理服务。A proxy pool tool completely written in Rust, which searches for SOCKS5 proxies from the network, and after checking their availability, starts 
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
