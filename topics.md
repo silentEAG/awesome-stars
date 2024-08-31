@@ -1329,6 +1329,7 @@
 
 ## others 
 
+- [tkmru/awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass) - Awesome EDR Bypass Resources For Ethical Hacking
 - [wjlab/Darksteel](https://github.com/wjlab/Darksteel) - 域内自动化信息搜集利用工具
 - [Cracked5pider/kaine-assembly](https://github.com/Cracked5pider/kaine-assembly) - a demo module for the kaine agent to execute and inject assembly modules
 - [bornacvitanic/fumble](https://github.com/bornacvitanic/fumble) - fumble is an oxidized (Rust-based) implementation of the original clumsy tool, designed to simulate adverse network conditions on Windows systems.
@@ -2077,6 +2078,8 @@
 
 ## rust 
 
+- [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser
+- [Eliah-Lakhin/ad-astra](https://github.com/Eliah-Lakhin/ad-astra) - Scripting language for Rust.
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
