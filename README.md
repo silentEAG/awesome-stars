@@ -282,7 +282,7 @@
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [lal0ne/vulnerability](https://github.com/lal0ne/vulnerability) - 收集、整理、修改互联网上公开的漏洞POC
 - [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) - Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
-- [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) - 支持多人协作的渗透测试C2、Lua插件扩展、域前置/CDN上线、自定义多个模块、自定义sRDI、文件管理、进程管理、内存加载、截图、反向代理
+- [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) - 渗透测试C2、支持Lua插件扩展、域前置/CDN上线、自定义profile、前置sRDI、文件管理、进程管理、内存加载、截图、反向代理
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [Metarget/cloud-native-security-book](https://github.com/Metarget/cloud-native-security-book) - 《云原生安全：攻防实践与体系构建》资料仓库
 - [Enelg52/OffensiveGo](https://github.com/Enelg52/OffensiveGo) - Golang weaponization for red teamers.
@@ -538,7 +538,6 @@
 - [chaitin/xapp](https://github.com/chaitin/xapp) - 
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [zodiacon/AllTools](https://github.com/zodiacon/AllTools) - All reasonably stable tools
-- [Xposed-Modules-Repo/com.r.leapfebruary](https://github.com/Xposed-Modules-Repo/com.r.leapfebruary) - 闰二月，一个小而美的微信模块
 - [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator) - Obfuscator based on LLVM-16.0.6
 - [One-Fox-Security-Team/One-Fox-T00ls](https://github.com/One-Fox-Security-Team/One-Fox-T00ls) - 
 - [AabyssZG/Open-Source-Information-Leakage](https://github.com/AabyssZG/Open-Source-Information-Leakage) - 开源项目信息泄露笔记
