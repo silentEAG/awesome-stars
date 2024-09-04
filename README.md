@@ -401,7 +401,7 @@
 - [kyo-w/router-router](https://github.com/kyo-w/router-router) - Java web路由内存分析工具
 - [luelueking/Bypass_JVM_Verifier](https://github.com/luelueking/Bypass_JVM_Verifier) - Bypass JVM Class ByteCode Verifier , 对抗反编译器
 - [veo/vagent](https://github.com/veo/vagent) - 多功能 java agent 内存马
-- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个JAR包分析工具，SCA漏洞分析，批量分析JAR包，方法调用关系搜索，字符串搜索，Spring组件分析，CFG程序分析，JVM栈帧分析，进阶表达式搜索，字节码指令级的动态调试分析，反编译JAR包一键导出，一键提取序列化数据恶意代码
+- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个JAR包分析工具，SCA漏洞分析，批量分析JAR包，方法调用关系搜索，字符串搜索，Spring组件分析，CFG程序分析，JVM栈帧分析，进阶表达式搜索，字节码指令级的动态调试分析，反编译JAR包一键导出，一键提取序列化数据恶意代码，一键分析BCEL字节码
 - [qi4L/JYso](https://github.com/qi4L/JYso) - It can be either a JNDIExploit or a ysoserial.
 - [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ &lt; 5.18.3 RCE 回显利用 内存马注入
 - [silentEAG/java-patch](https://github.com/silentEAG/java-patch) - awd/awdp 小工具，使用 javassist 对 jar 包进行 patch
@@ -506,6 +506,7 @@
 - [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
 - [TonyCrane/note](https://github.com/TonyCrane/note) - TonyCrane's Public Notebook
 - [ZJU-Turing/TuringCourses](https://github.com/ZJU-Turing/TuringCourses) - 浙江大学图灵班课程学习指南
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Nim 
 
@@ -624,7 +625,6 @@
 - [safe6Sec/Fastjson](https://github.com/safe6Sec/Fastjson) - Fastjson姿势技巧集合
 - [ASTTeam/CodeQL](https://github.com/ASTTeam/CodeQL) - 《深入理解CodeQL》Finding vulnerabilities with CodeQL.
 - [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [xiaoy-sec/Pentest_Note](https://github.com/xiaoy-sec/Pentest_Note) - 渗透测试常规操作记录
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
@@ -1176,6 +1176,7 @@
 
 ## TypeScript 
 
+- [MuelNova/MuelNova.github.io](https://github.com/MuelNova/MuelNova.github.io) - Resume Page for https://zm.md
 - [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - 
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
