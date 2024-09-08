@@ -164,6 +164,7 @@
 
 ## C++ 
 
+- [CICADA8-Research/COMThanasia](https://github.com/CICADA8-Research/COMThanasia) - A set of programs for analyzing common vulnerabilities in COM
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
 - [SheLLVM/SheLLVM](https://github.com/SheLLVM/SheLLVM) - A collection of LLVM transform and analysis passes to write shellcode in regular C
 - [novafacing/cargo-shellcode](https://github.com/novafacing/cargo-shellcode) - Cargo subcommand to build a crate into shellcode
