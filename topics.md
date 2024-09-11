@@ -1348,6 +1348,7 @@
 
 ## others 
 
+- [tqwewe/kameo](https://github.com/tqwewe/kameo) - Fault-tolerant Async Actors Built on Tokio
 - [CICADA8-Research/COMThanasia](https://github.com/CICADA8-Research/COMThanasia) - A set of programs for analyzing common vulnerabilities in COM
 - [onewinner/VulToolsKit](https://github.com/onewinner/VulToolsKit) - 红队武器库漏洞利用工具合集整理
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
@@ -2102,6 +2103,7 @@
 
 ## rust 
 
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust.
 - [lloydmeta/frunk](https://github.com/lloydmeta/frunk) - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser
 - [Eliah-Lakhin/ad-astra](https://github.com/Eliah-Lakhin/ad-astra) - Scripting language for Rust.
@@ -2149,7 +2151,6 @@
 - [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) interpreter.
 - [metaplex-foundation/metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) - Smart contracts maintained by the Metaplex team
 - [zargony/fuse-rs](https://github.com/zargony/fuse-rs) - Rust library for filesystems in userspace (FUSE)
-- [ameknite/rust-ci-cd-template](https://github.com/ameknite/rust-ci-cd-template) - Template to maintain a rust project running CI/CD with Github Workflows.
 - [jerryshell/ac-esp](https://github.com/jerryshell/ac-esp) - AssaultCube ESP DLL with Rust 🦀
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [purpleprotocol/mimalloc_rust](https://github.com/purpleprotocol/mimalloc_rust) - A Rust wrapper over Microsoft's MiMalloc memory allocator
