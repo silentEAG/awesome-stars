@@ -77,7 +77,7 @@
 
 ## C 
 
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [Cracked5pider/kaine-assembly](https://github.com/Cracked5pider/kaine-assembly) - a demo module for the kaine agent to execute and inject assembly modules
 - [OtterHacker/Conferences](https://github.com/OtterHacker/Conferences) - 
 - [TheWover/donut](https://github.com/TheWover/donut) - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters
@@ -448,7 +448,7 @@
 ## JavaScript 
 
 - [Charles7c/charles7c.github.io](https://github.com/Charles7c/charles7c.github.io) - （保持最新版 VitePress）基于 VitePress 构建的个人知识库/博客。扩展 VitePress 默认主题：增加ICP备案号、公安备案号显示，增加文章元数据信息（原创标识、作者、发布时间、分类、标签）显示，增加文末版权声明，增加 Gitalk 评论功能，主页美化、自动生成侧边栏、文章内支持 Mermaid 流程图、MD公式、MD脚注、增加我的标签、我的归档等独立页面，以及浏览器滚条等细
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [repnz/windbg-cheat-sheet](https://github.com/repnz/windbg-cheat-sheet) - My personal cheat sheet for using WinDbg for kernel debugging
 - [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
@@ -677,6 +677,7 @@
 
 ## Python 
 
+- [Ridter/owa_info](https://github.com/Ridter/owa_info) - 获取Exchange信息的小工具
 - [decalage2/oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
 - [Metarget/metarget](https://github.com/Metarget/metarget) - Metarget is a framework providing automatic constructions of vulnerable infrastructures.
 - [RuoJi6/HackerPermKeeper](https://github.com/RuoJi6/HackerPermKeeper) - Linux权限维持
