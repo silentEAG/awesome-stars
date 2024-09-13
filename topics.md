@@ -261,7 +261,7 @@
 
 ## archlinux 
 
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 
 ## artificial-intelligence 
@@ -1089,7 +1089,7 @@
 ## linux 
 
 - [RuoJi6/HackerPermKeeper](https://github.com/RuoJi6/HackerPermKeeper) - Linux权限维持
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [robiot/rustcat](https://github.com/robiot/rustcat) - Rustcat(rcat) - The modern Port listener and Reverse shell
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -1138,7 +1138,7 @@
 ## llm 
 
 - [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - &lt;Beat AI&gt; 又名 &lt;零生万物&gt; , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [casibase/casibase](https://github.com/casibase/casibase) - Spising: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Gr
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
@@ -1175,7 +1175,7 @@
 
 ## macos 
 
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [open-ani/ani](https://github.com/open-ani/ani) - 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ...
@@ -1216,7 +1216,7 @@
 
 ## maven 
 
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 
 ## microsoft 
 
@@ -1293,6 +1293,7 @@
 
 ## nodejs 
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
@@ -1305,7 +1306,7 @@
 
 ## npm 
 
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 
 ## numpy 
@@ -1349,6 +1350,7 @@
 
 ## others 
 
+- [Ridter/owa_info](https://github.com/Ridter/owa_info) - 获取Exchange信息的小工具
 - [1y0n/AV_Evasion_Tool](https://github.com/1y0n/AV_Evasion_Tool) - 掩日 - 免杀执行器生成工具
 - [tqwewe/kameo](https://github.com/tqwewe/kameo) - Fault-tolerant Async Actors Built on Tokio
 - [CICADA8-Research/COMThanasia](https://github.com/CICADA8-Research/COMThanasia) - A set of programs for analyzing common vulnerabilities in COM
@@ -2568,7 +2570,7 @@
 
 ## ubuntu 
 
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwardi
 - [EpicsDAO/solv](https://github.com/EpicsDAO/solv) - 🔥 solv - CLI Tool for Managing Solana Validators
 
@@ -2629,7 +2631,7 @@
 ## windows 
 
 - [StarfireLab/SharpWeb](https://github.com/StarfireLab/SharpWeb) - 一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [daem0nc0re/PrivFu](https://github.com/daem0nc0re/PrivFu) - Kernel mode WinDbg extension and PoCs for token privilege investigation.
 - [joaoviictorti/shadow-rs](https://github.com/joaoviictorti/shadow-rs) - Windows Kernel Rootkit in Rust
