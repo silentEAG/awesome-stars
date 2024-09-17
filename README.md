@@ -166,6 +166,7 @@
 
 ## C++ 
 
+- [Offensive-Panda/ProcessInjectionTechniques](https://github.com/Offensive-Panda/ProcessInjectionTechniques) - This comprehensive process injection series is crafted for cybersecurity enthusiasts, researchers, and professionals who aim to stay at the forefront of the field. It serves as a central repository of
 - [CICADA8-Research/COMThanasia](https://github.com/CICADA8-Research/COMThanasia) - A set of programs for analyzing common vulnerabilities in COM
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
 - [SheLLVM/SheLLVM](https://github.com/SheLLVM/SheLLVM) - A collection of LLVM transform and analysis passes to write shellcode in regular C
@@ -750,7 +751,7 @@
 - [grayhatacademy/ghidra_scripts](https://github.com/grayhatacademy/ghidra_scripts) - Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
 - [Marven11/Fenjing](https://github.com/Marven11/Fenjing) - 专为CTF设计的Jinja2 SSTI全自动绕WAF脚本 | A Jinja2 SSTI cracker for bypassing WAF, designed for CTF
 - [litheory/AWD](https://github.com/litheory/AWD) - awd比赛用到的脚本
-- [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
+- [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - AI Girlfriend NSFW chatbot tool in Python - Build your own AI companion in Python using ChatGPT.
 - [TheKingOfDuck/FileMonitor](https://github.com/TheKingOfDuck/FileMonitor) - 文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具)
 - [MuelNova/PwnUtils](https://github.com/MuelNova/PwnUtils) - A collection of useful pwn scripts in one.
 - [Vu1nT0tal/yarb](https://github.com/Vu1nT0tal/yarb) - 方便获取每日安全资讯的爬虫和推送程序
@@ -809,6 +810,7 @@
 
 ## Rust 
 
+- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Compile Rust code to GBZ80 (Gameboy Z80)
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust
 - [tqwewe/kameo](https://github.com/tqwewe/kameo) - Fault-tolerant Async Actors Built on Tokio
 - [lloydmeta/frunk](https://github.com/lloydmeta/frunk) - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.
