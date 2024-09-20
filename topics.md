@@ -1360,6 +1360,7 @@
 
 ## others 
 
+- [websockets-rs/rust-websocket](https://github.com/websockets-rs/rust-websocket) - A WebSocket (RFC6455) library written in Rust
 - [Offensive-Panda/ProcessInjectionTechniques](https://github.com/Offensive-Panda/ProcessInjectionTechniques) - This comprehensive process injection series is crafted for cybersecurity enthusiasts, researchers, and professionals who aim to stay at the forefront of the field. It serves as a central repository of
 - [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Compile Rust code to GBZ80 (Gameboy Z80)
 - [Dump-GUY/EXE-or-DLL-or-ShellCode](https://github.com/Dump-GUY/EXE-or-DLL-or-ShellCode) - Just a simple silly PoC demonstrating executable "exe" file that can be used like exe, dll or shellcode...
