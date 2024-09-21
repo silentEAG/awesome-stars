@@ -651,7 +651,7 @@
 - [Aabyss-Team/Antivirus-Scan](https://github.com/Aabyss-Team/Antivirus-Scan) - What AV? 一款轻量级的杀软在线识别的项目，持续更新ing
 - [ProbiusOfficial/PHPSerialize-labs](https://github.com/ProbiusOfficial/PHPSerialize-labs) - 【Hello-CTF labs】PHPSerialize-labs是一个使用php语言编写的，用于学习CTF中PHP反序列化的入门靶场。旨在帮助大家对PHP的序列化和反序列化有一个全面的了解。
 - [EkiXu/WAFManis](https://github.com/EkiXu/WAFManis) - 
-- [1337r0j4n/php-backdoors](https://github.com/1337r0j4n/php-backdoors) - php backdoors ( collection )
+- [1337r0j4n/php-backdoors](https://github.com/1337r0j4n/php-backdoors) - php backdoors collection
 - [misaka19008/PerlinPuzzle-Webshell-PHP](https://github.com/misaka19008/PerlinPuzzle-Webshell-PHP) - 使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [StarCrossPortal/QingTing](https://github.com/StarCrossPortal/QingTing) - 蜻蜓安全一个安全工具编排平台,可以自由编排你的工具流,集成108款工具,包括xray、nmap、awvs等;你可以将喜欢的工具编排成一个场景，快速打造适合自己的安全工作台~
@@ -810,6 +810,7 @@
 
 ## Rust 
 
+- [knsd/daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons
 - [websockets-rs/rust-websocket](https://github.com/websockets-rs/rust-websocket) - A WebSocket (RFC6455) library written in Rust
 - [sonodima/microseh](https://github.com/sonodima/microseh) - Structured Exception Handling (SEH) for Rust
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
