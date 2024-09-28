@@ -997,7 +997,7 @@
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
 - [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
@@ -1210,6 +1210,7 @@
 
 ## TypeScript 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [91ac0m0/new-word-discoverer](https://github.com/91ac0m0/new-word-discoverer) - 
 - [MuelNova/MuelNova.github.io](https://github.com/MuelNova/MuelNova.github.io) - Resume Page for https://zm.md
 - [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - 
