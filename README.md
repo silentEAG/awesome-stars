@@ -865,7 +865,7 @@
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [Mufanc/DexHunter](https://github.com/Mufanc/DexHunter) - 基于内存探测的简易脱壳小工具
 - [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux)
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
