@@ -263,6 +263,7 @@
 
 ## Go 
 
+- [EvilBytecode/GoRedOps](https://github.com/EvilBytecode/GoRedOps) - 🦫  | GoRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Go programming language, all is made for education
 - [4ra1n/poc-runner](https://github.com/4ra1n/poc-runner) - Small & Fast Vulnerability Scanner Engine based on XRAY YAML Rule | 基于 XRAY YAML 规则的超轻量快速漏洞扫描引擎 | 基于 ANTLR 实现语法分析和完整的 XRAY YAML 规则实现 | 简单的启动参数 | 包含多种反连可用 | 可执行文件体积仅 2 MB
 - [wjlab/Darksteel](https://github.com/wjlab/Darksteel) - 域内自动化信息搜集利用工具
 - [fdx-xdf/darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，免杀火绒，360核晶等国内常见杀软。
@@ -540,6 +541,7 @@
 
 ## Others 
 
+- [RoseSecurity/Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) - Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
 - [tkmru/awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass) - Awesome EDR Bypass Resources For Ethical Hacking
 - [sevagas/Advanced_Initial_access_in_2024_OffensiveX](https://github.com/sevagas/Advanced_Initial_access_in_2024_OffensiveX) - Resources linked to my presentation at OffensiveX in Athens in June 2024 on the topic "Breach the Gat, Advanced Initial Access in 2024"
 - [sannykim/solsec](https://github.com/sannykim/solsec) - A collection of resources to study Solana smart contract security, auditing, and exploits.
@@ -814,6 +816,7 @@
 
 ## Rust 
 
+- [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
 - [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust
 - [trickster0/NamelessC2](https://github.com/trickster0/NamelessC2) - Nameless C2 - A C2 with all its components written in Rust
 - [google/googletest-rust](https://github.com/google/googletest-rust) - 
@@ -1054,7 +1057,6 @@
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [memN0ps/eagle-rs](https://github.com/memN0ps/eagle-rs) - Rusty Rootkit - Windows Kernel Rookit in Rust (Codename: Eagle)
-- [YDHCUI/manjusaka](https://github.com/YDHCUI/manjusaka) - 牛屎花 一款基于WEB界面的远程主机管理工具
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [haoami/BypassAvStudy](https://github.com/haoami/BypassAvStudy) - rust 免杀记录学习
 - [google/OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
@@ -1105,7 +1107,7 @@
 - [Ogeon/palette](https://github.com/Ogeon/palette) - A Rust library for linear color calculations and conversion
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week!
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week.
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, 
 - [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
