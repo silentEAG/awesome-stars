@@ -194,6 +194,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [unity](#unity)
+- [vagrant](#vagrant)
 - [vim](#vim)
 - [vue](#vue)
 - [web](#web)
@@ -253,6 +254,7 @@
 
 ## ansible 
 
+- [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 
 ## api 
@@ -553,6 +555,7 @@
 
 ## cybersecurity 
 
+- [RoseSecurity/Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) - Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [The-Z-Labs/bof-launcher](https://github.com/The-Z-Labs/bof-launcher) - Beacon Object File (BOF) launcher - library for executing BOF files in C/C++/Zig applications
 - [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
@@ -604,7 +607,7 @@
 - [k8gege/K8tools](https://github.com/k8gege/K8tools) - K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week!
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
@@ -798,6 +801,7 @@
 
 ## go 
 
+- [EvilBytecode/GoRedOps](https://github.com/EvilBytecode/GoRedOps) - 🦫  | GoRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Go programming language, all is made for education
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [f1zm0/acheron](https://github.com/f1zm0/acheron) - indirect syscalls for AV/EDR evasion in Go assembly
@@ -816,6 +820,7 @@
 
 ## golang 
 
+- [EvilBytecode/GoRedOps](https://github.com/EvilBytecode/GoRedOps) - 🦫  | GoRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Go programming language, all is made for education
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [f1zm0/acheron](https://github.com/f1zm0/acheron) - indirect syscalls for AV/EDR evasion in Go assembly
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
@@ -850,6 +855,8 @@
 
 ## hacking 
 
+- [EvilBytecode/GoRedOps](https://github.com/EvilBytecode/GoRedOps) - 🦫  | GoRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Go programming language, all is made for education
+- [RoseSecurity/Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) - Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
 - [trickest/wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -988,6 +995,7 @@
 
 ## ios 
 
+- [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
 - [gloxec/CrossC2](https://github.com/gloxec/CrossC2) - generate CobaltStrike's cross-platform payload
 - [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll) - :electron: O-MVLL is a LLVM-based obfuscator for native code (Android & iOS)
@@ -1776,7 +1784,6 @@
 - [ChrisTheCoolHut/Zeratool](https://github.com/ChrisTheCoolHut/Zeratool) - Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems
 - [shuosc/SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) - 上海大学本科生毕业论文Typst模板
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
-- [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [QQKdeGit/bupt-typst](https://github.com/QQKdeGit/bupt-typst) - 北京邮电大学本科生毕设论文 Typst 模板。Typst template for dissertations in Beijing University of Posts and Telecommunications (BUPT).
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
@@ -1787,7 +1794,6 @@
 - [qiufuyu123/fxesplus](https://github.com/qiufuyu123/fxesplus) - fx-991cnx逆向工程工具/整理
 - [jiushill/note](https://github.com/jiushill/note) - 记录自己写的工具和学习笔记
 - [zema1/watchvuln](https://github.com/zema1/watchvuln) - 一个高价值漏洞采集与推送服务 | collect valueable vulnerability and push it
-- [YDHCUI/manjusaka](https://github.com/YDHCUI/manjusaka) - 牛屎花 一款基于WEB界面的远程主机管理工具
 - [iSafeBlue/TrackRay](https://github.com/iSafeBlue/TrackRay) - 溯光 (TrackRay) 3 beta⚡渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|代码审计|AWVS|NMAP|Metasploit|SQLMap）
 - [haoami/BypassAvStudy](https://github.com/haoami/BypassAvStudy) - rust 免杀记录学习
 - [LandGrey/xxe-ftp-server](https://github.com/LandGrey/xxe-ftp-server) - xxe oob receive file via web and ftp server
@@ -2141,6 +2147,7 @@
 
 ## rust 
 
+- [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
 - [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust
 - [kevinheavey/solders](https://github.com/kevinheavey/solders) - A high-performance Python toolkit for Solana, written in Rust
 - [knsd/daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons
@@ -2311,7 +2318,7 @@
 - [rust-scraper/scraper](https://github.com/rust-scraper/scraper) - HTML parsing and querying with CSS selectors
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week!
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week.
 - [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, 
 - [postrequest/link](https://github.com/postrequest/link) - link is a command and control framework written in rust
 - [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation
@@ -2362,6 +2369,7 @@
 
 ## security 
 
+- [EvilBytecode/GoRedOps](https://github.com/EvilBytecode/GoRedOps) - 🦫  | GoRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Go programming language, all is made for education
 - [decalage2/oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
 - [4ra1n/poc-runner](https://github.com/4ra1n/poc-runner) - Small & Fast Vulnerability Scanner Engine based on XRAY YAML Rule | 基于 XRAY YAML 规则的超轻量快速漏洞扫描引擎 | 基于 ANTLR 实现语法分析和完整的 XRAY YAML 规则实现 | 简单的启动参数 | 包含多种反连可用 | 可执行文件体积仅 2 MB
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
@@ -2574,6 +2582,7 @@
 
 ## terraform 
 
+- [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 
 ## testing 
@@ -2619,6 +2628,10 @@
 ## unity 
 
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
+
+## vagrant 
+
+- [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 
 ## vim 
 
@@ -2672,6 +2685,7 @@
 
 ## windows 
 
+- [EvilBytecode/GoRedOps](https://github.com/EvilBytecode/GoRedOps) - 🦫  | GoRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Go programming language, all is made for education
 - [sonodima/microseh](https://github.com/sonodima/microseh) - Structured Exception Handling (SEH) for Rust
 - [StarfireLab/SharpWeb](https://github.com/StarfireLab/SharpWeb) - 一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
