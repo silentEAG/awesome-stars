@@ -1378,6 +1378,7 @@
 
 ## others 
 
+- [denoland/rustls-tokio-stream](https://github.com/denoland/rustls-tokio-stream) - AsyncRead/AsyncWrite interface for rustls-on-Tokio
 - [trickster0/NamelessC2](https://github.com/trickster0/NamelessC2) - Nameless C2 - A C2 with all its components written in Rust
 - [google/googletest-rust](https://github.com/google/googletest-rust) - 
 - [haolinyang-hlyang/haolinyang-hlyang.github.io](https://github.com/haolinyang-hlyang/haolinyang-hlyang.github.io) - 
