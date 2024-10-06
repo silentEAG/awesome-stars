@@ -17,7 +17,6 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
-- [HCL](#hcl)
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Java](#java)
@@ -352,10 +351,6 @@
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [andeya/pholcus](https://github.com/andeya/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
 
-## HCL 
-
-- [Hacker-Hermanos/C2_INFRA_WORKSHOP_DEFCON32_RED_TEAM_VILLAGE](https://github.com/Hacker-Hermanos/C2_INFRA_WORKSHOP_DEFCON32_RED_TEAM_VILLAGE) - C2 Infrastructure Automation
-
 ## HTML 
 
 - [onewinner/VulToolsKit](https://github.com/onewinner/VulToolsKit) - 红队武器库漏洞利用工具合集整理
@@ -485,6 +480,7 @@
 
 ## Jinja 
 
+- [Hacker-Hermanos/C2_INFRA_WORKSHOP_DEFCON32_RED_TEAM_VILLAGE](https://github.com/Hacker-Hermanos/C2_INFRA_WORKSHOP_DEFCON32_RED_TEAM_VILLAGE) - C2 Infrastructure Automation
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 
 ## Jupyter Notebook 
@@ -816,6 +812,7 @@
 
 ## Rust 
 
+- [safedv/Rustic64](https://github.com/safedv/Rustic64) - 64-bit, position-independent implant template for Windows in Rust.
 - [denoland/rustls-tokio-stream](https://github.com/denoland/rustls-tokio-stream) - AsyncRead/AsyncWrite interface for rustls-on-Tokio
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
 - [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust
