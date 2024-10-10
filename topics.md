@@ -2151,6 +2151,7 @@
 
 ## rust 
 
+- [joaoviictorti/coffeeldr](https://github.com/joaoviictorti/coffeeldr) - A COFF Loader written in Rust
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
 - [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust
 - [kevinheavey/solders](https://github.com/kevinheavey/solders) - A high-performance Python toolkit for Solana, written in Rust
@@ -2689,6 +2690,7 @@
 
 ## windows 
 
+- [joaoviictorti/coffeeldr](https://github.com/joaoviictorti/coffeeldr) - A COFF Loader written in Rust
 - [EvilBytecode/GoRedOps](https://github.com/EvilBytecode/GoRedOps) - 🦫  | GoRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Go programming language, all is made for education
 - [sonodima/microseh](https://github.com/sonodima/microseh) - Structured Exception Handling (SEH) for Rust
 - [StarfireLab/SharpWeb](https://github.com/StarfireLab/SharpWeb) - 一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。
