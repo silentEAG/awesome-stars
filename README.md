@@ -413,7 +413,7 @@
 - [luelueking/Bypass_JVM_Verifier](https://github.com/luelueking/Bypass_JVM_Verifier) - Bypass JVM Class ByteCode Verifier , 对抗反编译器
 - [veo/vagent](https://github.com/veo/vagent) - 多功能 java agent 内存马
 - [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个JAR包分析工具，SCA漏洞分析，批量分析JAR包，方法调用关系搜索，字符串搜索，Spring组件分析，CFG程序分析，JVM栈帧分析，进阶表达式搜索，字节码指令级的动态调试分析，反编译JAR包一键导出，一键提取序列化数据恶意代码，一键分析BCEL字节码
-- [qi4L/JYso](https://github.com/qi4L/JYso) - It can be either a JNDIExploit or a ysoserial.
+- [qi4L/JYso](https://github.com/qi4L/JYso) - JNDIExploit or a ysoserial.
 - [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ &lt; 5.18.3 RCE 回显利用 内存马注入
 - [silentEAG/java-patch](https://github.com/silentEAG/java-patch) - awd/awdp 小工具，使用 javassist 对 jar 包进行 patch
 - [lsieun/learn-java-asm](https://github.com/lsieun/learn-java-asm) - :bug: Java ASM
