@@ -1384,7 +1384,7 @@
 ## others 
 
 - [jam1garner/owo-colors](https://github.com/jam1garner/owo-colors) - A zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal
-- [safedv/RustiveDump](https://github.com/safedv/RustiveDump) - LSASS memory dumper using only NTAPIs, creating a minimal minidump, built in Rust with no_std and independent of the C runtime (CRT). It supports XOR encryption and remote file transmission.
+- [safedv/RustiveDump](https://github.com/safedv/RustiveDump) - LSASS memory dumper using only NTAPIs, creating a minimal minidump, built in Rust with no_std and independent of the C runtime (CRT). It can be compiled as shellcode (PIC), supports XOR encryption, an
 - [safedv/Rustic64](https://github.com/safedv/Rustic64) - 64-bit, position-independent implant template for Windows in Rust.
 - [denoland/rustls-tokio-stream](https://github.com/denoland/rustls-tokio-stream) - AsyncRead/AsyncWrite interface for rustls-on-Tokio
 - [trickster0/NamelessC2](https://github.com/trickster0/NamelessC2) - Nameless C2 - A C2 with all its components written in Rust
@@ -1394,7 +1394,6 @@
 - [med0x2e/SigFlip](https://github.com/med0x2e/SigFlip) - SigFlip is a tool for patching authenticode signed PE files (exe, dll, sys ..etc) without invalidating or breaking the existing signature.
 - [websockets-rs/rust-websocket](https://github.com/websockets-rs/rust-websocket) - A WebSocket (RFC6455) library written in Rust
 - [Offensive-Panda/ProcessInjectionTechniques](https://github.com/Offensive-Panda/ProcessInjectionTechniques) - This comprehensive process injection series is crafted for cybersecurity enthusiasts, researchers, and professionals who aim to stay at the forefront of the field. It serves as a central repository of
-- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Compile Rust code to GBZ80 (Gameboy Z80)
 - [Dump-GUY/EXE-or-DLL-or-ShellCode](https://github.com/Dump-GUY/EXE-or-DLL-or-ShellCode) - Just a simple silly PoC demonstrating executable "exe" file that can be used like exe, dll or shellcode...
 - [Ridter/owa_info](https://github.com/Ridter/owa_info) - 获取Exchange信息的小工具
 - [1y0n/AV_Evasion_Tool](https://github.com/1y0n/AV_Evasion_Tool) - 掩日 - 免杀执行器生成工具
@@ -2160,6 +2159,7 @@
 - [knsd/daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons
 - [sonodima/microseh](https://github.com/sonodima/microseh) - Structured Exception Handling (SEH) for Rust
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
+- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Compile Rust code to GBZ80 (Gameboy Z80)
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust
 - [lloydmeta/frunk](https://github.com/lloydmeta/frunk) - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser
