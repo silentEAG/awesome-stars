@@ -321,7 +321,7 @@
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [chunzhennn/separa](https://github.com/chunzhennn/separa) - 
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [chainreactors/gogo](https://github.com/chainreactors/gogo) - 面向红队的, 高度可控可拓展的自动化引擎
 - [qjfoidnh/BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
 - [i11us0ry/winlog](https://github.com/i11us0ry/winlog) - 一款基于go的windows信息收集工具，主要收集目标机器rdp端口、mstsc远程连接记录、mstsc密码和安全事件中4624、4625登录事件记录
@@ -338,7 +338,7 @@
 - [veo/vscan](https://github.com/veo/vscan) - 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz)
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
 - [zema1/watchvuln](https://github.com/zema1/watchvuln) - 一个高价值漏洞采集与推送服务 | collect valueable vulnerability and push it
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
@@ -1217,10 +1217,11 @@
 
 ## TypeScript 
 
+- [maru-re/maru](https://github.com/maru-re/maru) - 「唱歌學日文」 - 基於 YouTube 的歌曲歌詞閱讀器
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [91ac0m0/new-word-discoverer](https://github.com/91ac0m0/new-word-discoverer) - 
 - [MuelNova/MuelNova.github.io](https://github.com/MuelNova/MuelNova.github.io) - Resume Page for https://zm.md
-- [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - 
+- [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - Obsidian Plugin for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
