@@ -496,7 +496,7 @@
 
 ## Kotlin 
 
-- [open-ani/ani](https://github.com/open-ani/ani) - 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ... 100% Kotlin Compose Multiplatform
+- [open-ani/animeko](https://github.com/open-ani/animeko) - 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ... 100% Kotlin Compose Multiplatform
 - [MuelNova/MiFitness-Uploader-XPosed](https://github.com/MuelNova/MiFitness-Uploader-XPosed) - An XPosed plugin for "MiFitness(小米健康)", allowing you to fetch the data using socket.
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
@@ -968,7 +968,7 @@
 - [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
 - [m4b/goblin](https://github.com/m4b/goblin) - An impish, cross-platform binary parsing crate, written in Rust
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
-- [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data collector for BloodHound Legacy written in Rust. 🦀
+- [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data ingestor for BloodHound Legacy written in Rust. 🦀
 - [bluss/scopeguard](https://github.com/bluss/scopeguard) - Rust crate for a convenient RAII scope guard.
 - [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
 - [SeaQL/FireDBG.for.Rust](https://github.com/SeaQL/FireDBG.for.Rust) - 🔥 Time Travel Visual Debugger for Rust
