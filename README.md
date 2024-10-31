@@ -653,7 +653,6 @@
 - [Aabyss-Team/Antivirus-Scan](https://github.com/Aabyss-Team/Antivirus-Scan) - What AV? 一款轻量级的杀软在线识别的项目，持续更新ing
 - [ProbiusOfficial/PHPSerialize-labs](https://github.com/ProbiusOfficial/PHPSerialize-labs) - 【Hello-CTF labs】PHPSerialize-labs是一个使用php语言编写的，用于学习CTF中PHP反序列化的入门靶场。旨在帮助大家对PHP的序列化和反序列化有一个全面的了解。
 - [EkiXu/WAFManis](https://github.com/EkiXu/WAFManis) - 
-- [1337r0j4n/php-backdoors](https://github.com/1337r0j4n/php-backdoors) - php backdoors collection
 - [misaka19008/PerlinPuzzle-Webshell-PHP](https://github.com/misaka19008/PerlinPuzzle-Webshell-PHP) - 使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [StarCrossPortal/QingTing](https://github.com/StarCrossPortal/QingTing) - 蜻蜓安全一个安全工具编排平台,可以自由编排你的工具流,集成108款工具,包括xray、nmap、awvs等;你可以将喜欢的工具编排成一个场景，快速打造适合自己的安全工作台~
@@ -1072,7 +1071,7 @@
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 - [RazrFalcon/pico-args](https://github.com/RazrFalcon/pico-args) - An ultra simple CLI arguments parser.
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [mokeyish/smartdns-rs](https://github.com/mokeyish/smartdns-rs) - A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
@@ -1088,7 +1087,7 @@
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
 - [ItsEthra/scotch](https://github.com/ItsEthra/scotch) - Create WASM plugins easily in Rust
 - [SUPERCILEX/forkfs](https://github.com/SUPERCILEX/forkfs) - ForkFS allows you to sandbox a process's changes to your file system.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [MythicAgents/thanatos](https://github.com/MythicAgents/thanatos) - Mythic C2 agent targeting Linux and Windows hosts written in Rust
 - [neonmoe/minreq](https://github.com/neonmoe/minreq) - Simple, minimal-dependency HTTP client.
