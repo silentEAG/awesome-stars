@@ -169,6 +169,7 @@
 
 ## C++ 
 
+- [Dec0ne/HWSyscalls](https://github.com/Dec0ne/HWSyscalls) - HWSyscalls is a new method to execute indirect syscalls using HWBP, HalosGate and a synthetic trampoline on kernel32 with HWBP.
 - [Offensive-Panda/ProcessInjectionTechniques](https://github.com/Offensive-Panda/ProcessInjectionTechniques) - This comprehensive process injection series is crafted for cybersecurity enthusiasts, researchers, and professionals who aim to stay at the forefront of the field. It serves as a central repository of
 - [CICADA8-Research/COMThanasia](https://github.com/CICADA8-Research/COMThanasia) - A set of programs for analyzing common vulnerabilities in COM
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
