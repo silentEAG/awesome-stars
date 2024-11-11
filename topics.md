@@ -486,6 +486,8 @@
 
 ## compiler 
 
+- [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
+- [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [FuelLabs/sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
@@ -559,6 +561,7 @@
 
 ## cybersecurity 
 
+- [wh0amitz/SharpADWS](https://github.com/wh0amitz/SharpADWS) - Active Directory reconnaissance and exploitation for Red Teams via the Active Directory Web Services (ADWS).
 - [RoseSecurity/Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) - Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [The-Z-Labs/bof-launcher](https://github.com/The-Z-Labs/bof-launcher) - Beacon Object File (BOF) launcher - library for executing BOF files in C/C++/Zig applications
@@ -900,13 +903,13 @@
 
 ## hacktoberfest 
 
+- [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) - Distributed System that simplifies the management of containers and virtual machines.
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Compile Rust code to GBZ80 (Gameboy Z80)
 - [robiot/rustcat](https://github.com/robiot/rustcat) - Rustcat(rcat) - The modern Port listener and Reverse shell
 - [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A MITM Proxy 🧑‍💻! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities. Learning Project.
-- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [DeimosC2/DeimosC2](https://github.com/DeimosC2/DeimosC2) - DeimosC2 is a Golang command and control framework for post-exploitation.
@@ -1396,8 +1399,13 @@
 
 ## others 
 
+- [JackOfMostTrades/gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector) - A byte code analyzer for finding deserialization gadget chains in Java applications
+- [silentEAG/RedTeamOps](https://github.com/silentEAG/RedTeamOps) - Use Rust to implement some Red Team techniques :)
+- [Teach2Breach/early_cascade_inj_rs](https://github.com/Teach2Breach/early_cascade_inj_rs) - early cascade injection PoC based on Outflanks blog post, in rust
+- [Cracked5pider/earlycascade-injection](https://github.com/Cracked5pider/earlycascade-injection) - early cascade injection PoC based on Outflanks blog post
+- [gmu-swe/phosphor](https://github.com/gmu-swe/phosphor) - Phosphor: Dynamic Taint Tracking for the JVM
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
-- [Ar3h/web-chains](https://github.com/Ar3h/web-chains) - Web 版 Java Payload 生成与漏洞利用工具，提供 Java 反序列化、Hessian 1/2 反序列化等 Payload 生成，以及 JNDI Exploit、Fake Mysql Exploit、JRMPListener 等相关利用
+- [Java-Chains/web-chains](https://github.com/Java-Chains/web-chains) - Web 版 Java Payload 生成与漏洞利用工具，提供 Java 反序列化、Hessian 1/2 反序列化等 Payload 生成，以及 JNDI Exploit、Fake Mysql Exploit、JRMPListener 等相关利用
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [Dec0ne/HWSyscalls](https://github.com/Dec0ne/HWSyscalls) - HWSyscalls is a new method to execute indirect syscalls using HWBP, HalosGate and a synthetic trampoline on kernel32 with HWBP.
 - [BeichenDream/BadPotato](https://github.com/BeichenDream/BadPotato) - Windows 权限提升 BadPotato
@@ -1508,7 +1516,6 @@
 - [LxxxSec/CTF-Java-Gadget](https://github.com/LxxxSec/CTF-Java-Gadget) - CTF-Java-Gadget专注于收集CTF中Java赛题的反序列化片段
 - [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
 - [trustedsec/CS-Remote-OPs-BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF) - 
-- [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator) - Obfuscator based on LLVM-16.0.6
 - [Kharos102/ReadWriteDriverSample](https://github.com/Kharos102/ReadWriteDriverSample) - 
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 - [Mayter/mssql-command-tool](https://github.com/Mayter/mssql-command-tool) - xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作，上传，job等相应操作。
@@ -1767,7 +1774,6 @@
 - [Tokeii0/VolatilityPro](https://github.com/Tokeii0/VolatilityPro) - 一款用于自动化处理内存取证的Python脚本，并提供GUI界面
 - [grayhatacademy/ghidra_scripts](https://github.com/grayhatacademy/ghidra_scripts) - Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
 - [qjfoidnh/BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
-- [StarCrossPortal/QingTing](https://github.com/StarCrossPortal/QingTing) - 蜻蜓安全一个安全工具编排平台,可以自由编排你的工具流,集成108款工具,包括xray、nmap、awvs等;你可以将喜欢的工具编排成一个场景，快速打造适合自己的安全工作台~
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [i11us0ry/winlog](https://github.com/i11us0ry/winlog) - 一款基于go的windows信息收集工具，主要收集目标机器rdp端口、mstsc远程连接记录、mstsc密码和安全事件中4624、4625登录事件记录
 - [litheory/AWD](https://github.com/litheory/AWD) - awd比赛用到的脚本
@@ -1946,7 +1952,7 @@
 
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
-- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
+- [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
@@ -2175,6 +2181,8 @@
 
 ## rust 
 
+- [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
+- [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [mattwparas/steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
