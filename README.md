@@ -170,6 +170,7 @@
 
 ## C++ 
 
+- [Offensive-Panda/ShadowDumper](https://github.com/Offensive-Panda/ShadowDumper) - Shadow Dumper is a powerful tool used to dump LSASS memory, often needed in penetration testing and red teaming. It uses multiple advanced techniques to dump memory, allowing to access sensitive data 
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [Cracked5pider/earlycascade-injection](https://github.com/Cracked5pider/earlycascade-injection) - early cascade injection PoC based on Outflanks blog post
 - [Dec0ne/HWSyscalls](https://github.com/Dec0ne/HWSyscalls) - HWSyscalls is a new method to execute indirect syscalls using HWBP, HalosGate and a synthetic trampoline on kernel32 with HWBP.
@@ -632,7 +633,6 @@
 - [Yuki-Master/Japanese-R18-anime-download](https://github.com/Yuki-Master/Japanese-R18-anime-download) - 这是日本里番合集，磁力下载地区
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [dyingsu/nolsp](https://github.com/dyingsu/nolsp) - NoLsp_fix_WSL2_参考的对象类型不支持尝试的操作.exe 下载此软件(原始链接_www.proxifier.com/tmp/Test20200228/NoLsp.exe) 管理员身份运行CMD输入：  NoLsp.exe C:\windows\system32\wsl.exe  请自行注意NoLsp.exe程序的位置，以及你的wsl.exe位置。  产生原因和解决方法分析：  代理软件
-- [veo/vshell](https://github.com/veo/vshell) - vshell 是一款安全对抗模拟、红队工具。提供隧道代理和隐蔽通道，模拟长期潜伏攻击者的策略和技术
 - [RicoloveFeng/SPA-Freestyle-Guidance](https://github.com/RicoloveFeng/SPA-Freestyle-Guidance) - 带你畅游《软件分析》
 - [gobysec/Goby](https://github.com/gobysec/Goby) - Attack surface mapping
 - [Awrrays/Pentest-Tips](https://github.com/Awrrays/Pentest-Tips) - RedTeam Pentesting 学习资源，工具
