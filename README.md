@@ -77,6 +77,7 @@
 
 ## C 
 
+- [0xEr3bus/PoolPartyBof](https://github.com/0xEr3bus/PoolPartyBof) - A beacon object file implementation of PoolParty Process Injection Technique.
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 - [Dump-GUY/EXE-or-DLL-or-ShellCode](https://github.com/Dump-GUY/EXE-or-DLL-or-ShellCode) - Just a simple silly PoC demonstrating executable "exe" file that can be used like exe, dll or shellcode...
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
@@ -263,7 +264,7 @@
 
 ## Dockerfile 
 
-- [Java-Chains/web-chains](https://github.com/Java-Chains/web-chains) - Web 版 Java Payload 生成与漏洞利用工具，提供 Java 反序列化、Hessian 1/2 反序列化等 Payload 生成，以及 JNDI Exploit、Fake Mysql Exploit、JRMPListener 等相关利用
+- [Java-Chains/web-chains](https://github.com/Java-Chains/web-chains) - Web 版 Java Payload 生成与利用工具，提供 Java 反序列化、Hessian 1/2 反序列化等Payload生成，以及 JNDI、Fake Mysql、JRMPListener 等利用｜The web version of Java Payload generation and utilization tool provides Payload generation such 
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
 - [phith0n/phpsrc-debug-docker](https://github.com/phith0n/phpsrc-debug-docker) - Debug environment for PHP inside a Docker container. Document waiting to be completed.
 - [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries. Supports openssl and diesel crates.
