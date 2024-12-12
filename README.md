@@ -843,7 +843,7 @@
 - [silentEAG/RedTeamOps](https://github.com/silentEAG/RedTeamOps) - Use Rust to implement some Red Team techniques :)
 - [Teach2Breach/early_cascade_inj_rs](https://github.com/Teach2Breach/early_cascade_inj_rs) - early cascade injection PoC based on Outflanks blog post, in rust
 - [mattwparas/steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
-- [next-hat/nanocl](https://github.com/next-hat/nanocl) - Distributed System that simplifies the management of containers and virtual machines.
+- [next-hat/nanocl](https://github.com/next-hat/nanocl) - Distributed System that simplifies the orchestration of containers and virtual machines.
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
