@@ -469,6 +469,7 @@
 
 ## JavaScript 
 
+- [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [Charles7c/charles7c.github.io](https://github.com/Charles7c/charles7c.github.io) - （保持最新版 VitePress）基于 VitePress 构建的个人知识库/博客。扩展 VitePress 默认主题：增加ICP备案号、公安备案号显示，增加文章元数据信息（原创标识、作者、发布时间、分类、标签）显示，增加文末版权声明，增加 Gitalk 评论功能，主页美化、自动生成侧边栏、文章内支持 Mermaid 流程图、MD公式、MD脚注、增加我的标签、我的归档等独立页面，以及浏览器滚条等细
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
@@ -560,6 +561,7 @@
 
 ## Others 
 
+- [XiaomingX/1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么；Chinese Independent Developers Projects List - Discover What Everyone Is Building 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻
 - [rdragos/awesome-mpc](https://github.com/rdragos/awesome-mpc) - A curated list of multi party computation resources and links.
 - [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual) - Prompt越狱手册
 - [lintstar/CS-AutoPostChain](https://github.com/lintstar/CS-AutoPostChain) - 基于 OPSEC 的 CobaltStrike 后渗透自动化链
@@ -836,6 +838,7 @@
 
 ## Rust 
 
+- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions
 - [Teach2Breach/snapinject_rs](https://github.com/Teach2Breach/snapinject_rs) - based on https://gitlab.com/ORCA000/snaploader
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings, reranking locally
@@ -844,7 +847,7 @@
 - [silentEAG/RedTeamOps](https://github.com/silentEAG/RedTeamOps) - Use Rust to implement some Red Team techniques :)
 - [Teach2Breach/early_cascade_inj_rs](https://github.com/Teach2Breach/early_cascade_inj_rs) - early cascade injection PoC based on Outflanks blog post, in rust
 - [mattwparas/steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
-- [next-hat/nanocl](https://github.com/next-hat/nanocl) - Distributed System that simplifies the orchestration of containers and virtual machines.
+- [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
