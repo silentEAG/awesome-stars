@@ -1418,7 +1418,8 @@
 
 ## others 
 
-- [X1r0z/rsproxy](https://github.com/X1r0z/rsproxy) - Rsproxy is a lightweight port-forwarding and socks proxy tool written in Rust 🦀
+- [BYRIO/Domain0](https://github.com/BYRIO/Domain0) - A cloud resource management system designed to manage multiple cloud providers for multi-users.
+- [X1r0z/pivot-rs](https://github.com/X1r0z/pivot-rs) - pivot-rs is a lightweight port-forwarding and socks proxy tool written in Rust 🦀
 - [andfoy/winpty-rs](https://github.com/andfoy/winpty-rs) - Create and spawn processes inside a pseudoterminal in Windows from Rust
 - [safedv/RustSoliloquy](https://github.com/safedv/RustSoliloquy) - A Rust implementation of Internal-Monologue — retrieving NetNTLM hashes without touching LSASS, leveraging SSPI for NTLM negotiation and indirect NTAPIs for core operations.
 - [XiaomingX/1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么；Chinese Independent Developers Projects List - Discover What Everyone Is Building 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻
