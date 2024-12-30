@@ -1176,7 +1176,7 @@
 - [RoderickChan/pwncli](https://github.com/RoderickChan/pwncli) - Do pwn by command line
 - [mokeyish/smartdns-rs](https://github.com/mokeyish/smartdns-rs) - A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
@@ -1249,7 +1249,7 @@
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [mokeyish/smartdns-rs](https://github.com/mokeyish/smartdns-rs) - A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [OpenBluetoothToolbox/SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, Linux and Android.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -1547,7 +1547,7 @@
 - [PassKeyRa/solana-ebpf-ida-processor](https://github.com/PassKeyRa/solana-ebpf-ida-processor) - Solana Virtual Machine bytecode processor for IDA Pro
 - [Bl0omZ/JNDIEXP](https://github.com/Bl0omZ/JNDIEXP) - JNDI在java高版本的利用工具,FUZZ利用链
 - [jar-analyzer/jar-obfuscator](https://github.com/jar-analyzer/jar-obfuscator) - Jar Obfuscator - 一个 JAR/CLASS 字节码混淆工具，支持包名/类名/方法名/字段名/参数名引用分析和重命名混淆方式，支持字符串加密/整型异或混淆/垃圾代码花指令混淆/等方式，支持方法和字段的隐藏，支持 NATIVE 层的 JVMTI 代码加密，配置简单，文档教程齐全，容易上手
-- [LxxxSec/CTF-Java-Gadget](https://github.com/LxxxSec/CTF-Java-Gadget) - CTF-Java-Gadget专注于收集CTF中Java赛题的反序列化片段
+- [datouo/CTF-Java-Gadget](https://github.com/datouo/CTF-Java-Gadget) - CTF-Java-Gadget专注于收集CTF中Java赛题的反序列化片段
 - [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
 - [trustedsec/CS-Remote-OPs-BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF) - 
 - [Kharos102/ReadWriteDriverSample](https://github.com/Kharos102/ReadWriteDriverSample) - 
@@ -2379,7 +2379,7 @@
 - [ItsEthra/scotch](https://github.com/ItsEthra/scotch) - Create WASM plugins easily in Rust
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [SUPERCILEX/forkfs](https://github.com/SUPERCILEX/forkfs) - ForkFS allows you to sandbox a process's changes to your file system.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [neonmoe/minreq](https://github.com/neonmoe/minreq) - Simple, minimal-dependency HTTP client.
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
@@ -2830,6 +2830,7 @@
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust. Developed by Surface.
 - [Kudaes/DInvoke_rs](https://github.com/Kudaes/DInvoke_rs) - Dynamically invoke arbitrary unmanaged code
@@ -2857,7 +2858,7 @@
 - [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
 - [Kudaes/rust_tips_and_tricks](https://github.com/Kudaes/rust_tips_and_tricks) - Rust For Windows Cheatsheet
 - [jxy-s/herpaderping](https://github.com/jxy-s/herpaderping) - Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
