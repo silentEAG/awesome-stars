@@ -403,7 +403,7 @@
 
 ## Java 
 
-- [Phelaine/SinkFinder](https://github.com/Phelaine/SinkFinder) - 闭源系统半自动漏洞挖掘工具，针对 jar/war/zip 进行静态代码分析，增加 LLM 大模型能力验证路径可达性，LLM 根据上下文代码环境给出该路径可信分数
+- [Phelaine/SinkFinder](https://github.com/Phelaine/SinkFinder) - 闭源系统半自动漏洞挖掘工具，针对 jar/war/zip 进行静态代码分析，增加 LLM 大模型能力验证路径可达性，LLM 根据上下文代码环境判断该路径的可信分数
 - [ReaJason/MemShellParty](https://github.com/ReaJason/MemShellParty) - JavaWeb 内存马开聚会 🎉
 - [JackOfMostTrades/gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector) - A byte code analyzer for finding deserialization gadget chains in Java applications
 - [gmu-swe/phosphor](https://github.com/gmu-swe/phosphor) - Phosphor: Dynamic Taint Tracking for the JVM
@@ -839,6 +839,7 @@
 
 ## Rust 
 
+- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
 - [X1r0z/pivot-rs](https://github.com/X1r0z/pivot-rs) - pivot-rs is a lightweight port-forwarding and socks proxy tool written in Rust 🦀
 - [andfoy/winpty-rs](https://github.com/andfoy/winpty-rs) - Create and spawn processes inside a pseudoterminal in Windows from Rust
 - [safedv/RustSoliloquy](https://github.com/safedv/RustSoliloquy) - A Rust implementation of Internal-Monologue — retrieving NetNTLM hashes without touching LSASS, leveraging SSPI for NTLM negotiation and indirect NTAPIs for core operations.
