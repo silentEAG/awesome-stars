@@ -489,7 +489,7 @@
 - [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
 - [mengjian-github/copilot-analysis](https://github.com/mengjian-github/copilot-analysis) - 
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [tongcheng-security-team/NextScan](https://github.com/tongcheng-security-team/NextScan) - 飞刃是一套完整的企业级黑盒漏洞扫描系统，集成漏洞扫描、漏洞管理、扫描资产、爬虫等服务。 拥有强大的漏洞检测引擎和丰富的插件库，覆盖多种漏洞类型和应用程序框架。
 - [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
@@ -858,7 +858,7 @@
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
-- [safedv/Rustic64Shell](https://github.com/safedv/Rustic64Shell) - 64-bit, position-independent reverse tcp shell, built in Rust for Windows.
+- [safedv/Rustic64Shell](https://github.com/safedv/Rustic64Shell) - A 64-bit, position-independent code reverse TCP shell for Windows — built in Rust.
 - [jam1garner/owo-colors](https://github.com/jam1garner/owo-colors) - A zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal
 - [joaoviictorti/coffeeldr](https://github.com/joaoviictorti/coffeeldr) - A COFF Loader written in Rust
 - [safedv/RustiveDump](https://github.com/safedv/RustiveDump) - LSASS memory dumper using only NTAPIs, creating a minimal minidump, built in Rust with no_std and independent of the C runtime (CRT). It can be compiled as shellcode (PIC), supports XOR encryption, an
@@ -893,7 +893,7 @@
 - [spacewalkhq/raft-rs](https://github.com/spacewalkhq/raft-rs) - An understandable, fast and scalable Raft Consensus implementation
 - [proptest-rs/proptest](https://github.com/proptest-rs/proptest) - Hypothesis-like property testing for Rust
 - [Pizz33/JoJoLoader](https://github.com/Pizz33/JoJoLoader) - 助力红队成员一键生成免杀木马，使用rust实现 | Help Redteam members generate Evasive Anti-virus software Trojan
-- [oberrich/phnt-rs](https://github.com/oberrich/phnt-rs) - Rust bindings to the System Informer's (formerly known as Process Hacker) "phnt" native Windows headers
+- [delulusoft/phnt-rs](https://github.com/delulusoft/phnt-rs) - Rust bindings to the System Informer's (formerly known as Process Hacker) "phnt" native Windows headers
 - [MSxDOS/ntapi](https://github.com/MSxDOS/ntapi) - Rust FFI bindings for Native API
 - [robiot/rustcat](https://github.com/robiot/rustcat) - Rustcat(rcat) - The modern Port listener and Reverse shell
 - [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core) - Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
