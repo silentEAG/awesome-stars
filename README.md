@@ -430,7 +430,7 @@
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [charonlight/NacosExploitGUI](https://github.com/charonlight/NacosExploitGUI) - Nacos漏洞综合利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用
-- [lenve/javaboy-code-samples](https://github.com/lenve/javaboy-code-samples) - 公众号【江南一点雨】文章案例汇总，技术文章请戳这里-----&gt;
+- [lenve/javaboy-code-samples](https://github.com/lenve/javaboy-code-samples) - 
 - [Y4tacker/HackingFernFlower](https://github.com/Y4tacker/HackingFernFlower) - 2023白帽补天大会部分代码
 - [kyo-w/router-router](https://github.com/kyo-w/router-router) - Java web路由内存分析工具
 - [luelueking/Bypass_JVM_Verifier](https://github.com/luelueking/Bypass_JVM_Verifier) - Bypass JVM Class ByteCode Verifier , 对抗反编译器
@@ -599,7 +599,7 @@
 - [ByteSnipers/awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
 - [slowmist/solana-smart-contract-security-best-practices](https://github.com/slowmist/solana-smart-contract-security-best-practices) - 
 - [sts10/rust-command-line-utilities](https://github.com/sts10/rust-command-line-utilities) - A curated list of command-line utilities written in Rust
-- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了1300多个poc/exp，长期更新。
+- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了1400多个poc/exp，长期更新。
 - [chaitin/Real-World-CTF-6th-Challenges](https://github.com/chaitin/Real-World-CTF-6th-Challenges) - attachments and (some) writeups/source code for RWCTF 6th
 - [S1ckB0y1337/Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet) - Some notes and examples for cobalt strike's functionality
 - [JacyCui/static-analysis](https://github.com/JacyCui/static-analysis) - 静态分析基础教程
@@ -756,7 +756,7 @@
 - [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
 - [skelsec/pypykatz](https://github.com/skelsec/pypykatz) - Mimikatz implementation in pure Python
 - [Kkevsterrr/backdoorme](https://github.com/Kkevsterrr/backdoorme) - powerful auto-backdooring utility
-- [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
+- [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [lgandx/Responder](https://github.com/lgandx/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
@@ -862,7 +862,7 @@
 - [safedv/Rustic64Shell](https://github.com/safedv/Rustic64Shell) - A 64-bit, position-independent code reverse TCP shell for Windows — built in Rust.
 - [jam1garner/owo-colors](https://github.com/jam1garner/owo-colors) - A zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal
 - [joaoviictorti/coffeeldr](https://github.com/joaoviictorti/coffeeldr) - A COFF Loader written in Rust
-- [safedv/RustiveDump](https://github.com/safedv/RustiveDump) - LSASS memory dumper using only NTAPIs, creating a minimal minidump, built in Rust with no_std and independent of the C runtime (CRT). It can be compiled as shellcode (PIC), supports XOR encryption, an
+- [safedv/RustiveDump](https://github.com/safedv/RustiveDump) - LSASS memory dumper using only NTAPIs, creating a minimal minidump. It can be compiled as shellcode (PIC), supports XOR encryption, and remote file transmission.
 - [safedv/Rustic64](https://github.com/safedv/Rustic64) - 64-bit, position-independent implant template for Windows in Rust.
 - [denoland/rustls-tokio-stream](https://github.com/denoland/rustls-tokio-stream) - AsyncRead/AsyncWrite interface for rustls-on-Tokio
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
@@ -952,7 +952,7 @@
 - [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment
 - [metaplex-foundation/shank](https://github.com/metaplex-foundation/shank) - Extracts IDL from Solana Rust contracts
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API.
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A simple and easy-to-use library for interacting with the Ollama API.
 - [b1tg/rust-windows-shellcode](https://github.com/b1tg/rust-windows-shellcode) - Windows shellcode development in Rust
 - [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) interpreter.
 - [metaplex-foundation/metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) - Smart contracts maintained by the Metaplex team
@@ -1156,7 +1156,7 @@
 - [Ogeon/palette](https://github.com/Ogeon/palette) - A Rust library for linear color calculations and conversion
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week.
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine (database) in a week.
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, 
 - [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
@@ -1278,7 +1278,7 @@
 - [mnixry/hacktricks-press](https://github.com/mnixry/hacktricks-press) - Porting HackTricks to VitePress
 - [ba-archive/blue-archive](https://github.com/ba-archive/blue-archive) - 碧蓝档案的档案。我们期待着更多老师的加入，欢迎通过邮件、B站私信或 discussion 联系我们
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
-- [EpicsDAO/solv](https://github.com/EpicsDAO/solv) - 🔥 solv - CLI Tool for Managing Solana Validators
+- [EpicsDAO/solv](https://github.com/EpicsDAO/solv) - 🔥 solv - CLI Tool for Managing Solana Validators 🚧 What...? solv is evolving to SLV!
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
