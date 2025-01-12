@@ -33,7 +33,6 @@
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
-- [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Ren'Py](#ren'py)
@@ -521,7 +520,7 @@
 
 ## Kotlin 
 
-- [open-ani/animeko](https://github.com/open-ani/animeko) - 一站式在线弹幕追番平台：聚合数据源与弹幕，Bangumi 追番进度管理，BitTorrent，缓存... 100% Compose Multiplatform
+- [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，Bangumi 索引，在线 + BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform
 - [MuelNova/MiFitness-Uploader-XPosed](https://github.com/MuelNova/MiFitness-Uploader-XPosed) - An XPosed plugin for "MiFitness(小米健康)", allowing you to fetch the data using socket.
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
@@ -689,10 +688,6 @@
 - [jiushill/note](https://github.com/jiushill/note) - 记录自己写的工具和学习笔记
 - [chris-koch-penn/gpt3_security_vulnerability_scanner](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner) - GPT-3 found hundreds of security vulnerabilities in this repo
 
-## Perl 
-
-- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - GitHub Action to compile Rust with cross
-
 ## PowerShell 
 
 - [yanghaoi/CobaltStrike_CNA](https://github.com/yanghaoi/CobaltStrike_CNA) - 使用多种WinAPI进行权限维持的CobaltStrike脚本，包含API设置系统服务，设置计划任务，管理用户等。
@@ -739,6 +734,7 @@
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
+- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - GitHub Action to compile Rust with cross
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [bata24/gef](https://github.com/bata24/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
@@ -876,7 +872,7 @@
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Compile Rust code to GBZ80 (Gameboy Z80)
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust
-- [tqwewe/kameo](https://github.com/tqwewe/kameo) - Fault-tolerant Async Actors Built on Tokio
+- [tqwewe/kameo](https://github.com/tqwewe/kameo) - Effortlessly Build Distributed, Fault-Tolerant Async Actors on Tokio
 - [lloydmeta/frunk](https://github.com/lloydmeta/frunk) - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser
 - [Eliah-Lakhin/ad-astra](https://github.com/Eliah-Lakhin/ad-astra) - Scripting language for Rust.
