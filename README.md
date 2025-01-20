@@ -404,6 +404,7 @@
 
 ## Java 
 
+- [Ape1ron/SpringAopInDeserializationDemo1](https://github.com/Ape1ron/SpringAopInDeserializationDemo1) - 在spring-aop中新发现的反序列化gadget-chain
 - [ReaJason/MemShellParty](https://github.com/ReaJason/MemShellParty) - JavaWeb 内存马开聚会 🎉
 - [JackOfMostTrades/gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector) - A byte code analyzer for finding deserialization gadget chains in Java applications
 - [gmu-swe/phosphor](https://github.com/gmu-swe/phosphor) - Phosphor: Dynamic Taint Tracking for the JVM
@@ -564,7 +565,7 @@
 
 - [XiaomingX/1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么；Chinese Independent Developers Projects List - Discover What Everyone Is Building 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻
 - [rdragos/awesome-mpc](https://github.com/rdragos/awesome-mpc) - A curated list of multi party computation resources and links.
-- [Phelaine/SinkFinder](https://github.com/Phelaine/SinkFinder) - 闭源系统半自动漏洞挖掘工具，针对 jar/war/zip 进行静态代码分析，输出从source到sink的可达路径。LLM将验证路径可达性，并根据上下文给出该路径可信分数
+- [TheKingOfDuck/SinkFinder](https://github.com/TheKingOfDuck/SinkFinder) - 闭源系统半自动漏洞挖掘工具，针对 jar/war/zip 进行静态代码分析，输出从source到sink的可达路径。LLM将验证路径可达性，并根据上下文给出该路径可信分数
 - [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual) - Prompt越狱手册
 - [lintstar/CS-AutoPostChain](https://github.com/lintstar/CS-AutoPostChain) - 基于 OPSEC 的 CobaltStrike 后渗透自动化链
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
@@ -837,6 +838,9 @@
 
 ## Rust 
 
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+- [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
+- [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
 - [X1r0z/pivot-rs](https://github.com/X1r0z/pivot-rs) - pivot-rs is a lightweight port-forwarding and socks proxy tool written in Rust 🦀
 - [andfoy/winpty-rs](https://github.com/andfoy/winpty-rs) - Create and spawn processes inside a pseudoterminal in Windows from Rust
@@ -1153,7 +1157,7 @@
 - [Ogeon/palette](https://github.com/Ogeon/palette) - A Rust library for linear color calculations and conversion
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine (database) in a week.
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A course of building an LSM-Tree storage engine (database) in a week.
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, 
 - [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
