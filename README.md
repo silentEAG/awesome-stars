@@ -563,6 +563,7 @@
 
 ## Others 
 
+- [0voice/cpp_backend_awsome_blog](https://github.com/0voice/cpp_backend_awsome_blog) - 2023年最新整理 c++后端开发，1000篇优秀博文，含内存，网络，架构设计，高性能，数据结构，基础组件，中间件，分布式相关
 - [XiaomingX/1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么；Chinese Independent Developers Projects List - Discover What Everyone Is Building 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻
 - [rdragos/awesome-mpc](https://github.com/rdragos/awesome-mpc) - A curated list of multi party computation resources and links.
 - [TheKingOfDuck/SinkFinder](https://github.com/TheKingOfDuck/SinkFinder) - 闭源系统半自动漏洞挖掘工具，针对 jar/war/zip 进行静态代码分析，输出从source到sink的可达路径。LLM将验证路径可达性，并根据上下文给出该路径可信分数
@@ -838,6 +839,9 @@
 
 ## Rust 
 
+- [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) - Awesome Rust (Rust 资源 | 学习 | 书 ). 💥
+- [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
+- [tfpk/lifetimekata](https://github.com/tfpk/lifetimekata) - An exploration of lifetimes in Rust.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
@@ -1164,7 +1168,7 @@
 - [postrequest/link](https://github.com/postrequest/link) - link is a command and control framework written in rust
 - [darkarp/chromepass](https://github.com/darkarp/chromepass) - Chromepass - Hacking Chrome Saved Passwords
 - [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [WirefishInc/wirefish](https://github.com/WirefishInc/wirefish) - A blazingly fast multiplatform packet sniffer built with Tauri!
@@ -1345,7 +1349,7 @@
 - [DeimosC2/DeimosC2](https://github.com/DeimosC2/DeimosC2) - DeimosC2 is a Golang command and control framework for post-exploitation.
 - [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
 - [Zerx0r/Kage](https://github.com/Zerx0r/Kage) - Kage is Graphical User Interface for Metasploit Meterpreter and Session Handler
-- [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
+- [chaitin/xray](https://github.com/chaitin/xray) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 
 ## WebAssembly 
 
