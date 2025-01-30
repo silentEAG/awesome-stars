@@ -76,6 +76,7 @@
 
 ## C 
 
+- [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
 - [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer) - Firedancer is Jump Crypto's Solana validator software.
 - [0xEr3bus/PoolPartyBof](https://github.com/0xEr3bus/PoolPartyBof) - A beacon object file implementation of PoolParty Process Injection Technique.
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
@@ -173,6 +174,7 @@
 
 ## C++ 
 
+- [HackerCalico/Magic_C2](https://github.com/HackerCalico/Magic_C2) - 红队 C2 框架，使用 No X Loader 技术。Red Team C2 Framework, using No X Loader technology.
 - [ImCoriander/ZeroEye](https://github.com/ImCoriander/ZeroEye) - 自动化找白文件，用于扫描 EXE 文件的导入表，列出导入的DLL文件，并筛选出非系统DLL，符合条件的文件将被复制到特定的 X64 或 X86 文件夹
 - [ez8-co/yapi](https://github.com/ez8-co/yapi) - 💉 全能进程注入器 [Yet Another Process Injector] that reduce differences between x64, wow64 and x86 processes.
 - [rasta-mouse/process-inject-kit](https://github.com/rasta-mouse/process-inject-kit) - Port of Cobalt Strike's Process Inject Kit
@@ -281,6 +283,7 @@
 
 ## Go 
 
+- [casvisor/casvisor](https://github.com/casvisor/casvisor) - An open-source cloud operating system and blockchain management platform, online demo: https://door.casvisor.com
 - [BYRIO/Domain0](https://github.com/BYRIO/Domain0) - A cloud resource management system designed to manage multiple cloud providers for multi-users.
 - [EvilBytecode/GoRedOps](https://github.com/EvilBytecode/GoRedOps) - 🦫  | GoRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Go programming language, all is made for education
 - [4ra1n/poc-runner](https://github.com/4ra1n/poc-runner) - Small & Fast Vulnerability Scanner Engine based on XRAY YAML Rule | 基于 XRAY YAML 规则的超轻量快速漏洞扫描引擎 | 基于 ANTLR 实现语法分析和完整的 XRAY YAML 规则实现 | 简单的启动参数 | 包含多种反连可用 | 可执行文件体积仅 2 MB
@@ -301,7 +304,7 @@
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) - An AWS Lambda powered HTTP/SOCKS web proxy
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
 - [crabkun/switcher](https://github.com/crabkun/switcher) - 一个多功能的端口转发/端口复用工具，支持转发本地或远程地址的端口，支持正则表达式转发（实现端口复用）。
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [wikiZ/RedGuard](https://github.com/wikiZ/RedGuard) - RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
@@ -503,7 +506,7 @@
 - [terjanq/Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads) - A collection of tiny XSS Payloads that can be used in different contexts. https://tinyxss.terjanq.me
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [WTFAcademy/WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
 
 ## Jinja 
