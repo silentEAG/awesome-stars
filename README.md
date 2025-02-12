@@ -76,6 +76,7 @@
 
 ## C 
 
+- [bats3c/DarkLoadLibrary](https://github.com/bats3c/DarkLoadLibrary) - LoadLibrary for offensive operations
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
 - [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer) - Firedancer is Jump Crypto's Solana validator software.
@@ -105,7 +106,6 @@
 - [SolomonSklash/SleepyCrypt](https://github.com/SolomonSklash/SleepyCrypt) - A shellcode function to encrypt a running process image when sleeping.
 - [Tw1sm/SQL-BOF](https://github.com/Tw1sm/SQL-BOF) - Library of BOFs to interact with SQL servers
 - [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A
-- [realoriginal/grimreaper](https://github.com/realoriginal/grimreaper) - A improved memory obfuscation primitive using a combination of special and 'normal' Asynchronous Procedural Calls
 - [Velocidex/Linpmem](https://github.com/Velocidex/Linpmem) - Linpmem is a linux memory acquisition tool
 - [VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls](https://github.com/VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls) - The following two code samples can be used to understand the difference between direct syscalls and indirect syscalls
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -295,7 +295,7 @@
 - [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package. Windows ONLY.
 - [Le0nsec/SecCrawler](https://github.com/Le0nsec/SecCrawler) - 一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区以及绿盟、腾讯玄武、天融信、360等实验室博客，持续更新中。
 - [Mayter/mssql-command-tool](https://github.com/Mayter/mssql-command-tool) - xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作，上传，job等相应操作。
-- [casibase/casibase](https://github.com/casibase/casibase) - AI Cloud: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, G
+- [casibase/casibase](https://github.com/casibase/casibase) - AI Cloud OS: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Gemini, HuggingFace
 - [p1d3er/port_reuse](https://github.com/p1d3er/port_reuse) - golang 实现的windows and linux 端口复用工具。
 - [kost/revsocks](https://github.com/kost/revsocks) - Reverse SOCKS5 implementation in Go
 - [fin3ss3g0d/evilgophish](https://github.com/fin3ss3g0d/evilgophish) - evilginx3 + gophish
@@ -1334,7 +1334,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 - [sismo-core/sismo-badges](https://github.com/sismo-core/sismo-badges) - Contracts of the Sismo Badge Minting Protocol
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
