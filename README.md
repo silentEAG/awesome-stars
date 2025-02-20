@@ -59,7 +59,7 @@
 
 ## Assembly 
 
-- [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
+- [briansmith/ring](https://github.com/briansmith/ring) - An experiment.
 - [f1zm0/acheron](https://github.com/f1zm0/acheron) - indirect syscalls for AV/EDR evasion in Go assembly
 - [klezVirus/inceptor](https://github.com/klezVirus/inceptor) - Template-Driven AV/EDR Evasion Framework
 - [Nu1LCTF/n1ctf-2023](https://github.com/Nu1LCTF/n1ctf-2023) - 
@@ -175,6 +175,7 @@
 
 ## C++ 
 
+- [0x3rhy/BypassCredGuard-BOF](https://github.com/0x3rhy/BypassCredGuard-BOF) - BypassCredGuard CS BOF
 - [ImCoriander/ZeroEye](https://github.com/ImCoriander/ZeroEye) - 自动化找白文件，用于扫描 EXE 文件的导入表，列出导入的DLL文件，并筛选出非系统DLL，符合条件的文件将被复制到特定的 X64 或 X86 文件夹
 - [ez8-co/yapi](https://github.com/ez8-co/yapi) - 💉 全能进程注入器 [Yet Another Process Injector] that reduce differences between x64, wow64 and x86 processes.
 - [rasta-mouse/process-inject-kit](https://github.com/rasta-mouse/process-inject-kit) - Port of Cobalt Strike's Process Inject Kit
@@ -231,7 +232,7 @@
 - [Liuhaixv/Goose_Goose_Duck_Hack](https://github.com/Liuhaixv/Goose_Goose_Duck_Hack) - External Hack for Goose Goose Duck.  鹅鸭杀外部辅助
 - [sampsyo/llvm-pass-skeleton](https://github.com/sampsyo/llvm-pass-skeleton) - example LLVM pass
 - [mthipparthi/operating-systems-three-easy-pieces](https://github.com/mthipparthi/operating-systems-three-easy-pieces) - operating systems three easy pieces by Rezmi
-- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [vgvassilev/cling](https://github.com/vgvassilev/cling) - The interactive C++ interpreter Cling
 - [simpleble/simpleble](https://github.com/simpleble/simpleble) - SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, Linux and Android.
 - [capt-meelo/laZzzy](https://github.com/capt-meelo/laZzzy) - laZzzy is a shellcode loader, developed using different open-source libraries, that demonstrates different execution techniques.
@@ -269,6 +270,7 @@
 
 ## Dockerfile 
 
+- [Java-Chains/web-chains](https://github.com/Java-Chains/web-chains) - 一个 Java 漏洞利用综合生成平台 | The web version of Java Payload generation and utilization tool provides Payload generation such as Java deserialization and Hessian 1/2 deserialization, as well as JNDI, Fake MyS
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
 - [phith0n/phpsrc-debug-docker](https://github.com/phith0n/phpsrc-debug-docker) - Debug environment for PHP inside a Docker container. Document waiting to be completed.
 - [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries. Supports openssl and diesel crates.
@@ -295,7 +297,7 @@
 - [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package. Windows ONLY.
 - [Le0nsec/SecCrawler](https://github.com/Le0nsec/SecCrawler) - 一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区以及绿盟、腾讯玄武、天融信、360等实验室博客，持续更新中。
 - [Mayter/mssql-command-tool](https://github.com/Mayter/mssql-command-tool) - xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作，上传，job等相应操作。
-- [casibase/casibase](https://github.com/casibase/casibase) - AI Cloud OS: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Gemini, HuggingFace
+- [casibase/casibase](https://github.com/casibase/casibase) - AI Cloud OS: ⚡️Open-source RAG knowledge database with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Gemini, HuggingFace, etc., chat bot demo: https://a
 - [p1d3er/port_reuse](https://github.com/p1d3er/port_reuse) - golang 实现的windows and linux 端口复用工具。
 - [kost/revsocks](https://github.com/kost/revsocks) - Reverse SOCKS5 implementation in Go
 - [fin3ss3g0d/evilgophish](https://github.com/fin3ss3g0d/evilgophish) - evilginx3 + gophish
@@ -479,7 +481,7 @@
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [Charles7c/charles7c.github.io](https://github.com/Charles7c/charles7c.github.io) - （保持最新版 VitePress）基于 VitePress 构建的个人知识库/博客。扩展 VitePress 默认主题：增加ICP备案号、公安备案号显示，增加文章元数据信息（原创标识、作者、发布时间、分类、标签）显示，增加文末版权声明，增加 Gitalk 评论功能，主页美化、自动生成侧边栏、文章内支持 Mermaid 流程图、MD公式、MD脚注、增加我的标签、我的归档等独立页面，以及浏览器滚条等细
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [repnz/windbg-cheat-sheet](https://github.com/repnz/windbg-cheat-sheet) - My personal cheat sheet for using WinDbg for kernel debugging
 - [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
@@ -569,6 +571,7 @@
 
 ## Others 
 
+- [Network-Sec/CVE-2025-21420-PoC](https://github.com/Network-Sec/CVE-2025-21420-PoC) - We found a way to DLL sideload with cleanmgr.exe
 - [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 - [LouisTsai-Csie/awesome-smart-contract-analysis-tools](https://github.com/LouisTsai-Csie/awesome-smart-contract-analysis-tools) - A curated list of awesome smart contract analysis tools
 - [LLMQuant/quant-wiki](https://github.com/LLMQuant/quant-wiki) - 我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息差。
@@ -579,7 +582,6 @@
 - [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual) - Prompt越狱手册
 - [lintstar/CS-AutoPostChain](https://github.com/lintstar/CS-AutoPostChain) - 基于 OPSEC 的 CobaltStrike 后渗透自动化链
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
-- [Java-Chains/web-chains](https://github.com/Java-Chains/web-chains) - The web version of Java Payload generation and utilization tool provides Payload generation such as Java deserialization and Hessian 1/2 deserialization, as well as JNDI, Fake MySQL, JRMPListener, etc
 - [RoseSecurity/Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) - Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
 - [tkmru/awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass) - Awesome EDR Bypass Resources For Ethical Hacking
 - [sevagas/Advanced_Initial_access_in_2024_OffensiveX](https://github.com/sevagas/Advanced_Initial_access_in_2024_OffensiveX) - Resources linked to my presentation at OffensiveX in Athens in June 2024 on the topic "Breach the Gat, Advanced Initial Access in 2024"
@@ -716,6 +718,7 @@
 
 ## Python 
 
+- [BradMoonUESTC/finite-monkey-engine](https://github.com/BradMoonUESTC/finite-monkey-engine) - AI engine for smart contract audit
 - [binsync/binsync](https://github.com/binsync/binsync) - A reversing plugin for cross-decompiler collaboration, built on git.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [HackerCalico/Magic_C2](https://github.com/HackerCalico/Magic_C2) - Red Team C2 Framework with AV/EDR bypass capabilities.
@@ -852,11 +855,17 @@
 
 ## Rust 
 
+- [heinzelotto/rust-callgraph](https://github.com/heinzelotto/rust-callgraph) - Which functions call each other in your rust crate? Static call graph analysis.
+- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
+- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [sobelio/llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks
 - [phodal/aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 - [X1r0z/oss-security-bot](https://github.com/X1r0z/oss-security-bot) - oss-security mailing list Webhook Bot, using LLM for summarization, written in Rust 🦀
 - [hydro-project/hydro](https://github.com/hydro-project/hydro) - A high-level distributed programming framework for Rust
-- [ldclabs/anda](https://github.com/ldclabs/anda) - 🤖 A framework for AI agent development, designed to build a highly composable, autonomous, and perpetually memorizing network of AI agents.
+- [ldclabs/anda](https://github.com/ldclabs/anda) - 🤖 An AI agent framework built with Rust, powered by ICP and TEEs.
 - [tqwewe/kameo](https://github.com/tqwewe/kameo) - Effortlessly Build Distributed, Fault-Tolerant Async Actors on Tokio
 - [avhz/RustQuant](https://github.com/avhz/RustQuant) - Rust library for quantitative finance.
 - [chvancooten/NimPlant](https://github.com/chvancooten/NimPlant) - A light-weight first-stage C2 implant written in Nim (and Rust).
@@ -896,7 +905,7 @@
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
 - [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust
 - [trickster0/NamelessC2](https://github.com/trickster0/NamelessC2) - Nameless C2 - A C2 with all its components written in Rust
-- [google/googletest-rust](https://github.com/google/googletest-rust) - 
+- [google/googletest-rust](https://github.com/google/googletest-rust) - A unit testing library which provides rich assertions, fixtures, and other advanced testing features. Inspired by Google's C++ testing library googletest.
 - [kevinheavey/solders](https://github.com/kevinheavey/solders) - A high-performance Python toolkit for Solana, written in Rust
 - [knsd/daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons
 - [websockets-rs/rust-websocket](https://github.com/websockets-rs/rust-websocket) - A WebSocket (RFC6455) library written in Rust
@@ -1300,7 +1309,7 @@
 - [91ac0m0/new-word-discoverer](https://github.com/91ac0m0/new-word-discoverer) - 
 - [MuelNova/MuelNova.github.io](https://github.com/MuelNova/MuelNova.github.io) - Resume Page for https://zm.md
 - [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - Obsidian Plugin for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 现代化的基于 NTQQ 的 Bot 协议端实现
@@ -1338,7 +1347,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [sismo-core/sismo-badges](https://github.com/sismo-core/sismo-badges) - Contracts of the Sismo Badge Minting Protocol
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
