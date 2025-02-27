@@ -175,6 +175,7 @@
 
 ## C++ 
 
+- [sec3-product/x-ray](https://github.com/sec3-product/x-ray) - The X-Ray Toolchain is an open-source, cross-platform command-line interface (CLI) tool designed for static analysis of Solana programs and smart contracts written in Rust.
 - [0x3rhy/BypassCredGuard-BOF](https://github.com/0x3rhy/BypassCredGuard-BOF) - BypassCredGuard CS BOF
 - [ImCoriander/ZeroEye](https://github.com/ImCoriander/ZeroEye) - 自动化找白文件，用于扫描 EXE 文件的导入表，列出导入的DLL文件，并筛选出非系统DLL，符合条件的文件将被复制到特定的 X64 或 X86 文件夹
 - [ez8-co/yapi](https://github.com/ez8-co/yapi) - 💉 全能进程注入器 [Yet Another Process Injector] that reduce differences between x64, wow64 and x86 processes.
@@ -613,7 +614,6 @@
 - [ByteSnipers/awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
 - [slowmist/solana-smart-contract-security-best-practices](https://github.com/slowmist/solana-smart-contract-security-best-practices) - 
 - [sts10/rust-command-line-utilities](https://github.com/sts10/rust-command-line-utilities) - A curated list of command-line utilities written in Rust
-- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了1400多个poc/exp，长期更新。
 - [chaitin/Real-World-CTF-6th-Challenges](https://github.com/chaitin/Real-World-CTF-6th-Challenges) - attachments and (some) writeups/source code for RWCTF 6th
 - [S1ckB0y1337/Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet) - Some notes and examples for cobalt strike's functionality
 - [JacyCui/static-analysis](https://github.com/JacyCui/static-analysis) - 静态分析基础教程
@@ -854,6 +854,7 @@
 
 ## Rust 
 
+- [mmastrac/rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust
 - [heinzelotto/rust-callgraph](https://github.com/heinzelotto/rust-callgraph) - Which functions call each other in your rust crate? Static call graph analysis.
 - [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
