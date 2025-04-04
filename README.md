@@ -176,6 +176,7 @@
 
 ## C++ 
 
+- [za233/NeacController](https://github.com/za233/NeacController) - Exploit vulnerabilities in NeacSafe64.sys to achieve privilege escalation and kernel-mode shellcode execution
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [sec3-product/x-ray](https://github.com/sec3-product/x-ray) - The X-Ray Toolchain is an open-source, cross-platform command-line interface (CLI) tool designed for static analysis of Solana programs and smart contracts written in Rust.
 - [0x3rhy/BypassCredGuard-BOF](https://github.com/0x3rhy/BypassCredGuard-BOF) - BypassCredGuard CS BOF
@@ -577,6 +578,7 @@
 
 ## Others 
 
+- [SpringKill-team/CodeAuditAssistant](https://github.com/SpringKill-team/CodeAuditAssistant) - 🔍 CodeAuditAssistant - IDEA代码审计插件（公测中） ⚡ 精准追踪复杂调用链 | 🚀 毫秒级方法搜索 | 🔥 内置高危漏洞检测 原生集成 | 反编译/路径分析 | 内存优化 | 安全审计利器                      🔍 CodeAuditAssistant - JetBrains Code Audit Plugin (Beta)   ⚡ Deep Call
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ZJUBCA/roadmap](https://github.com/ZJUBCA/roadmap) - Roadmap of learning blockchain technology and business knowledge summarized by ZJUBCA（浙大区块链协会总结的区块链知识学习路线）
 - [Network-Sec/CVE-2025-21420-PoC](https://github.com/Network-Sec/CVE-2025-21420-PoC) - We found a way to DLL sideload with cleanmgr.exe
@@ -863,6 +865,8 @@
 
 ## Rust 
 
+- [twitchax/ratrod](https://github.com/twitchax/ratrod) - A TCP / UDP tunneler that uses public / private key authentication with encryption.
+- [ynqa/promkit](https://github.com/ynqa/promkit) - A toolkit for building interactive prompt in Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
 - [cmackenzie1/torii-rs](https://github.com/cmackenzie1/torii-rs) - Torii is a powerful authentication framework for Rust applications that gives you complete control over your users' data.
