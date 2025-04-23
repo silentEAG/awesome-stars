@@ -8,6 +8,7 @@
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
+- [BibTeX Style](#bibtex-style)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -73,7 +74,10 @@
 ## Batchfile 
 
 - [vovkos/llvm-package-windows](https://github.com/vovkos/llvm-package-windows) - Provides LLVM binary packages for an (almost) complete Windows build matrix. Built and packaged on GitHub Actions.
-- [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Adversary simulation and Red teaming platform with AI
+
+## BibTeX Style 
+
+- [BYRIO/BUPTBachelorThesis](https://github.com/BYRIO/BUPTBachelorThesis) - A LaTeX Template for BUPT Bachelor Thesis (updated in 2023)
 
 ## C 
 
@@ -178,6 +182,7 @@
 
 ## C++ 
 
+- [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [sec3-product/x-ray](https://github.com/sec3-product/x-ray) - The X-Ray Toolchain is an open-source, cross-platform command-line interface (CLI) tool designed for static analysis of Solana programs and smart contracts written in Rust.
 - [0x3rhy/BypassCredGuard-BOF](https://github.com/0x3rhy/BypassCredGuard-BOF) - BypassCredGuard CS BOF
@@ -294,15 +299,12 @@
 - [ABCDELabs/Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 - [casvisor/casvisor](https://github.com/casvisor/casvisor) - An open-source cloud operating system and blockchain management platform, online demo: https://door.casvisor.com
 - [BYRIO/Domain0](https://github.com/BYRIO/Domain0) - A cloud resource management system designed to manage multiple cloud providers for multi-users.
-- [EvilBytecode/GoRedOps](https://github.com/EvilBytecode/GoRedOps) - 🦫  | GoRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Go programming language, all is made for education
 - [4ra1n/poc-runner](https://github.com/4ra1n/poc-runner) - Small & Fast Vulnerability Scanner Engine based on XRAY YAML Rule | 基于 XRAY YAML 规则的超轻量快速漏洞扫描引擎 | 基于 ANTLR 实现语法分析和完整的 XRAY YAML 规则实现 | 简单的启动参数 | 包含多种反连可用 | 可执行文件体积仅 2 MB
 - [wjlab/Darksteel](https://github.com/wjlab/Darksteel) - 域内自动化信息搜集利用工具
 - [fdx-xdf/darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，免杀火绒，360核晶等国内常见杀软。
 - [EgeBalci/sgn](https://github.com/EgeBalci/sgn) - Shikata ga nai (仕方がない) encoder ported into go with several improvements
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [EvilBytecode/EDR-XDR-AV-Killer](https://github.com/EvilBytecode/EDR-XDR-AV-Killer) - Reproducing Spyboy technique, which involves terminating all EDR/XDR/AVs processes by abusing the zam64.sys driver
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering ad
-- [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package. Windows ONLY.
 - [Le0nsec/SecCrawler](https://github.com/Le0nsec/SecCrawler) - 一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区以及绿盟、腾讯玄武、天融信、360等实验室博客，持续更新中。
 - [Mayter/mssql-command-tool](https://github.com/Mayter/mssql-command-tool) - xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作，上传，job等相应操作。
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and Manus-like agent management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama
@@ -586,6 +588,8 @@
 
 ## Others 
 
+- [Esonhugh/My-Cloud-Security](https://github.com/Esonhugh/My-Cloud-Security) - [ALL IN ONE] Everything that I shared to public about Cloud Security is here.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 - [slowmist/MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems.
 - [SpringKill-team/CodeAuditAssistant](https://github.com/SpringKill-team/CodeAuditAssistant) - 🔍 CodeAuditAssistant - IDEA代码审计插件（公测中） ⚡ 精准追踪复杂调用链 | 🚀 毫秒级方法搜索 | 🔥 内置高危漏洞检测 原生集成 | 反编译/路径分析 | 内存优化 | 安全审计利器                      🔍 CodeAuditAssistant - JetBrains Code Audit Plugin (Beta)   ⚡ Deep Call
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -651,6 +655,7 @@
 - [pangudashu/php7-internal](https://github.com/pangudashu/php7-internal) - PHP7内核剖析
 - [Ivan1ee/NET-Deserialize](https://github.com/Ivan1ee/NET-Deserialize) - 总结了20+.Net反序列化文章，持续更新
 - [ibaiw/2023Hvv](https://github.com/ibaiw/2023Hvv) - 2023 HVV情报速递~
+- [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Adversary simulation and Red teaming platform with AI
 - [yzddmr6/Java-Js-Engine-Payloads](https://github.com/yzddmr6/Java-Js-Engine-Payloads) - Java Js Engine Payloads All in one
 - [theanarkh/understand-nodejs](https://github.com/theanarkh/understand-nodejs) - 通过源码分析nodejs原理
 - [ax1sX/SecurityList](https://github.com/ax1sX/SecurityList) - A list for Web Security and Code Audit
@@ -875,9 +880,11 @@
 
 ## Rust 
 
+- [ColinFinck/ntfs](https://github.com/ColinFinck/ntfs) - An implementation of the NTFS filesystem in a Rust crate, usable from firmware level up to user-mode.
+- [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [michaelvanstraten/pseudoterminal](https://github.com/michaelvanstraten/pseudoterminal) - Cross-platform pseudoterminal (PTY/ConPTY) implementation with async support
 - [sevenlabs-hq/carbon](https://github.com/sevenlabs-hq/carbon) - Carbon is an indexing framework on Solana.
-- [facet-rs/facet](https://github.com/facet-rs/facet) - Rust const and no_std reflection — the last derive you'll ever need
+- [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [YDHCUI/buut](https://github.com/YDHCUI/buut) - 一款使用rust开发的高性能正反向隧道代理工具，基于多路复用技术。
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -971,7 +978,7 @@
 - [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and flexibility.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [BlWasp/rs-shell](https://github.com/BlWasp/rs-shell) - A dirty PoC for a reverse shell with cool features in Rust
-- [BurtonQin/Chain-Fox](https://github.com/BurtonQin/Chain-Fox) - Chain-Fox: An all-in-one platform with automatic security detection ability for blockchains and smart contracts
+- [Chain-Fox/Chain-Fox](https://github.com/Chain-Fox/Chain-Fox) - Chain-Fox: An all-in-one platform with automatic security detection ability for blockchains and smart contracts
 - [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A MITM Proxy 🧑‍💻! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities. Learning Project.
 - [J-Schoepplenberg/zero-packet](https://github.com/J-Schoepplenberg/zero-packet) - A zero-copy Rust library that builds and parses network packets in-place.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -1318,10 +1325,10 @@
 ## TeX 
 
 - [yuange1024/ethereum_yellowpaper](https://github.com/yuange1024/ethereum_yellowpaper) - 以太坊黄皮书中文版
-- [BYRIO/BUPTBachelorThesis](https://github.com/BYRIO/BUPTBachelorThesis) - A LaTeX Template for BUPT Bachelor Thesis (updated in 2023)
 
 ## TypeScript 
 
+- [unibeck/uptime-monitor](https://github.com/unibeck/uptime-monitor) - A uptime monitoring service that is easy and cheap to run at scale. Create endpoint checks for uptime, latency, and status code. Supports OpsGenie for alerts.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
