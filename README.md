@@ -1244,7 +1244,7 @@
 - [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [WirefishInc/wirefish](https://github.com/WirefishInc/wirefish) - A blazingly fast multiplatform packet sniffer built with Tauri!
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [mttaggart/OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) - Notion as a platform for offensive operations
