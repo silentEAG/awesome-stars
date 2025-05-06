@@ -286,7 +286,7 @@
 - [Threekiii/Awesome-POC](https://github.com/Threekiii/Awesome-POC) - 一个漏洞 PoC 知识库。A knowledge base for vulnerability PoCs(Proof of Concept),  with 1k+ vulnerabilities.
 - [phith0n/phpsrc-debug-docker](https://github.com/phith0n/phpsrc-debug-docker) - Debug environment for PHP inside a Docker container. Document waiting to be completed.
 - [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries. Supports openssl and diesel crates.
-- [MuelNova/NoPwnDocker](https://github.com/MuelNova/NoPwnDocker) - Docker environment for Pwn in CTF! Fuck the environment setup that's why this repo is created.
+- [MuelNova/NoPwnDocker](https://github.com/MuelNova/NoPwnDocker) - Quick pwn environment setup from Ubuntu16.04 to Ubuntu 24.04. STOP WASTING YOUR TIME ON ENV SETUP.
 
 ## Elixir 
 
