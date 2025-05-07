@@ -313,6 +313,7 @@
 
 ## automation 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
 - [lintstar/CS-AutoPostChain](https://github.com/lintstar/CS-AutoPostChain) - 基于 OPSEC 的 CobaltStrike 后渗透自动化链
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -476,7 +477,6 @@
 ## chatbot 
 
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
@@ -1295,6 +1295,7 @@
 
 ## low-code 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -1448,6 +1449,7 @@
 
 ## no-code 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -1537,6 +1539,9 @@
 
 ## others 
 
+- [bsauce/kernel-security-learning](https://github.com/bsauce/kernel-security-learning) - Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug.
+- [deepinstinct/Lsass-Shtinkering](https://github.com/deepinstinct/Lsass-Shtinkering) - 
+- [EddieIvan01/win32api-practice](https://github.com/EddieIvan01/win32api-practice) - Offensive tools written for practice purposes
 - [cursey/safetyhook](https://github.com/cursey/safetyhook) - C++23 procedure hooking library.
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [unibeck/uptime-monitor](https://github.com/unibeck/uptime-monitor) - A uptime monitoring service that is easy and cheap to run at scale. Create endpoint checks for uptime, latency, and status code. Supports OpsGenie for alerts.
@@ -1637,7 +1642,6 @@
 - [GhostWolfLab/APT-Individual-Combat-Guide](https://github.com/GhostWolfLab/APT-Individual-Combat-Guide) - 《APT Individual Combat Guide》
 - [hasherezade/pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode) - Converts PE into a shellcode
 - [EkiXu/JarAgent](https://github.com/EkiXu/JarAgent) - Write HotPatches with Java Instrumentation API
-- [N0fix/rustbinsign](https://github.com/N0fix/rustbinsign) - Rust symbol recovery tool
 - [sevagas/Advanced_Initial_access_in_2024_OffensiveX](https://github.com/sevagas/Advanced_Initial_access_in_2024_OffensiveX) - Resources linked to my presentation at OffensiveX in Athens in June 2024 on the topic "Breach the Gat, Advanced Initial Access in 2024"
 - [jseclab/obj2shellcode](https://github.com/jseclab/obj2shellcode) - shellcode生成框架
 - [Hacker-Hermanos/C2_INFRA_WORKSHOP_DEFCON32_RED_TEAM_VILLAGE](https://github.com/Hacker-Hermanos/C2_INFRA_WORKSHOP_DEFCON32_RED_TEAM_VILLAGE) - C2 Infrastructure Automation
@@ -2020,7 +2024,7 @@
 - [RicoloveFeng/SPA-Freestyle-Guidance](https://github.com/RicoloveFeng/SPA-Freestyle-Guidance) - 带你畅游《软件分析》
 - [RazrFalcon/pico-args](https://github.com/RazrFalcon/pico-args) - An ultra simple CLI arguments parser.
 - [avast/retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
-- [MuelNova/NoPwnDocker](https://github.com/MuelNova/NoPwnDocker) - Docker environment for Pwn in CTF! Fuck the environment setup that's why this repo is created.
+- [MuelNova/NoPwnDocker](https://github.com/MuelNova/NoPwnDocker) - Quick pwn environment setup from Ubuntu16.04 to Ubuntu 24.04. STOP WASTING YOUR TIME ON ENV SETUP.
 - [KingBridgeSS/food](https://github.com/KingBridgeSS/food) - 
 - [CS-BAOYAN/CSSummerCamp2023](https://github.com/CS-BAOYAN/CSSummerCamp2023) - 
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
@@ -2356,6 +2360,7 @@
 ## reverse-engineering 
 
 - [binsync/binsync](https://github.com/binsync/binsync) - A reversing plugin for cross-decompiler collaboration, built on git.
+- [N0fix/rustbinsign](https://github.com/N0fix/rustbinsign) - Rust symbol recovery tool
 - [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
 - [hasherezade/tiny_tracer](https://github.com/hasherezade/tiny_tracer) - A Pin Tool for tracing API calls etc
 - [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package. Windows ONLY.
@@ -2426,6 +2431,7 @@
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
+- [N0fix/rustbinsign](https://github.com/N0fix/rustbinsign) - Rust symbol recovery tool
 - [taiki-e/pin-project](https://github.com/taiki-e/pin-project) - A crate for safe and ergonomic pin-projection.
 - [joaoviictorti/shadow-rs](https://github.com/joaoviictorti/shadow-rs) - Windows Kernel Rootkit in Rust
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
