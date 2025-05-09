@@ -82,6 +82,7 @@
 
 ## C 
 
+- [rapid7/ReflectiveDLLInjection](https://github.com/rapid7/ReflectiveDLLInjection) - Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process.
 - [bsauce/kernel-security-learning](https://github.com/bsauce/kernel-security-learning) - Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug.
 - [h4ckm310n/Container-Vulnerability-Exploit](https://github.com/h4ckm310n/Container-Vulnerability-Exploit) - 容器安全漏洞的分析与复现
 - [MythicAgents/Xenon](https://github.com/MythicAgents/Xenon) - A Mythic agent for Windows written in C
@@ -237,7 +238,7 @@
 - [qiufuyu123/fxesplus](https://github.com/qiufuyu123/fxesplus) - fx-991cnx逆向工程工具/整理
 - [avast/retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
-- [WithSecureLabs/C3](https://github.com/WithSecureLabs/C3) - Custom Command and Control (C3). A framework for rapid prototyping of custom C2 channels, while still providing integration with existing offensive toolkits.
+- [ReversecLabs/C3](https://github.com/ReversecLabs/C3) - Custom Command and Control (C3). A framework for rapid prototyping of custom C2 channels, while still providing integration with existing offensive toolkits.
 - [wgpsec/CS-Avoid-killing](https://github.com/wgpsec/CS-Avoid-killing) - CS免杀加载器
 - [OpenL2D/moc3ingbird](https://github.com/OpenL2D/moc3ingbird) - MOC3ingbird Exploit for Live2D (CVE-2023-27566)
 - [jxy-s/herpaderping](https://github.com/jxy-s/herpaderping) - Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.
@@ -666,7 +667,7 @@
 - [theanarkh/understand-nodejs](https://github.com/theanarkh/understand-nodejs) - 通过源码分析nodejs原理
 - [ax1sX/SecurityList](https://github.com/ax1sX/SecurityList) - A list for Web Security and Code Audit
 - [Y4er/dotnet-deserialization](https://github.com/Y4er/dotnet-deserialization) - dotnet 反序列化学习笔记
-- [PeiQi0/PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) - 面向网络安全从业者的知识文库🍃
+- [PeiQi0/PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) - 面向网络安全从业者的知识文库🍃 (停止更新)
 - [crow821/vulntarget](https://github.com/crow821/vulntarget) - vulntarget靶场系列
 - [jmpews/pwn2exploit](https://github.com/jmpews/pwn2exploit) - all mine papers, pwn & exploit
 - [cseroad/Exp-Tools](https://github.com/cseroad/Exp-Tools) - 一款集成高危漏洞exp的实用性工具
@@ -887,6 +888,7 @@
 
 ## Rust 
 
+- [anza-xyz/pinocchio](https://github.com/anza-xyz/pinocchio) - Create Solana programs with no dependencies attached
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
 - [ColinFinck/ntfs](https://github.com/ColinFinck/ntfs) - An implementation of the NTFS filesystem in a Rust crate, usable from firmware level up to user-mode.
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
@@ -1112,7 +1114,6 @@
 - [PrivateRookie/ws-tool](https://github.com/PrivateRookie/ws-tool) - High perform & easy to use websocket client/server
 - [MrPicklePinosaur/shrs](https://github.com/MrPicklePinosaur/shrs) - The rusty shell toolkit for hackers
 - [pwnwriter/hysp](https://github.com/pwnwriter/hysp) - 📦 An independent package manager that every hacker deserves.
-- [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
 - [console-rs/console](https://github.com/console-rs/console) - A rust console and terminal abstraction
@@ -1148,7 +1149,6 @@
 - [meeting-rs/meeting.rs](https://github.com/meeting-rs/meeting.rs) - Private one to one realtime video meeting.⚡
 - [misprit7/computerraria](https://github.com/misprit7/computerraria) - A fully compliant RISC-V computer made inside the game Terraria
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
-- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - A proxy to expose real tls handshake to the firewall
 - [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync) - Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization.
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
@@ -1440,6 +1440,7 @@
 ## WebAssembly 
 
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 
 ## XSLT 
 
