@@ -1542,6 +1542,7 @@
 
 ## others 
 
+- [madsim-rs/madsim](https://github.com/madsim-rs/madsim) - Magical Deterministic Simulator for distributed systems in Rust.
 - [rapid7/ReflectiveDLLInjection](https://github.com/rapid7/ReflectiveDLLInjection) - Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process.
 - [anza-xyz/pinocchio](https://github.com/anza-xyz/pinocchio) - Create Solana programs with no dependencies attached
 - [bsauce/kernel-security-learning](https://github.com/bsauce/kernel-security-learning) - Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug.
@@ -2645,7 +2646,7 @@
 ## security 
 
 - [casvisor/casvisor](https://github.com/casvisor/casvisor) - An open-source cloud operating system and blockchain management platform, online demo: https://door.casvisor.com
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - Static analysis for GitHub Actions
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [EvilBytecode/GoRedOps](https://github.com/EvilBytecode/GoRedOps) - 🦫  | GoRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Go programming language, all is made for education
 - [decalage2/oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
@@ -2723,7 +2724,7 @@
 ## security-tools 
 
 - [keven1z/simpleIAST](https://github.com/keven1z/simpleIAST) - simpleIAST- 基于污点追踪的灰盒漏洞扫描工具。
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - Static analysis for GitHub Actions
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [The-Z-Labs/bof-launcher](https://github.com/The-Z-Labs/bof-launcher) - Beacon Object File (BOF) launcher - library for executing BOF files in C/C++/Zig applications
 - [Aabyss-Team/ARL](https://github.com/Aabyss-Team/ARL) - ARL官方仓库备份项目：ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [DeimosC2/DeimosC2](https://github.com/DeimosC2/DeimosC2) - DeimosC2 is a Golang command and control framework for post-exploitation.
