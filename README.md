@@ -91,6 +91,7 @@
 - [MythicAgents/Xenon](https://github.com/MythicAgents/Xenon) - A Mythic agent for Windows written in C
 - [bats3c/DarkLoadLibrary](https://github.com/bats3c/DarkLoadLibrary) - LoadLibrary for offensive operations
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
+- [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
 - [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer) - Firedancer is Jump Crypto's Solana validator software.
 - [0xEr3bus/PoolPartyBof](https://github.com/0xEr3bus/PoolPartyBof) - A beacon object file implementation of PoolParty Process Injection Technique.
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
@@ -188,6 +189,7 @@
 ## C++ 
 
 - [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware) - VM detection library and tool
+- [ashvardanian/fork_union](https://github.com/ashvardanian/fork_union) - Low(est?)-latency OpenMP-style minimalistic scoped thread-pool designed for 'Fork-Join' parallelism in Rust and C++, avoiding memory allocations, mutexes, CAS-primitives, and false-sharing on the hot 
 - [aaaddress1/Windows-APT-Warfare](https://github.com/aaaddress1/Windows-APT-Warfare) - 著作《Windows APT Warfare：惡意程式前線戰術指南》各章節技術實作之原始碼內容
 - [za233/NeacController](https://github.com/za233/NeacController) - Exploit vulnerabilities in NeacSafe64.sys to achieve privilege escalation and kernel-mode shellcode execution
 - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api)
@@ -198,7 +200,6 @@
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [sec3-product/x-ray](https://github.com/sec3-product/x-ray) - The X-Ray Toolchain is an open-source, cross-platform command-line interface (CLI) tool designed for static analysis of Solana programs and smart contracts written in Rust.
 - [0x3rhy/BypassCredGuard-BOF](https://github.com/0x3rhy/BypassCredGuard-BOF) - BypassCredGuard CS BOF
-- [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
 - [ImCoriander/ZeroEye](https://github.com/ImCoriander/ZeroEye) - 自动化找白文件，用于扫描 EXE 文件的导入表，列出导入的DLL文件，并筛选出非系统DLL，符合条件的文件将被复制到特定的 X64 或 X86 文件夹
 - [ez8-co/yapi](https://github.com/ez8-co/yapi) - 💉 全能进程注入器 [Yet Another Process Injector] that reduce differences between x64, wow64 and x86 processes.
 - [rasta-mouse/process-inject-kit](https://github.com/rasta-mouse/process-inject-kit) - Port of Cobalt Strike's Process Inject Kit
@@ -523,7 +524,7 @@
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
-- [mengjian-github/copilot-analysis](https://github.com/mengjian-github/copilot-analysis) - 
+- [mengjian-github/copilot-analysis](https://github.com/mengjian-github/copilot-analysis) - 本文详细分析了 Github Copilot 这个基于机器学习的代码自动补全工具的实现原理。作者通过逆向工程的方式,深入探索了 Copilot 的核心逻辑,包括代码提示的入口、获取提示的核心方法、以及相关的缓存策略、实验特性等。
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [tongcheng-security-team/NextScan](https://github.com/tongcheng-security-team/NextScan) - 飞刃是一套完整的企业级黑盒漏洞扫描系统，集成漏洞扫描、漏洞管理、扫描资产、爬虫等服务。 拥有强大的漏洞检测引擎和丰富的插件库，覆盖多种漏洞类型和应用程序框架。
@@ -899,11 +900,12 @@
 
 ## Rust 
 
+- [Sndav/FormatFusion](https://github.com/Sndav/FormatFusion) - FormatFusion 是一个用 Rust 编写的命令行工具，专为开发者和数据处理专家设计。它可以快速美化和格式化各种常见的数据格式，支持剪贴板操作和文件处理，让您的数据处理工作更加高效。
+- [1Password/arboard](https://github.com/1Password/arboard) - A clipboard for Rust
 - [jedisct1/yes-rs](https://github.com/jedisct1/yes-rs) - 🚀 A blazingly fast, memory-safe rewrite of the classic Unix 'yes' command. Written in Rust! 🦀
 - [0xTriboulet/scepter-rs](https://github.com/0xTriboulet/scepter-rs) - 
 - [edransy/pipex](https://github.com/edransy/pipex) - 
 - [WildPixelGames/gdt-cpus](https://github.com/WildPixelGames/gdt-cpus) - Game Developer's Toolkit for CPU Management
-- [ashvardanian/fork_union](https://github.com/ashvardanian/fork_union) - Lowest-latency OpenMP-style minimalistic scoped thread-pool designed for 'Fork-Join' parallelism in Rust and C++, avoiding memory allocations, mutexes, CAS-primitives, and false-sharing on the hot pat
 - [folo-rs/folo](https://github.com/folo-rs/folo) - Mechanisms for high-performance hardware-aware programming in Rust
 - [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
 - [0xTriboulet/rdll-rs](https://github.com/0xTriboulet/rdll-rs) - A reflective DLL development template for the Rust programming language
@@ -957,7 +959,7 @@
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [Teach2Breach/snapinject_rs](https://github.com/Teach2Breach/snapinject_rs) - A remote process injection using process snapshotting based on https://gitlab.com/ORCA000/snaploader , in rust. It creates a sacrificial process, takes a snapshot of the process, and injects shellcode
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
-- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings, reranking. Based on qdrant/fastembed.
+- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings, reranking.
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [arrow-udf/arrow-udf](https://github.com/arrow-udf/arrow-udf) - A User-Defined Function Framework for Apache Arrow.
 - [silentEAG/RedTeamOps](https://github.com/silentEAG/RedTeamOps) - Use Rust to implement some Red Team techniques :)
