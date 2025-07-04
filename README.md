@@ -906,6 +906,7 @@
 
 ## Rust 
 
+- [chainreactors/malefic](https://github.com/chainreactors/malefic) - IoM implant, C2 Framework and Infrastructure
 - [Kudaes/RustChain](https://github.com/Kudaes/RustChain) - Hide memory artifacts using ROP and hardware breakpoints.
 - [Lokathor/bytemuck](https://github.com/Lokathor/bytemuck) - A crate for mucking around with piles of bytes
 - [CasualX/pelite](https://github.com/CasualX/pelite) - Lightweight, memory-safe, zero-allocation library for reading and navigating PE binaries.
