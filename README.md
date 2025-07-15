@@ -61,6 +61,7 @@
 
 ## Assembly 
 
+- [mytechnotalent/windows-process-lifecycle](https://github.com/mytechnotalent/windows-process-lifecycle) - A comprehensive technical guide with an in-depth analysis of the Windows process lifecycle, from initial user-mode API calls through kernel-mode creation to final user code execution.
 - [antonioCoco/Mapping-Injection](https://github.com/antonioCoco/Mapping-Injection) - Just another Windows Process Injection
 - [briansmith/ring](https://github.com/briansmith/ring) - An experiment.
 - [f1zm0/acheron](https://github.com/f1zm0/acheron) - indirect syscalls for AV/EDR evasion in Go assembly
@@ -84,6 +85,7 @@
 
 ## C 
 
+- [maxDcb/DreamWalkers](https://github.com/maxDcb/DreamWalkers) - Reflective shellcode loaderwith advanced call stack spoofing and .NET support.
 - [Dor00tkit/BamExtensionTableHook](https://github.com/Dor00tkit/BamExtensionTableHook) - Proof-of-concept kernel driver that hijacks the Windows kernel extension table mechanism to preserve process notify callbacks even when attackers disable standard process notify callbacks.
 - [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) - Hiding kernel-driver for x86/x64.
 - [zyantific/zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler and code generation library
@@ -190,6 +192,9 @@
 
 ## C++ 
 
+- [WithSecureLabs/CallStackSpoofer](https://github.com/WithSecureLabs/CallStackSpoofer) - A PoC implementation for spoofing arbitrary call stacks when making sys calls (e.g. grabbing a handle via NtOpenProcess)
+- [klezVirus/SilentMoonwalk](https://github.com/klezVirus/SilentMoonwalk) - PoC Implementation of a fully dynamic call stack spoofer
+- [Friends-Security/RedirectThread](https://github.com/Friends-Security/RedirectThread) - Playing around with Thread Context Hijacking. Building more evasive primitives to use as alternative for existing process injection techniques
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [Lynnette177/GirlHook](https://github.com/Lynnette177/GirlHook) - GirlHook is a Lua-scriptable ART hook framework designed for dynamic method interception and gadget-level instrumentation on Android. G.I.R.L. stands for Gadget-Injection Runtime for Lua, highlighting
 - [Mattiwatti/EfiGuard](https://github.com/Mattiwatti/EfiGuard) - Disable PatchGuard and Driver Signature Enforcement at boot time
@@ -315,7 +320,7 @@
 
 ## Go 
 
-- [yosebyte/nodepass](https://github.com/yosebyte/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. 通用TCP/UDP隧道解决方案，免配置单文件多模式，采用控制数据双路分离架构，内置零延迟自适
+- [yosebyte/nodepass](https://github.com/yosebyte/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections.
 - [EndlessCheng/mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
 - [ABCDELabs/Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 - [casvisor/casvisor](https://github.com/casvisor/casvisor) - An open-source cloud operating system and blockchain management platform, online demo: https://door.casvisor.com
@@ -515,6 +520,7 @@
 
 ## JavaScript 
 
+- [cuckoosandbox/cuckoo](https://github.com/cuckoosandbox/cuckoo) - Cuckoo Sandbox is an automated dynamic malware analysis system
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [Charles7c/charles7c.github.io](https://github.com/Charles7c/charles7c.github.io) - （保持最新版 VitePress）基于 VitePress 构建的个人知识库/博客。扩展 VitePress 默认主题：增加ICP备案号、公安备案号显示，增加文章元数据信息（原创标识、作者、发布时间、分类、标签）显示，增加文末版权声明，增加 Gitalk 评论功能，主页美化、自动生成侧边栏、文章内支持 Mermaid 流程图、MD公式、MD脚注、增加我的标签、我的归档等独立页面，以及浏览器滚条等细
@@ -765,6 +771,8 @@
 
 ## Python 
 
+- [CERT-Polska/drakvuf-sandbox](https://github.com/CERT-Polska/drakvuf-sandbox) - DRAKVUF Sandbox - automated hypervisor-level malware analysis system
+- [cert-ee/cuckoo3](https://github.com/cert-ee/cuckoo3) - Cuckoo3 is a Python 3 open source automated malware analysis system.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - MemOS (Preview) | Intelligence Begins with Memory
 - [cybrly/badsuccessor](https://github.com/cybrly/badsuccessor) - 
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
@@ -909,6 +917,10 @@
 
 ## Rust 
 
+- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains complete resources and coding practices for malware development using Rust 🦀.
+- [joaoviictorti/uwd](https://github.com/joaoviictorti/uwd) - Call Stack Spoofing for Rust
+- [Kudaes/Unwinder](https://github.com/Kudaes/Unwinder) - Call stack spoofing for Rust
+- [Teach2Breach/moonwalk](https://github.com/Teach2Breach/moonwalk) - find dll base addresses without PEB WALK
 - [Teach2Breach/pool_party_rs](https://github.com/Teach2Breach/pool_party_rs) - remote process injections using pool party techniques
 - [SecTheBit/ZoomBotC2](https://github.com/SecTheBit/ZoomBotC2) - 
 - [hyperliquid-dex/hyperliquid-rust-sdk](https://github.com/hyperliquid-dex/hyperliquid-rust-sdk) - 
