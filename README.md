@@ -85,6 +85,7 @@
 
 ## C 
 
+- [zarkones/BloodfangC2](https://github.com/zarkones/BloodfangC2) - Modern PIC implant for Windows (64 & 32 bit)
 - [maxDcb/DreamWalkers](https://github.com/maxDcb/DreamWalkers) - Reflective shellcode loaderwith advanced call stack spoofing and .NET support.
 - [Dor00tkit/BamExtensionTableHook](https://github.com/Dor00tkit/BamExtensionTableHook) - Proof-of-concept kernel driver that hijacks the Windows kernel extension table mechanism to preserve process notify callbacks even when attackers disable standard process notify callbacks.
 - [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) - Hiding kernel-driver for x86/x64.
@@ -92,7 +93,6 @@
 - [rapid7/ReflectiveDLLInjection](https://github.com/rapid7/ReflectiveDLLInjection) - Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process.
 - [bsauce/kernel-security-learning](https://github.com/bsauce/kernel-security-learning) - Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug.
 - [h4ckm310n/Container-Vulnerability-Exploit](https://github.com/h4ckm310n/Container-Vulnerability-Exploit) - 容器安全漏洞的分析与复现
-- [MythicAgents/Xenon](https://github.com/MythicAgents/Xenon) - A Mythic agent for Windows written in C
 - [bats3c/DarkLoadLibrary](https://github.com/bats3c/DarkLoadLibrary) - LoadLibrary for offensive operations
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
@@ -455,7 +455,7 @@
 - [keven1z/simpleIAST](https://github.com/keven1z/simpleIAST) - simpleIAST- 基于污点追踪的灰盒漏洞扫描工具。
 - [Ape1ron/SpringAopInDeserializationDemo1](https://github.com/Ape1ron/SpringAopInDeserializationDemo1) - 在spring-aop中新发现的反序列化gadget-chain
 - [TheKingOfDuck/SinkFinder](https://github.com/TheKingOfDuck/SinkFinder) - 闭源系统半自动漏洞挖掘工具，针对 jar/war/zip 进行静态代码分析，输出从source到sink的可达路径。LLM将验证路径可达性，并根据上下文给出该路径可信分数
-- [ReaJason/MemShellParty](https://github.com/ReaJason/MemShellParty) - Java 内存马开聚会 🎉
+- [ReaJason/MemShellParty](https://github.com/ReaJason/MemShellParty) - 一款专注于 Java 主流 Web 中间件的内存马快速生成工具，致力于简化安全研究人员和红队成员的工作流程，提升攻防效率
 - [JackOfMostTrades/gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector) - A byte code analyzer for finding deserialization gadget chains in Java applications
 - [gmu-swe/phosphor](https://github.com/gmu-swe/phosphor) - Phosphor: Dynamic Taint Tracking for the JVM
 - [EkiXu/JarAgent](https://github.com/EkiXu/JarAgent) - Write HotPatches with Java Instrumentation API
@@ -620,9 +620,8 @@
 ## Others 
 
 - [UCYBERS/Awesome-Blackhat-Tools](https://github.com/UCYBERS/Awesome-Blackhat-Tools) - A curated list of tools officially presented at Black Hat events
-- [carloscn/blog](https://github.com/carloscn/blog) - My blog
 - [Esonhugh/My-Cloud-Security](https://github.com/Esonhugh/My-Cloud-Security) - [ALL IN ONE] Everything that I shared to public about Cloud Security is here.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
 - [slowmist/MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems.
 - [SpringKill-team/CodeAuditAssistant](https://github.com/SpringKill-team/CodeAuditAssistant) - 🔍 CodeAuditAssistant - IDEA代码审计插件（公测中） ⚡ 精准追踪复杂调用链 | 🚀 毫秒级方法搜索 | 🔥 内置高危漏洞检测 原生集成 | 反编译/路径分析 | 内存优化 | 安全审计利器                      🔍 CodeAuditAssistant - JetBrains Code Audit Plugin (Beta)   ⚡ Deep Call
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -638,6 +637,7 @@
 - [lintstar/CS-AutoPostChain](https://github.com/lintstar/CS-AutoPostChain) - 基于 OPSEC 的 CobaltStrike 后渗透自动化链
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [RoseSecurity/Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) - Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
+- [RuoJi6/HackerPermKeeper](https://github.com/RuoJi6/HackerPermKeeper) - Linux权限维持
 - [tkmru/awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass) - Awesome EDR Bypass Resources For Ethical Hacking
 - [sevagas/Advanced_Initial_access_in_2024_OffensiveX](https://github.com/sevagas/Advanced_Initial_access_in_2024_OffensiveX) - Resources linked to my presentation at OffensiveX in Athens in June 2024 on the topic "Breach the Gat, Advanced Initial Access in 2024"
 - [sannykim/solsec](https://github.com/sannykim/solsec) - A collection of resources to study Solana smart contract security, auditing, and exploits.
@@ -778,6 +778,7 @@
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - MemOS (Preview) | Intelligence Begins with Memory
 - [cybrly/badsuccessor](https://github.com/cybrly/badsuccessor) - 
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
+- [MythicAgents/Xenon](https://github.com/MythicAgents/Xenon) - A Mythic agent for Windows written in C
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -789,7 +790,6 @@
 - [Ridter/owa_info](https://github.com/Ridter/owa_info) - 获取Exchange信息的小工具
 - [decalage2/oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
 - [Metarget/metarget](https://github.com/Metarget/metarget) - Metarget is a framework providing automatic constructions of vulnerable infrastructures.
-- [RuoJi6/HackerPermKeeper](https://github.com/RuoJi6/HackerPermKeeper) - Linux权限维持
 - [awake1t/HackReport](https://github.com/awake1t/HackReport) - 渗透测试报告/资料文档/渗透经验文档/安全书籍
 - [N0fix/rustbinsign](https://github.com/N0fix/rustbinsign) - Rust symbol recovery tool
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot
@@ -919,6 +919,7 @@
 
 ## Rust 
 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [microsoft/Windows-rust-driver-samples](https://github.com/microsoft/Windows-rust-driver-samples) - Rust port of the official Windows Driver Samples on Github. Leverages windows-drivers-rs
 - [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains complete resources and coding practices for malware development using Rust 🦀.
 - [joaoviictorti/uwd](https://github.com/joaoviictorti/uwd) - Call Stack Spoofing for Rust
