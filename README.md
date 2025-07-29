@@ -192,6 +192,7 @@
 
 ## C++ 
 
+- [Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - EDR Lab for Experimentation Purposes
 - [WithSecureLabs/CallStackSpoofer](https://github.com/WithSecureLabs/CallStackSpoofer) - A PoC implementation for spoofing arbitrary call stacks when making sys calls (e.g. grabbing a handle via NtOpenProcess)
 - [klezVirus/SilentMoonwalk](https://github.com/klezVirus/SilentMoonwalk) - PoC Implementation of a fully dynamic call stack spoofer
 - [Friends-Security/RedirectThread](https://github.com/Friends-Security/RedirectThread) - Playing around with Thread Context Hijacking. Building more evasive primitives to use as alternative for existing process injection techniques
@@ -465,7 +466,7 @@
 - [whocansee/FilelessAgentMemShell](https://github.com/whocansee/FilelessAgentMemShell) - 无需文件落地Agent内存马生成器
 - [novysodope/javaeasyscan](https://github.com/novysodope/javaeasyscan) - javaeasyscanner - 富婆系列，代码审计辅助工具，致力于解放大脑，方便双手
 - [cckuailong/JNDI-Injection-Exploit-Plus](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus) - 80+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server.
-- [X1r0z/JNDIMap](https://github.com/X1r0z/JNDIMap) - JNDI 注入利用工具, 支持 RMI, LDAP 和 LDAPS 协议, 包含多种高版本 JDK 绕过方式 | A JNDI injection exploit tool that supports RMI, LDAP and LDAPS protocols, including a variety of methods to bypass higher-version JDK
+- [X1r0z/JNDIMap](https://github.com/X1r0z/JNDIMap) - A powerful JNDI injection exploitation framework that supports RMI, LDAP and LDAPS protocols, including various bypass methods for high-version JDK restrictions
 - [Bl0omZ/JNDIEXP](https://github.com/Bl0omZ/JNDIEXP) - JNDI在java高版本的利用工具,FUZZ利用链
 - [Whoopsunix/JavaRce](https://github.com/Whoopsunix/JavaRce) - Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 实战场景较通用的 Java Rce 相关漏洞的利用方式
 - [Whoopsunix/PPPYSO](https://github.com/Whoopsunix/PPPYSO) - proof-of-concept for generating Java deserialization payload | Proxy MemShell
@@ -485,7 +486,7 @@
 - [kyo-w/router-router](https://github.com/kyo-w/router-router) - Java web路由内存分析工具
 - [luelueking/Bypass_JVM_Verifier](https://github.com/luelueking/Bypass_JVM_Verifier) - Bypass JVM Class ByteCode Verifier , 对抗反编译器
 - [veo/vagent](https://github.com/veo/vagent) - 多功能 java agent 内存马
-- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个JAR包分析工具，批量分析，SCA漏洞分析，方法调用关系搜索，字符串搜索，Spring组件分析，信息泄露检查，CFG程序分析，JVM栈帧分析，进阶表达式搜索，字节码指令级的动态调试分析，反编译JAR包一键导出，一键提取序列化数据恶意代码，一键分析BCEL字节码
+- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包分析工具，完善美观的 GUI 支持，方法调用关系搜索，方法调用链 DFS 算法分析，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索
 - [qi4L/JYso](https://github.com/qi4L/JYso) - JNDIExploit or a ysoserial.
 - [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ &lt; 5.18.3 RCE 回显利用 内存马注入
 - [silentEAG/java-patch](https://github.com/silentEAG/java-patch) - awd/awdp 小工具，使用 javassist 对 jar 包进行 patch
@@ -499,7 +500,7 @@
 - [bitterzzZZ/MemoryShellLearn](https://github.com/bitterzzZZ/MemoryShellLearn) - 分享几个直接可用的内存马，记录一下学习过程中看过的文章
 - [4ra1n/mysql-fake-server](https://github.com/4ra1n/mysql-fake-server) - 纯 Java 实现的 MySQL Fake Server | 支持 GUI 版和命令行版 | 支持反序列化和文件读取的利用方式 | 支持常见的 GADGET 和自定义 GADGET 数据 | 根据目标环境自动生成匹配的 PAYLOAD | 支持 PGSQL 和 DERBY 的利用
 - [pen4uin/java-memshell-generator](https://github.com/pen4uin/java-memshell-generator) - 一款支持自定义的 Java 内存马生成工具｜A customizable Java in-memory webshell generation tool.
-- [wh1t3p1g/tabby-path-finder](https://github.com/wh1t3p1g/tabby-path-finder) - A neo4j procedure for tabby
+- [tabby-sec/tabby-path-finder](https://github.com/tabby-sec/tabby-path-finder) - A neo4j procedure for tabby
 - [SafeGroceryStore/MDUT](https://github.com/SafeGroceryStore/MDUT) - MDUT - Multiple Database Utilization Tools
 - [iSafeBlue/TrackRay](https://github.com/iSafeBlue/TrackRay) - 溯光 (TrackRay) 3 beta⚡渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|代码审计|AWVS|NMAP|Metasploit|SQLMap）
 - [pwntester/BlockingServer](https://github.com/pwntester/BlockingServer) - Web Server that serves a single file and keeps the connection open until user releases it.
@@ -516,7 +517,7 @@
 - [qtc-de/remote-method-guesser](https://github.com/qtc-de/remote-method-guesser) - Java RMI Vulnerability Scanner
 - [wh1t3p1g/ysomap](https://github.com/wh1t3p1g/ysomap) - A helpful Java Deserialization exploit framework.
 - [welk1n/JNDI-Injection-Exploit](https://github.com/welk1n/JNDI-Injection-Exploit) - JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc）
-- [wh1t3p1g/tabby](https://github.com/wh1t3p1g/tabby) - A CAT called tabby ( Code Analysis Tool )
+- [tabby-sec/tabby](https://github.com/tabby-sec/tabby) - A CAT called tabby ( Code Analysis Tool )
 
 ## JavaScript 
 
@@ -637,7 +638,7 @@
 - [lintstar/CS-AutoPostChain](https://github.com/lintstar/CS-AutoPostChain) - 基于 OPSEC 的 CobaltStrike 后渗透自动化链
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [RoseSecurity/Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) - Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
-- [RuoJi6/HackerPermKeeper](https://github.com/RuoJi6/HackerPermKeeper) - Linux权限维持
+- [RuoJi6/CACM](https://github.com/RuoJi6/CACM) - Linux权限维持
 - [tkmru/awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass) - Awesome EDR Bypass Resources For Ethical Hacking
 - [sevagas/Advanced_Initial_access_in_2024_OffensiveX](https://github.com/sevagas/Advanced_Initial_access_in_2024_OffensiveX) - Resources linked to my presentation at OffensiveX in Athens in June 2024 on the topic "Breach the Gat, Advanced Initial Access in 2024"
 - [sannykim/solsec](https://github.com/sannykim/solsec) - A collection of resources to study Solana smart contract security, auditing, and exploits.
@@ -772,6 +773,7 @@
 
 ## Python 
 
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [FuzzingLabs/sol-azy](https://github.com/FuzzingLabs/sol-azy) - Sol-azy is a modular CLI toolchain for static analysis and reverse engineering of Solana sBPF programs
 - [CERT-Polska/drakvuf-sandbox](https://github.com/CERT-Polska/drakvuf-sandbox) - DRAKVUF Sandbox - automated hypervisor-level malware analysis system
 - [cert-ee/cuckoo3](https://github.com/cert-ee/cuckoo3) - Cuckoo3 is a Python 3 open source automated malware analysis system.
@@ -1407,7 +1409,7 @@
 - [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
 - [microsoft/AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure.
 - [unibeck/solstatus](https://github.com/unibeck/solstatus) - An uptime monitoring service that is easy and cheap to run at scale. Create endpoint checks for uptime, latency, and status code. Supports OpsGenie for alerts.
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
@@ -1516,6 +1518,7 @@
 
 ## YARA 
 
+- [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) - Elastic Security detection content for Endpoint
 - [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox) - A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabiliti
 
 ## Zig 
