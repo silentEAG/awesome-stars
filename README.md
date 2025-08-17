@@ -193,6 +193,7 @@
 
 ## C++ 
 
+- [NeoMaster831/kurasagi](https://github.com/NeoMaster831/kurasagi) - Windows 11 24H2 Runtime PatchGuard Bypass
 - [jd-opensource/arkdecompiler](https://github.com/jd-opensource/arkdecompiler) - 
 - [itm4n/PPLmedic](https://github.com/itm4n/PPLmedic) - Dump the memory of any PPL with a Userland exploit chain
 - [rwfpl/rewolf-wow64ext](https://github.com/rwfpl/rewolf-wow64ext) - Helper library for x86 programs that runs under WOW64 layer on x64 versions of Microsoft Windows operating systems.
@@ -727,6 +728,7 @@
 - [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) - 拼多多apk内嵌提权代码，及动态下发dex分析
 - [Kudaes/rust_tips_and_tricks](https://github.com/Kudaes/rust_tips_and_tricks) - Rust For Windows Cheatsheet
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [google/learn_unsafe_rust](https://github.com/google/learn_unsafe_rust) - 
 - [youthlql/JavaYouth](https://github.com/youthlql/JavaYouth) - 主要是Java技术栈的文章
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -1292,7 +1294,6 @@
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [MythicAgents/thanatos](https://github.com/MythicAgents/thanatos) - Mythic C2 agent targeting Linux and Windows hosts written in Rust
 - [neonmoe/minreq](https://github.com/neonmoe/minreq) - Simple, minimal-dependency HTTP client.
-- [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework
 - [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Sealevel Framework
 - [neodyme-labs/solana-poc-framework](https://github.com/neodyme-labs/solana-poc-framework) - A framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way
