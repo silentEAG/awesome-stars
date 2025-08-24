@@ -929,6 +929,8 @@
 
 ## Rust 
 
+- [KickedDroid/loadstar](https://github.com/KickedDroid/loadstar) - A different approach to writing BOFs in rust.
+- [KickedDroid/bof_oxide](https://github.com/KickedDroid/bof_oxide) - A POC or Template whatever for developing BOFs for Sliver, Havoc, Cobalt Strike or most COFFLoaders in Rust.
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
 - [statrs-dev/statrs](https://github.com/statrs-dev/statrs) - Statistical computation library for Rust
 - [NoahKirchner/speedloader](https://github.com/NoahKirchner/speedloader) - Rust template/library for implementing your own COFF loader
