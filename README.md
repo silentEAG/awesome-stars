@@ -494,7 +494,7 @@
 - [kyo-w/router-router](https://github.com/kyo-w/router-router) - Java web路由内存分析工具
 - [luelueking/Bypass_JVM_Verifier](https://github.com/luelueking/Bypass_JVM_Verifier) - Bypass JVM Class ByteCode Verifier , 对抗反编译器
 - [veo/vagent](https://github.com/veo/vagent) - 多功能 java agent 内存马
-- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包分析工具，完善美观的 GUI 支持，方法调用关系搜索，方法调用链 DFS 算法分析，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索。官方文档：https://docs.qq.com/doc/DV3pKbG9GS0pJS0tk
+- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索。官方文档：https://docs.qq.com/doc/DV3pKbG9GS0pJS0tk
 - [qi4L/JYso](https://github.com/qi4L/JYso) - JNDIExploit or a ysoserial.
 - [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ &lt; 5.18.3 RCE 回显利用 内存马注入
 - [silentEAG/java-patch](https://github.com/silentEAG/java-patch) - awd/awdp 小工具，使用 javassist 对 jar 包进行 patch
@@ -932,6 +932,7 @@
 
 ## Rust 
 
+- [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
 - [KickedDroid/loadstar](https://github.com/KickedDroid/loadstar) - A different approach to writing BOFs in rust.
 - [KickedDroid/bof_oxide](https://github.com/KickedDroid/bof_oxide) - A POC for developing BOFs for Sliver, Havoc, Cobalt Strike or most COFFLoaders in Rust.
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
