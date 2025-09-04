@@ -721,7 +721,6 @@
 - [safe6Sec/PentestDB](https://github.com/safe6Sec/PentestDB) - 各种数据库的利用姿势
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [SEC-GO/Red-vs-Blue](https://github.com/SEC-GO/Red-vs-Blue) - 红蓝对抗交流心得
-- [plctlab/PLCT-Open-Reports](https://github.com/plctlab/PLCT-Open-Reports) - PLCT实验室的公开演讲，或者决定公开的组内报告
 - [Yuki-Master/Japanese-R18-anime-download](https://github.com/Yuki-Master/Japanese-R18-anime-download) - 这是日本里番合集，磁力下载地区
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [dyingsu/nolsp](https://github.com/dyingsu/nolsp) - NoLsp_fix_WSL2_参考的对象类型不支持尝试的操作.exe 下载此软件(原始链接_www.proxifier.com/tmp/Test20200228/NoLsp.exe) 管理员身份运行CMD输入：  NoLsp.exe C:\windows\system32\wsl.exe  请自行注意NoLsp.exe程序的位置，以及你的wsl.exe位置。  产生原因和解决方法分析：  代理软件
@@ -1438,7 +1437,7 @@
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
 - [paradigmxyz/rivet](https://github.com/paradigmxyz/rivet) - Developer Wallet & DevTools for Anvil
 - [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
@@ -1501,6 +1500,7 @@
 ## Typst 
 
 - [touying-typ/touying](https://github.com/touying-typ/touying) - Touying is a powerful package for creating presentation slides in Typst.
+- [plctlab/PLCT-Open-Reports](https://github.com/plctlab/PLCT-Open-Reports) - PLCT实验室的公开演讲，或者决定公开的组内报告
 - [shuosc/SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) - 上海大学本科生毕业论文Typst模板
 - [QQKdeGit/bupt-typst](https://github.com/QQKdeGit/bupt-typst) - 北京邮电大学本科生毕设论文 Typst 模板。Typst template for dissertations in Beijing University of Posts and Telecommunications (BUPT).
 
