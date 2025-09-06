@@ -85,6 +85,7 @@
 
 ## C 
 
+- [passthehashbrowns/VectoredExceptionHandling](https://github.com/passthehashbrowns/VectoredExceptionHandling) - 
 - [Team-Atlanta/aixcc-afc-atlantis](https://github.com/Team-Atlanta/aixcc-afc-atlantis) - 
 - [kleiton0x00/RtlHijack](https://github.com/kleiton0x00/RtlHijack) - Alternative Read and Write primitives using Rtl* functions the unintended way.
 - [ixty/xarch_shellcode](https://github.com/ixty/xarch_shellcode) - Cross Architecture Shellcode in C
@@ -657,6 +658,7 @@
 - [DangJin/awesome-readme-generator-tools](https://github.com/DangJin/awesome-readme-generator-tools) - 收录了一些可以快速创建出精美readme.md的工具集合
 - [we1h0/redteam-tips](https://github.com/we1h0/redteam-tips) - 关于红队方面的学习资料
 - [ir0nstone/cybersec-notes](https://github.com/ir0nstone/cybersec-notes) - My notes on pwn
+- [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
 - [ekkoo-z/Z-Godzilla_ekp](https://github.com/ekkoo-z/Z-Godzilla_ekp) - 哥斯拉webshell管理工具二次开发规避流量检测设备
 - [helius-labs/solana-awesome](https://github.com/helius-labs/solana-awesome) - The "Solana-Awesome" repository serves as a comprehensive, factual resource hub for anyone interested in learning about the Solana blockchain and its underlying technology. It is meticulously curated 
 - [birdhan/SecurityProduct](https://github.com/birdhan/SecurityProduct) - 开源安全产品源码，IDS、IPS、WAF、蜜罐等
@@ -1437,7 +1439,7 @@
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [paradigmxyz/rivet](https://github.com/paradigmxyz/rivet) - Developer Wallet & DevTools for Anvil
 - [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
@@ -1450,7 +1452,6 @@
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-- [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [mnixry/hacktricks-press](https://github.com/mnixry/hacktricks-press) - Porting HackTricks to VitePress
