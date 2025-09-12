@@ -1620,6 +1620,7 @@
 
 ## others 
 
+- [GaoYuCan/IDAPlugins](https://github.com/GaoYuCan/IDAPlugins) - 个人使用的 IDA Pro Plugins 集合
 - [passthehashbrowns/VectoredExceptionHandling](https://github.com/passthehashbrowns/VectoredExceptionHandling) - 
 - [nuta/hypervisor-in-1000-lines](https://github.com/nuta/hypervisor-in-1000-lines) - Writing a hypervisor in 1,000 lines.
 - [Team-Atlanta/aixcc-afc-atlantis](https://github.com/Team-Atlanta/aixcc-afc-atlantis) - 
@@ -1998,7 +1999,7 @@
 - [jackullrich/ShellcodeStdio](https://github.com/jackullrich/ShellcodeStdio) - An extensible framework for easily writing compiler optimized position independent x86 / x64 shellcode for windows platforms.
 - [trustedsec/COFFLoader](https://github.com/trustedsec/COFFLoader) - 
 - [RalfHacker/Kerbeus-BOF](https://github.com/RalfHacker/Kerbeus-BOF) - BOF for Kerberos abuse (an implementation of some important features of the Rubeus).
-- [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
+- [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
 - [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ &lt; 5.18.3 RCE 回显利用 内存马注入
 - [yuange1024/ethereum_yellowpaper](https://github.com/yuange1024/ethereum_yellowpaper) - 以太坊黄皮书中文版
 - [paradigmxyz/paradigm-ctf-2023](https://github.com/paradigmxyz/paradigm-ctf-2023) - 
@@ -2161,7 +2162,7 @@
 - [Awrrays/Pentest-Tips](https://github.com/Awrrays/Pentest-Tips) - RedTeam Pentesting 学习资源，工具
 - [chris-koch-penn/gpt3_security_vulnerability_scanner](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner) - GPT-3 found hundreds of security vulnerabilities in this repo
 - [Bypass007/Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes) - 应急响应实战笔记，一个安全工程师的自我修养。
-- [CasualX/obfstr](https://github.com/CasualX/obfstr) - Compiletime string literal obfuscation for Rust.
+- [CasualX/obfstr](https://github.com/CasualX/obfstr) - Compiletime string literal obfuscation.
 - [zimawhit3/Bitmancer](https://github.com/zimawhit3/Bitmancer) - Nim Library for Offensive Security Development
 - [nneonneo/ghidra-wasm-plugin](https://github.com/nneonneo/ghidra-wasm-plugin) - Ghidra Wasm plugin with disassembly and decompilation support
 - [yui540/Cowardly-Witch](https://github.com/yui540/Cowardly-Witch) - 『臆病な魔女は、Webサイトに魔法をかけた。』
@@ -2393,7 +2394,7 @@
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
 - [kevinheavey/solders](https://github.com/kevinheavey/solders) - A high-performance Python toolkit for Solana, written in Rust
 - [decalage2/oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot
 - [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
@@ -2575,7 +2576,7 @@
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [sobelio/llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks
-- [hydro-project/hydro](https://github.com/hydro-project/hydro) - A high-level distributed programming framework for Rust
+- [hydro-project/hydro](https://github.com/hydro-project/hydro) - A Rust framework for correct and performant distributed systems
 - [avhz/RustQuant](https://github.com/avhz/RustQuant) - Rust library for quantitative finance.
 - [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) - Awesome Rust (Rust 资源 | 学习 | 书 ). 💥
 - [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
@@ -2607,7 +2608,7 @@
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser
 - [Eliah-Lakhin/ad-astra](https://github.com/Eliah-Lakhin/ad-astra) - Scripting language for Rust.
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [N0fix/rustbinsign](https://github.com/N0fix/rustbinsign) - Rust symbol recovery tool
 - [taiki-e/pin-project](https://github.com/taiki-e/pin-project) - A crate for safe and ergonomic pin-projection.
@@ -3246,7 +3247,7 @@
 - [joaoviictorti/hypnus](https://github.com/joaoviictorti/hypnus) - Memory Obfuscation in Rust
 - [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) - Hiding kernel-driver for x86/x64.
 - [Mattiwatti/EfiGuard](https://github.com/Mattiwatti/EfiGuard) - Disable PatchGuard and Driver Signature Enforcement at boot time
-- [SaadAhla/dark-kill](https://github.com/SaadAhla/dark-kill) - A user-mode code and its rootkit that will Kill EDR Processes permanently by leveraging the power of Process Creation Blocking Kernel Callback Routine registering and ZwTerminateProcess.
+- [d1rkmtrr/dark-kill](https://github.com/d1rkmtrr/dark-kill) - A user-mode code and its rootkit that will Kill EDR Processes permanently by leveraging the power of Process Creation Blocking Kernel Callback Routine registering and ZwTerminateProcess.
 - [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
 - [aaaddress1/Windows-APT-Warfare](https://github.com/aaaddress1/Windows-APT-Warfare) - 著作《Windows APT Warfare：惡意程式前線戰術指南》各章節技術實作之原始碼內容
 - [ColinFinck/ntfs](https://github.com/ColinFinck/ntfs) - An implementation of the NTFS filesystem in a Rust crate, usable from firmware level up to user-mode.
