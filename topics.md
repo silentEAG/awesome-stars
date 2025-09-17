@@ -239,9 +239,9 @@
 
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox) - A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabiliti
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
+- [winfunc/deepclaude](https://github.com/winfunc/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -252,7 +252,7 @@
 - [sunface/beat-ai](https://github.com/sunface/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Adversary simulation and Red teaming platform with AI
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -305,7 +305,7 @@
 
 ## api 
 
-- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
+- [winfunc/deepclaude](https://github.com/winfunc/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -463,6 +463,7 @@
 
 ## c 
 
+- [tlsbollei/KittyLoader](https://github.com/tlsbollei/KittyLoader) - KittyLoader is a highly evasive loader written in C / Assembly
 - [zyantific/zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler and code generation library
 - [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer) - Firedancer is Jump Crypto's Solana validator software.
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
@@ -655,6 +656,7 @@
 
 ## cybersecurity 
 
+- [tlsbollei/KittyLoader](https://github.com/tlsbollei/KittyLoader) - KittyLoader is a highly evasive loader written in C / Assembly
 - [UCYBERS/Awesome-Blackhat-Tools](https://github.com/UCYBERS/Awesome-Blackhat-Tools) - A curated list of tools officially presented at Black Hat events
 - [yosebyte/nodepass](https://github.com/yosebyte/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections.
 - [wh0amitz/SharpADWS](https://github.com/wh0amitz/SharpADWS) - Active Directory reconnaissance and exploitation for Red Teams via the Active Directory Web Services (ADWS).
@@ -747,7 +749,7 @@
 
 - [yosebyte/nodepass](https://github.com/yosebyte/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+- [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/10183653901041.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 
@@ -1023,7 +1025,7 @@
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [yaklang/yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [machine1337/gmailc2](https://github.com/machine1337/gmailc2) - A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections and Network Traffic Restrictions
+- [root4031/gmailc2](https://github.com/root4031/gmailc2) - A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections and Network Traffic Restrictions
 - [gobysec/Goby](https://github.com/gobysec/Goby) - Attack surface mapping
 - [Kudaes/rust_tips_and_tricks](https://github.com/Kudaes/rust_tips_and_tricks) - Rust For Windows Cheatsheet
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
@@ -1257,7 +1259,7 @@
 - [Metarget/metarget](https://github.com/Metarget/metarget) - Metarget is a framework providing automatic constructions of vulnerable infrastructures.
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
 - [neargle/re0-kubernetes-sec-archive](https://github.com/neargle/re0-kubernetes-sec-archive) - :atom: [WIP] 整理过去的分享，从零开始的Kubernetes攻防 🧐
-- [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+- [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/10183653901041.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
@@ -1336,7 +1338,7 @@
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - MemOS (Preview) | Intelligence Begins with Memory
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
+- [winfunc/deepclaude](https://github.com/winfunc/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [BradMoonUESTC/finite-monkey-engine](https://github.com/BradMoonUESTC/finite-monkey-engine) - AI engine for smart contract audit
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
@@ -1351,7 +1353,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Adversary simulation and Red teaming platform with AI
 
@@ -1573,7 +1575,7 @@
 
 ## open-source 
 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
 - [AabyssZG/Open-Source-Information-Leakage](https://github.com/AabyssZG/Open-Source-Information-Leakage) - 开源项目信息泄露笔记
 - [EpicsDAO/solv](https://github.com/EpicsDAO/solv) - 🔥 solv - CLI Tool for Managing Solana Validators 🚧 What...? solv is evolving to SLV!
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
@@ -1594,7 +1596,7 @@
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 
 ## opengl 
 
@@ -1620,13 +1622,14 @@
 
 ## others 
 
+- [binarly-io/idalib](https://github.com/binarly-io/idalib) - Idiomatic Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.x’s idalib
 - [GaoYuCan/IDAPlugins](https://github.com/GaoYuCan/IDAPlugins) - 个人使用的 IDA Pro Plugins 集合
 - [passthehashbrowns/VectoredExceptionHandling](https://github.com/passthehashbrowns/VectoredExceptionHandling) - 
 - [nuta/hypervisor-in-1000-lines](https://github.com/nuta/hypervisor-in-1000-lines) - Writing a hypervisor in 1,000 lines.
 - [Team-Atlanta/aixcc-afc-atlantis](https://github.com/Team-Atlanta/aixcc-afc-atlantis) - 
 - [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
 - [kleiton0x00/RtlHijack](https://github.com/kleiton0x00/RtlHijack) - Alternative Read and Write primitives using Rtl* functions the unintended way.
-- [2x7EQ13/CreateProcessAsPPL](https://github.com/2x7EQ13/CreateProcessAsPPL) - This is the loader that supports running a program with Protected Process Light (PPL) protection functionality.
+- [TwoSevenOneT/CreateProcessAsPPL](https://github.com/TwoSevenOneT/CreateProcessAsPPL) - This is the loader that supports running a program with Protected Process Light (PPL) protection functionality.
 - [ixty/xarch_shellcode](https://github.com/ixty/xarch_shellcode) - Cross Architecture Shellcode in C
 - [KickedDroid/loadstar](https://github.com/KickedDroid/loadstar) - A different approach to writing BOFs in rust.
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
@@ -1665,7 +1668,7 @@
 - [edransy/pipex](https://github.com/edransy/pipex) - 
 - [cybrly/badsuccessor](https://github.com/cybrly/badsuccessor) - 
 - [microsoft/AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure.
-- [ashvardanian/fork_union](https://github.com/ashvardanian/fork_union) - Low(est?)-latency OpenMP-style minimalistic scoped thread-pool designed for 'Fork-Join' parallelism in Rust and C++, avoiding memory allocations, mutexes, CAS-primitives, and false-sharing on the hot 
+- [ashvardanian/fork_union](https://github.com/ashvardanian/fork_union) - Lower-latency OpenMP-style minimalistic scoped thread-pool designed for 'Fork-Join' parallelism in Rust and C++, avoiding memory allocations, mutexes, CAS-primitives, and false-sharing on the hot path
 - [za233/cvm](https://github.com/za233/cvm) - source code of the DubheCTF2023 challenge cvm?
 - [Arlenhiack/ActiveMQ-RCE-Exploit](https://github.com/Arlenhiack/ActiveMQ-RCE-Exploit) - ActiveMQ RCE (CVE-2023-46604) 回显利用工具
 - [0xTriboulet/rdll-rs](https://github.com/0xTriboulet/rdll-rs) - A reflective DLL development template for the Rust programming language
@@ -2300,7 +2303,7 @@
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
 - [Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide) - 802.11 Attack Tool
 - [arch3rPro/PentestTools](https://github.com/arch3rPro/PentestTools) - Awesome Pentest Tools Collection
-- [machine1337/gmailc2](https://github.com/machine1337/gmailc2) - A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections and Network Traffic Restrictions
+- [root4031/gmailc2](https://github.com/root4031/gmailc2) - A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections and Network Traffic Restrictions
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
 - [postrequest/link](https://github.com/postrequest/link) - link is a command and control framework written in rust
@@ -2401,7 +2404,7 @@
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [alexmojaki/sorcery](https://github.com/alexmojaki/sorcery) - Dark magic delights in Python
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -2571,7 +2574,7 @@
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [ZJUBCA/roadmap](https://github.com/ZJUBCA/roadmap) - Roadmap of learning blockchain technology and business knowledge summarized by ZJUBCA（浙大区块链协会总结的区块链知识学习路线）
 - [mmastrac/rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust
-- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
+- [winfunc/deepclaude](https://github.com/winfunc/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
@@ -2597,7 +2600,7 @@
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [joaoviictorti/coffeeldr](https://github.com/joaoviictorti/coffeeldr) - A COFF Loader written in Rust
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
-- [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust
+- [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication with a Rust core
 - [kevinheavey/solders](https://github.com/kevinheavey/solders) - A high-performance Python toolkit for Solana, written in Rust
 - [knsd/daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons
 - [sonodima/microseh](https://github.com/sonodima/microseh) - Structured Exception Handling (SEH) for Rust
@@ -2816,6 +2819,7 @@
 
 ## security 
 
+- [tlsbollei/KittyLoader](https://github.com/tlsbollei/KittyLoader) - KittyLoader is a highly evasive loader written in C / Assembly
 - [chainreactors/malefic](https://github.com/chainreactors/malefic) - IoM implant, C2 Framework and Infrastructure
 - [aaaddress1/Windows-APT-Warfare](https://github.com/aaaddress1/Windows-APT-Warfare) - 著作《Windows APT Warfare：惡意程式前線戰術指南》各章節技術實作之原始碼內容
 - [casvisor/casvisor](https://github.com/casvisor/casvisor) - An open-source cloud operating system and blockchain management platform, online demo: https://door.casvisor.com
@@ -3238,6 +3242,7 @@
 
 ## windows 
 
+- [tlsbollei/KittyLoader](https://github.com/tlsbollei/KittyLoader) - KittyLoader is a highly evasive loader written in C / Assembly
 - [NeoMaster831/kurasagi](https://github.com/NeoMaster831/kurasagi) - Windows 11 24H2 Runtime PatchGuard Bypass
 - [microsoft/Windows-rust-driver-samples](https://github.com/microsoft/Windows-rust-driver-samples) - Rust port of the official Windows Driver Samples on Github. Leverages windows-drivers-rs
 - [maxDcb/DreamWalkers](https://github.com/maxDcb/DreamWalkers) - Reflective shellcode loaderwith advanced call stack spoofing and .NET support.
