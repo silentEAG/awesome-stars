@@ -240,7 +240,7 @@
 - [novafacing/cargo-shellcode](https://github.com/novafacing/cargo-shellcode) - Cargo subcommand to build a crate into shellcode
 - [GhostWolfLab/APT-Individual-Combat-Guide](https://github.com/GhostWolfLab/APT-Individual-Combat-Guide) - 《APT Individual Combat Guide》
 - [hasherezade/pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode) - Converts PE into a shellcode
-- [jseclab/obj2shellcode](https://github.com/jseclab/obj2shellcode) - shellcode生成框架
+- [wudun7/obj2shellcode](https://github.com/wudun7/obj2shellcode) - shellcode生成框架
 - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library.
 - [trickster0/LdrLoadDll-Unhooking](https://github.com/trickster0/LdrLoadDll-Unhooking) - LdrLoadDll Unhooking
 - [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
