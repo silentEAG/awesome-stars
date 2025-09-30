@@ -1115,7 +1115,7 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rusticata/kerberos-parser](https://github.com/rusticata/kerberos-parser) - Kerberos parser written in rust with nom
 - [metaworm/luac-parser-rs](https://github.com/metaworm/luac-parser-rs) - lua bytecode parser written in Rust using nom, part of metaworm's lua decompiler, support lua51/lua52/lua53/lua54/luajit/luau https://luadec.metaworm.site/
-- [Vrtgs/thirtyfour](https://github.com/Vrtgs/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
+- [vrtgs/thirtyfour](https://github.com/vrtgs/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [Nariod/RustPacker](https://github.com/Nariod/RustPacker) - Template-based shellcode packer written in Rust, with indirect syscall support. Made with &lt;3 for pentesters.
 - [AbelChe/rabbithole](https://github.com/AbelChe/rabbithole) - 🦀️ 一个完全使用Rust编写的代理池工具，从网络搜索socks5代理，检测可用性之后开启socks5代理服务。A proxy pool tool completely written in Rust, which searches for SOCKS5 proxies from the network, and after checking their availability, starts 
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -1477,7 +1477,7 @@
 - [uiwjs/react-login-page](https://github.com/uiwjs/react-login-page) - Some `react` login pages, which can be used quickly after installation.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-- [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal is a simple, secure, and user-friendly interactive auditing system that supports multiple remote access protocols including RDP, SSH, VNC, Telnet, and HTTP
+- [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪。
 - [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🎨 This is the repo for vuepress-theme-reco 2.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - Generate interactive call graphs for various languages
