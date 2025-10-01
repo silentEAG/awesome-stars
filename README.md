@@ -84,6 +84,7 @@
 
 ## C 
 
+- [Maldev-Academy/MaldevAcademyLdr.2](https://github.com/Maldev-Academy/MaldevAcademyLdr.2) - RunPE implementation with multiple evasive techniques
 - [passthehashbrowns/VectoredExceptionHandling](https://github.com/passthehashbrowns/VectoredExceptionHandling) - 
 - [Team-Atlanta/aixcc-afc-atlantis](https://github.com/Team-Atlanta/aixcc-afc-atlantis) - 
 - [kleiton0x00/RtlHijack](https://github.com/kleiton0x00/RtlHijack) - Alternative Read and Write primitives using Rtl* functions the unintended way.
