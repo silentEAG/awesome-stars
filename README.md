@@ -972,7 +972,7 @@
 - [Sndav/SKit](https://github.com/Sndav/SKit) - 🚀 一个强大的开发者工具集，集成文本格式化、网络工具、截图等常用开发功能
 - [1Password/arboard](https://github.com/1Password/arboard) - A clipboard for Rust
 - [jedisct1/yes-rs](https://github.com/jedisct1/yes-rs) - 🚀 A blazingly fast, memory-safe rewrite of the classic Unix 'yes' command. Written in Rust! 🦀
-- [0xTriboulet/scepter-rs](https://github.com/0xTriboulet/scepter-rs) - 
+- [0xTriboulet/scepter-rs](https://github.com/0xTriboulet/scepter-rs) - A hacky way of getting cross-arch/platform support in Cobalt Strike
 - [edransy/pipex](https://github.com/edransy/pipex) - 
 - [WildPixelGames/gdt-cpus](https://github.com/WildPixelGames/gdt-cpus) - Game Developer's Toolkit for CPU Management
 - [folo-rs/folo](https://github.com/folo-rs/folo) - Mechanisms for high-performance hardware-aware programming in Rust
