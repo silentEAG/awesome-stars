@@ -260,7 +260,7 @@
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [es3n1n/obfuscator](https://github.com/es3n1n/obfuscator) - PE bin2bin obfuscator
 - [h311d1n3r/Cerberus](https://github.com/h311d1n3r/Cerberus) - A C++ tool to unstrip Rust/Go binaries (ELF and PE)
-- [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll) - :electron: O-MVLL is a code obfuscator based on LLVM for native code (Android & iOS)
+- [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll) - :electron: O-MVLL is a code obfuscation tool based on LLVM for native code (Android and iOS).
 - [jackullrich/ShellcodeStdio](https://github.com/jackullrich/ShellcodeStdio) - An extensible framework for easily writing compiler optimized position independent x86 / x64 shellcode for windows platforms.
 - [DreamSoule/ollvm17](https://github.com/DreamSoule/ollvm17) - Obfuscation LLVM 17
 - [SecurityAnalysts01/ShellcodeLoader](https://github.com/SecurityAnalysts01/ShellcodeLoader) - Windows通用免杀shellcode生成器，能够绕过Microsoft Defender、360、火绒、Panda等杀软的查杀。
@@ -782,6 +782,7 @@
 
 ## Python 
 
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of open source.
 - [tszdanger/CTFKnow](https://github.com/tszdanger/CTFKnow) - Repo for paper *Measuring and Augmenting Large Language Models for Solving Capture-the-Flag Challenges*
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
@@ -1441,6 +1442,7 @@
 
 ## TypeScript 
 
+- [leochiu-a/slidev-workspace](https://github.com/leochiu-a/slidev-workspace) - 
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - Home security / protection system 🦾
