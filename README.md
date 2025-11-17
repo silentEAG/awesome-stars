@@ -801,6 +801,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [BradMoonUESTC/finite-monkey-engine](https://github.com/BradMoonUESTC/finite-monkey-engine) - AI engine for smart contract audit
 - [binsync/binsync](https://github.com/binsync/binsync) - A reversing plugin for cross-decompiler collaboration, built on git.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [XiaomingX/1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么；Chinese Independent Developers Projects List - Discover What Everyone Is Building 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers identifying devices with default password 🛡️
@@ -1464,7 +1465,6 @@
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [paradigmxyz/rivet](https://github.com/paradigmxyz/rivet) - Developer Wallet & DevTools for Anvil
 - [piotrostr/listen](https://github.com/piotrostr/listen) - DeFAI Swiss Army Knife
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
