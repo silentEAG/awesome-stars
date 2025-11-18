@@ -939,6 +939,7 @@
 
 ## Rust 
 
+- [boinkor-net/governor](https://github.com/boinkor-net/governor) - A rate-limiting library for Rust (f.k.a. ratelimit_meter)
 - [zeenix/rust-analyzer-mcp](https://github.com/zeenix/rust-analyzer-mcp) - A Model Context Protocol (MCP) server that provides integration with rust-analyzer
 - [ri-char/eStrace](https://github.com/ri-char/eStrace) - A tool that traces system calls using eBPF
 - [devdeliw/coral](https://github.com/devdeliw/coral) - A pure-rust BLAS implementation for aarch64.
