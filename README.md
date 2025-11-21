@@ -334,7 +334,7 @@
 
 ## Go 
 
-- [yosebyte/nodepass](https://github.com/yosebyte/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections.
+- [yosebyte/nodepass](https://github.com/yosebyte/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC connections.
 - [EndlessCheng/mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
 - [ABCDELabs/Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 - [casvisor/casvisor](https://github.com/casvisor/casvisor) - An open-source cloud operating system and blockchain management platform, online demo: https://door.casvisor.com
@@ -464,7 +464,7 @@
 
 - [za233/cvm](https://github.com/za233/cvm) - source code of the DubheCTF2023 challenge cvm?
 - [Arlenhiack/ActiveMQ-RCE-Exploit](https://github.com/Arlenhiack/ActiveMQ-RCE-Exploit) - ActiveMQ RCE (CVE-2023-46604) 回显利用工具
-- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-22 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [keven1z/simpleIAST](https://github.com/keven1z/simpleIAST) - simpleIAST- 基于污点追踪的灰盒漏洞扫描工具。
 - [Ape1ron/SpringAopInDeserializationDemo1](https://github.com/Ape1ron/SpringAopInDeserializationDemo1) - 在spring-aop中新发现的反序列化gadget-chain
 - [TheKingOfDuck/SinkFinder](https://github.com/TheKingOfDuck/SinkFinder) - 闭源系统半自动漏洞挖掘工具，针对 jar/war/zip 进行静态代码分析，输出从source到sink的可达路径。LLM将验证路径可达性，并根据上下文给出该路径可信分数
@@ -938,6 +938,8 @@
 
 ## Rust 
 
+- [asomers/mockall](https://github.com/asomers/mockall) - A powerful mock object library for Rust
+- [rust-phf/rust-phf](https://github.com/rust-phf/rust-phf) - Compile time static maps for Rust
 - [boinkor-net/governor](https://github.com/boinkor-net/governor) - A rate-limiting library for Rust (f.k.a. ratelimit_meter)
 - [zeenix/rust-analyzer-mcp](https://github.com/zeenix/rust-analyzer-mcp) - A Model Context Protocol (MCP) server that provides integration with rust-analyzer
 - [ri-char/eStrace](https://github.com/ri-char/eStrace) - A tool that traces system calls using eBPF
