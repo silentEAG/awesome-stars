@@ -457,7 +457,7 @@
 
 ## Handlebars 
 
-- [sunface/beat-ai](https://github.com/sunface/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
+- [genesismission/beat-ai](https://github.com/genesismission/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
 - [chuxiuhong/chuxiuhong-rust-patterns-zh](https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh) - Rust设计模式中文翻译
 
 ## Java 
@@ -781,6 +781,8 @@
 
 ## Python 
 
+- [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent.
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of the best of (consumer facing) open source.
@@ -954,7 +956,7 @@
 - [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [libbpf/blazesym](https://github.com/libbpf/blazesym) - blazesym is a library for address symbolization and related tasks
-- [nubskr/walrus](https://github.com/nubskr/walrus) - A high performance Log Storage Engine
+- [nubskr/walrus](https://github.com/nubskr/walrus) - 🦭 High Performance distributed message streaming engine
 - [SeaQL/seaography](https://github.com/SeaQL/seaography) - 🧭 A GraphQL framework for Rust
 - [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust performance debug toolkit. Live profiling for allocations, timings, threads, and channel/stream data flows.
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
