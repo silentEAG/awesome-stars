@@ -306,7 +306,7 @@
 
 ## Clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 
 ## Dart 
 
@@ -318,7 +318,7 @@
 
 ## Dockerfile 
 
-- [vulhub/java-chains](https://github.com/vulhub/java-chains) - Vulhub Vulnerability Reproduction Designated Platform
+- [vulhub/java-chains](https://github.com/vulhub/java-chains) - Java Vulnerability Exploitation Platform
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
 - [Threekiii/Awesome-POC](https://github.com/Threekiii/Awesome-POC) - 一个漏洞 PoC 知识库。A knowledge base for vulnerability PoCs(Proof of Concept),  with 1k+ vulnerabilities.
