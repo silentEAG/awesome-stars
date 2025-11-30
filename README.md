@@ -118,7 +118,7 @@
 - [trustedsec/CS-Situational-Awareness-BOF](https://github.com/trustedsec/CS-Situational-Awareness-BOF) - Situational Awareness commands implemented using Beacon Object Files
 - [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
-- [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV / EDR / XDR Evasion
+- [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV/EDR Evasion
 - [trustedsec/CS-Remote-OPs-BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF) - 
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - A modern 32/64-bit position independent implant template
