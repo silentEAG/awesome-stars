@@ -457,7 +457,7 @@
 
 ## Handlebars 
 
-- [genesismission/beat-ai](https://github.com/genesismission/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
+- [OpenGenesisLab/beat-ai](https://github.com/OpenGenesisLab/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
 - [chuxiuhong/chuxiuhong-rust-patterns-zh](https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh) - Rust设计模式中文翻译
 
 ## Java 
@@ -1372,6 +1372,7 @@
 - [larksuite/rsmpeg](https://github.com/larksuite/rsmpeg) - A Rust crate that exposes FFmpeg's power as much as possible.
 - [mcronce/oci-registry](https://github.com/mcronce/oci-registry) - 
 - [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem. For binary download see prototyper folder.
 - [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Future-based Tungstenite for Tokio. Lightweight stream-based WebSocket implementation
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
@@ -1527,7 +1528,6 @@
 - [sismo-core/sismo-badges](https://github.com/sismo-core/sismo-badges) - Contracts of the Sismo Badge Minting Protocol
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
