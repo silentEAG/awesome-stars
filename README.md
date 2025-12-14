@@ -924,7 +924,7 @@
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [MrWQ/vulnerability-paper](https://github.com/MrWQ/vulnerability-paper) - 收集的文章 https://mrwq.github.io/tools/paper/
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
-- [TheKingOfDuck/fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) - You Know, For WEB Fuzzing ! 日站用的字典。
+- [TheKingOfDuck/fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) - You Know, For WEB Fuzzing !
 - [MuelNova/SimExp_Cracker](https://github.com/MuelNova/SimExp_Cracker) - Python Script for 科大奥锐 , which could upload / decrypt SimExp Content with only few lines.
 - [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 - [MuelNova/nonebot_plugin_deepl_translator](https://github.com/MuelNova/nonebot_plugin_deepl_translator) - A nonebot plugin to translate chats
