@@ -1874,7 +1874,6 @@
 - [0x3rhy/BypassCredGuard-BOF](https://github.com/0x3rhy/BypassCredGuard-BOF) - BypassCredGuard CS BOF
 - [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 - [bats3c/DarkLoadLibrary](https://github.com/bats3c/DarkLoadLibrary) - LoadLibrary for offensive operations
-- [X1r0z/oss-security-bot](https://github.com/X1r0z/oss-security-bot) - oss-security mailing list Webhook Bot, using LLM for summarization, written in Rust 🦀
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - [LouisTsai-Csie/awesome-smart-contract-analysis-tools](https://github.com/LouisTsai-Csie/awesome-smart-contract-analysis-tools) - A curated list of awesome smart contract analysis tools
 - [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
