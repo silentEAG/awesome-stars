@@ -199,6 +199,7 @@
 
 ## C++ 
 
+- [CheckPointSW/VectoredOverloading](https://github.com/CheckPointSW/VectoredOverloading) - 
 - [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - The AI-Native Search Database. Unifies vector, text, structured and semi-structured data in a single engine, enabling hybrid search and in-database AI workflows.
 - [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze) - EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
 - [tlsbollei/KittyLoader](https://github.com/tlsbollei/KittyLoader) - KittyLoader is a highly evasive loader written in C / Assembly
@@ -534,6 +535,8 @@
 
 ## JavaScript 
 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 20 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit
 - [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordi
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [cuckoosandbox/cuckoo](https://github.com/cuckoosandbox/cuckoo) - Cuckoo Sandbox is an automated dynamic malware analysis system
@@ -783,6 +786,7 @@
 
 ## Python 
 
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Works Like Human Memory
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 6 lines of code
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [yhy0/CHYing-agent](https://github.com/yhy0/CHYing-agent) - 腾讯云黑客松 - 智能渗透挑战赛 Top9
@@ -1462,6 +1466,8 @@
 
 ## TypeScript 
 
+- [dcrebbin/cursor-unchained](https://github.com/dcrebbin/cursor-unchained) - Cursor's Tab complete for all: Reverse engineering Cursors AI Tab completion to allow for it to be used in other IDEs
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
