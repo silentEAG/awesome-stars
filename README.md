@@ -339,7 +339,7 @@
 
 - [tesserato/CodeWeaver](https://github.com/tesserato/CodeWeaver) - Weave your codebase into a single, navigable Markdown document
 - [m-sec-org/ez-xbow-platform-mcp](https://github.com/m-sec-org/ez-xbow-platform-mcp) - 一个用于 AI 驱动的渗透测试竞赛的**模型上下文协议 (MCP)** 服务器。该工 具提供了一个完整的 API 接口，使 LLM 能够自主参与 CTF 挑战。
-- [yosebyte/nodepass](https://github.com/yosebyte/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC connections.
+- [yosebyte/nodepass](https://github.com/yosebyte/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC/WebSocket or HTTP/2 connections.
 - [EndlessCheng/mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
 - [ABCDELabs/Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 - [casvisor/casvisor](https://github.com/casvisor/casvisor) - An open-source cloud operating system and blockchain management platform, online demo: https://door.casvisor.com
