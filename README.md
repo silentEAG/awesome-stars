@@ -1100,7 +1100,7 @@
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [LiteSVM/litesvm](https://github.com/LiteSVM/litesvm) - 
 - [taiki-e/pin-project](https://github.com/taiki-e/pin-project) - A crate for safe and ergonomic pin-projection.
-- [joaoviictorti/shadow-rs](https://github.com/joaoviictorti/shadow-rs) - Windows Kernel Rootkit in Rust
+- [joaoviictorti/shadow](https://github.com/joaoviictorti/shadow) - Windows Kernel Rootkit in Rust
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [SoftbearStudios/bitcode](https://github.com/SoftbearStudios/bitcode) - A binary encoder/decoder for Rust
 - [spacewalkhq/raft-rs](https://github.com/spacewalkhq/raft-rs) - An understandable, fast and scalable Raft Consensus implementation
