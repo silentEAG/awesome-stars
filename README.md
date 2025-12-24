@@ -205,7 +205,7 @@
 - [tlsbollei/KittyLoader](https://github.com/tlsbollei/KittyLoader) - KittyLoader is a highly evasive loader written in C / Assembly
 - [TwoSevenOneT/CreateProcessAsPPL](https://github.com/TwoSevenOneT/CreateProcessAsPPL) - This is the loader that supports running a program with Protected Process Light (PPL) protection functionality.
 - [NeoMaster831/kurasagi](https://github.com/NeoMaster831/kurasagi) - Windows 11 24H2-25H2 Runtime PatchGuard Bypass
-- [jd-opensource/arkdecompiler](https://github.com/jd-opensource/arkdecompiler) - 
+- [jd-opensource/arkdecompiler](https://github.com/jd-opensource/arkdecompiler) - We developed the HarmonyOS NEXT decompilation tool named arkdecompiler, which takes Panda Binary File as input, parses Panda Bytecode, and then translates it into Panda IR. After having IR, we can do 
 - [itm4n/PPLmedic](https://github.com/itm4n/PPLmedic) - Dump the memory of any PPL with a Userland exploit chain
 - [rwfpl/rewolf-wow64ext](https://github.com/rwfpl/rewolf-wow64ext) - Helper library for x86 programs that runs under WOW64 layer on x64 versions of Microsoft Windows operating systems.
 - [Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - EDR Lab for Experimentation Purposes
@@ -968,7 +968,7 @@
 - [libbpf/blazesym](https://github.com/libbpf/blazesym) - blazesym is a library for address symbolization and related tasks
 - [nubskr/walrus](https://github.com/nubskr/walrus) - 🦭 High Performance kafka alternative written in rust
 - [SeaQL/seaography](https://github.com/SeaQL/seaography) - 🧭 A GraphQL framework for Rust
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Simple Rust profiler with memory and async data-flow insights - quickly find and debug performance bottlenecks.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Simple async Rust profiler with memory and data-flow insights - quickly find and debug performance bottlenecks.
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [trailofbits/dylint](https://github.com/trailofbits/dylint) - Run Rust lints from dynamic libraries
 - [crytic/solana-lints](https://github.com/crytic/solana-lints) - Lints based on the Sealevel Attacks
