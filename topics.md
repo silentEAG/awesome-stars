@@ -1169,7 +1169,6 @@
 
 ## hacktoberfest 
 
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [SeaQL/seaography](https://github.com/SeaQL/seaography) - 🧭 A GraphQL framework for Rust
 - [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) - Hiding kernel-driver for x86/x64.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -2048,7 +2047,7 @@
 - [CCob/BOF.NET](https://github.com/CCob/BOF.NET) - A .NET Runtime for Cobalt Strike's Beacon Object Files
 - [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
 - [synacktiv/DLHell](https://github.com/synacktiv/DLHell) - Local & remote Windows DLL Proxying
-- [0x727/BypassPro](https://github.com/0x727/BypassPro) - 对权限绕过自动化bypass的burpsuite插件
+- [0x727/BypassPro](https://github.com/0x727/BypassPro) - 对Auth/Waf 自动化bypass的burpsuite插件
 - [KingBridgeSS/filegirl](https://github.com/KingBridgeSS/filegirl) - 基于notify-rs实现的文件监控系统，支持自动备份、自动回滚、修改的文件自动记录。
 - [kost/revsocks](https://github.com/kost/revsocks) - Reverse SOCKS5 implementation in Go
 - [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
