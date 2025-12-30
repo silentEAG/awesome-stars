@@ -812,6 +812,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [BradMoonUESTC/finite-monkey-engine](https://github.com/BradMoonUESTC/finite-monkey-engine) - AI engine for smart contract audit
 - [binsync/binsync](https://github.com/binsync/binsync) - A reversing plugin for cross-decompiler collaboration, built on git.
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [XiaomingX/1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么；Chinese Independent Developers Projects List - Discover What Everyone Is Building 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
@@ -1487,7 +1488,6 @@
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [paradigmxyz/rivet](https://github.com/paradigmxyz/rivet) - Developer Wallet & DevTools for Anvil
 - [piotrostr/listen](https://github.com/piotrostr/listen) - DeFAI Swiss Army Knife
