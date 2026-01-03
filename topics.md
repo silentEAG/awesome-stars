@@ -230,6 +230,7 @@
 - [ui](#ui)
 - [ui-design](#ui-design)
 - [unity](#unity)
+- [userscript](#userscript)
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [visualization](#visualization)
@@ -387,6 +388,7 @@
 
 ## automation 
 
+- [zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli) - Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows whil
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [lintstar/CS-AutoPostChain](https://github.com/lintstar/CS-AutoPostChain) - 基于 OPSEC 的 CobaltStrike 后渗透自动化链
@@ -732,7 +734,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [YJLAugus/cnblogs-theme-simple-color](https://github.com/YJLAugus/cnblogs-theme-simple-color) - 一个简约极致色彩的博客园主题
 
@@ -1032,6 +1034,7 @@
 
 ## generative-ai 
 
+- [zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli) - Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows whil
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
@@ -1795,7 +1798,7 @@
 - [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
 - [libbpf/blazesym](https://github.com/libbpf/blazesym) - blazesym is a library for address symbolization and related tasks
 - [crytic/solana-lints](https://github.com/crytic/solana-lints) - Lints based on the Sealevel Attacks
-- [Maldev-Academy/MaldevAcademyLdr.2](https://github.com/Maldev-Academy/MaldevAcademyLdr.2) - RunPE implementation with multiple evasive techniques
+- [Maldev-Academy/MaldevAcademyLdr.2](https://github.com/Maldev-Academy/MaldevAcademyLdr.2) - RunPE implementation with multiple evasive techniques (2)
 - [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze) - EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
 - [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordi
 - [binarly-io/idalib](https://github.com/binarly-io/idalib) - Idiomatic Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.x’s idalib
@@ -1815,7 +1818,6 @@
 - [itm4n/PPLmedic](https://github.com/itm4n/PPLmedic) - Dump the memory of any PPL with a Userland exploit chain
 - [itm4n/PPLrevenant](https://github.com/itm4n/PPLrevenant) - Bypass LSA protection using the BYODLL technique
 - [Tylous/FaceDancer](https://github.com/Tylous/FaceDancer) - FaceDancer is an exploitation tool aimed at creating hijackable, proxy-based DLLs by taking advantage of COM-based system DLL image loading
-- [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [rwfpl/rewolf-wow64ext](https://github.com/rwfpl/rewolf-wow64ext) - Helper library for x86 programs that runs under WOW64 layer on x64 versions of Microsoft Windows operating systems.
 - [0xflux/Hells-Hollow](https://github.com/0xflux/Hells-Hollow) - Hells Hollow Windows 11 Rootkit technique to Hook the SSDT via Alt Syscalls
 - [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) - Elastic Security detection content for Endpoint
@@ -2672,7 +2674,7 @@
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [WirefishInc/wirefish](https://github.com/WirefishInc/wirefish) - A blazingly fast multiplatform packet sniffer built with Tauri!
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [chezhe/aleph-desktop](https://github.com/chezhe/aleph-desktop) - Aleph is a cross-platform RSS Reader & Podcast client, built with Tauri
 
@@ -3226,7 +3228,7 @@
 - [alysonhower/tauri2-svelte5-boilerplate](https://github.com/alysonhower/tauri2-svelte5-boilerplate) - A clean desktop application template that combines Tauri 2 with Svelte 5 + DaisyUI, including automated CI/CD pipelines for Windows, Linux, and Mac builds.
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## swift 
@@ -3387,6 +3389,10 @@
 ## unity 
 
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
+
+## userscript 
+
+- [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
 ## vagrant 
 
