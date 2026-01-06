@@ -1873,7 +1873,7 @@
 - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api)
 - [madsim-rs/madsim](https://github.com/madsim-rs/madsim) - Magical Deterministic Simulator for distributed systems in Rust.
 - [rapid7/ReflectiveDLLInjection](https://github.com/rapid7/ReflectiveDLLInjection) - Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process.
-- [anza-xyz/pinocchio](https://github.com/anza-xyz/pinocchio) - Create Solana programs with no dependencies attached
+- [anza-xyz/pinocchio](https://github.com/anza-xyz/pinocchio) - Create Solana programs with no external dependencies attached
 - [bsauce/kernel-security-learning](https://github.com/bsauce/kernel-security-learning) - Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug.
 - [deepinstinct/Lsass-Shtinkering](https://github.com/deepinstinct/Lsass-Shtinkering) - 
 - [EddieIvan01/win32api-practice](https://github.com/EddieIvan01/win32api-practice) - Offensive tools written for practice purposes
@@ -2185,7 +2185,7 @@
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
 - [RoderickChan/docker_pwn_env](https://github.com/RoderickChan/docker_pwn_env) - Debug pwn using docker image
-- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索，支持 MCP 调用，文档：https://docs.qq.com/doc/DV3pKbG9GS0pJS0tk
+- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索，紧跟 AI 技术发展，支持 MCP 调用，支持 n8n 工作流，文档：https://docs.qq.com/doc/DV3pKbG9GS0pJ
 - [Flangvik/SharpCollection](https://github.com/Flangvik/SharpCollection) - Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.
 - [jackullrich/ShellcodeStdio](https://github.com/jackullrich/ShellcodeStdio) - An extensible framework for easily writing compiler optimized position independent x86 / x64 shellcode for windows platforms.
 - [trustedsec/COFFLoader](https://github.com/trustedsec/COFFLoader) - 
