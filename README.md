@@ -793,7 +793,7 @@
 - [zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli) - Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows whil
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Works Like Human Memory
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 6 lines of code
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev: Dev All through LLM-powered Multi-Agent Collaboration
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - [yhy0/CHYing-agent](https://github.com/yhy0/CHYing-agent) - 腾讯云黑客松 - 智能渗透挑战赛 Top9
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent.
@@ -967,6 +967,7 @@
 - [ri-char/eStrace](https://github.com/ri-char/eStrace) - A tool that traces system calls using eBPF
 - [devdeliw/coral](https://github.com/devdeliw/coral) - pure-rust BLAS implementation
 - [safedv/RustPotato](https://github.com/safedv/RustPotato) - A Rust implementation of GodPotato — abusing SeImpersonate to gain SYSTEM privileges. Includes a TCP-based reverse shell and indirect NTAPI for various operations.
+- [symposium-dev/symposium](https://github.com/symposium-dev/symposium) - AI the Rust Way
 - [Ackee-Blockchain/solana-vscode](https://github.com/Ackee-Blockchain/solana-vscode) - VS Code extension for Solana
 - [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
@@ -1425,6 +1426,7 @@
 
 ## Shell 
 
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [9bie/sshdHooker](https://github.com/9bie/sshdHooker) - One-click injection into the SSHD process to record and send the password for ssh login
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges 
@@ -1480,7 +1482,6 @@
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 - [leochiu-a/slidev-workspace](https://github.com/leochiu-a/slidev-workspace) - Slidev Workspace is a specialized command-line tool designed to manage and showcase multiple Slidev presentations.
-- [symposium-dev/symposium](https://github.com/symposium-dev/symposium) - AI the Rust Way
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - Home security / protection system 🦾
