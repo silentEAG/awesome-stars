@@ -1308,7 +1308,7 @@
 
 ## java 
 
-- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-24 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-25 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [keven1z/simpleIAST](https://github.com/keven1z/simpleIAST) - simpleIAST- 基于污点追踪的灰盒漏洞扫描工具。
 - [vulhub/java-chains](https://github.com/vulhub/java-chains) - Java Vulnerability Exploitation Platform
 - [H4cking2theGate/ysogate](https://github.com/H4cking2theGate/ysogate) - Java反序列化/JNDI注入/恶意类生成工具，支持多种高版本bypass，支持回显/内存马等多种扩展利用。
@@ -2128,7 +2128,7 @@
 - [W01fh4cker/MemshellKit](https://github.com/W01fh4cker/MemshellKit) - 针对多个框架的高度自定义的内存马一键打入工具 | A highly customized memory shell one-click injection tool for multiple frameworks
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls](https://github.com/VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls) - The following two code samples can be used to understand the difference between direct syscalls and indirect syscalls
-- [bata24/gef](https://github.com/bata24/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
+- [bata24/gef](https://github.com/bata24/gef) - GEF - GDB Enhanced Features - bata24's fork
 - [NYAN-x-CAT/AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) - Open-Source Remote Administration Tool For Windows C# (RAT)
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [ifyour/cf-image-hosting](https://github.com/ifyour/cf-image-hosting) - 🥊  Free & Unlimited Image Hosting
