@@ -1796,6 +1796,7 @@
 
 ## others 
 
+- [WinMin/evil-opencode](https://github.com/WinMin/evil-opencode) - The open source coding agent. (Unleashed 、Removing LLM safety guardrails）
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec) - A headless, extendable, multi-session, IDA Pro MCP framework.
 - [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
