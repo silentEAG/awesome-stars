@@ -437,6 +437,7 @@
 
 ## HTML 
 
+- [ghuntley/how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) - The Ralph Wiggum Technique—the AI development methodology that reduces software costs to less than a fast food worker's wage.
 - [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, 
 - [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
@@ -638,6 +639,7 @@
 
 ## Others 
 
+- [pontifex73/audit-assistant-playbook](https://github.com/pontifex73/audit-assistant-playbook) - A cognitive playbook for experienced smart contract auditors. Structures audit thinking, exploration, validation, and reporting. Not an auto-auditor.
 - [onhexgroup/Conferences](https://github.com/onhexgroup/Conferences) - Conference presentation slides
 - [UCYBERS/Awesome-Blackhat-Tools](https://github.com/UCYBERS/Awesome-Blackhat-Tools) - A curated list of tools officially presented at Black Hat events
 - [Esonhugh/My-Cloud-Security](https://github.com/Esonhugh/My-Cloud-Security) - [ALL IN ONE] Everything that I shared to public about Cloud Security is here.
