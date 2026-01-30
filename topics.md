@@ -279,6 +279,7 @@
 
 ## ai 
 
+- [tobilg/ai-observer](https://github.com/tobilg/ai-observer) - Unified local observability for AI coding assistants
 - [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) - Python SDK for ACP clients and agents.
 - [ghuntley/how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) - The Ralph Wiggum Technique—the AI development methodology that reduces software costs to less than a fast food worker's wage.
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
@@ -1818,6 +1819,7 @@
 
 ## others 
 
+- [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust
 - [H4cking2theGate/AuditSkills](https://github.com/H4cking2theGate/AuditSkills) - 
 - [agentclientprotocol/symposium-acp](https://github.com/agentclientprotocol/symposium-acp) - The Symposium implementation the Agent Client Protocol specification
 - [rustanlys/rupta](https://github.com/rustanlys/rupta) - A Pointer Analysis Framework for Rust
@@ -1838,7 +1840,7 @@
 - [dcrebbin/cursor-unchained](https://github.com/dcrebbin/cursor-unchained) - Cursor's Tab complete for all: Reverse engineering Cursors AI Tab completion to allow for it to be used in other IDEs
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That  Learns
 - [CheckPointSW/VectoredOverloading](https://github.com/CheckPointSW/VectoredOverloading) - 
-- [Artisan-Lab/RAPx](https://github.com/Artisan-Lab/RAPx) - Rust Analysis Platform
+- [safer-rust/RAPx](https://github.com/safer-rust/RAPx) - Rust Analysis Platform
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - [yhy0/CHYing-agent](https://github.com/yhy0/CHYing-agent) - 腾讯云黑客松 - 智能渗透挑战赛 Top9
 - [m-sec-org/ez-xbow-platform-mcp](https://github.com/m-sec-org/ez-xbow-platform-mcp) - 一个用于 AI 驱动的渗透测试竞赛的**模型上下文协议 (MCP)** 服务器。该工 具提供了一个完整的 API 接口，使 LLM 能够自主参与 CTF 挑战。
@@ -2539,7 +2541,6 @@
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [UCYBERS/Awesome-Blackhat-Tools](https://github.com/UCYBERS/Awesome-Blackhat-Tools) - A curated list of tools officially presented at Black Hat events
-- [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers identifying devices with default password 🛡️
 - [trickest/wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
@@ -2834,7 +2835,6 @@
 - [jedisct1/yes-rs](https://github.com/jedisct1/yes-rs) - 🚀 A blazingly fast, memory-safe rewrite of the classic Unix 'yes' command. Written in Rust! 🦀
 - [WildPixelGames/gdt-cpus](https://github.com/WildPixelGames/gdt-cpus) - Game Developer's Toolkit for CPU Management
 - [folo-rs/folo](https://github.com/folo-rs/folo) - Mechanisms for high-performance hardware-aware programming in Rust
-- [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
 - [zyantific/zydis-rs](https://github.com/zyantific/zydis-rs) - Zydis Rust Bindings
 - [0xflux/Sanctum](https://github.com/0xflux/Sanctum) - Sanctum is an experimental proof-of-concept EDR, designed to detect modern malware techniques, above and beyond the capabilities of antivirus.  Built in Rust.
 - [Ackee-Blockchain/trident](https://github.com/Ackee-Blockchain/trident) - Rust-based framework to Fuzz Solana programs, designed to help you ship secure code.
@@ -3571,7 +3571,6 @@
 - [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) - Hiding kernel-driver for x86/x64.
 - [Mattiwatti/EfiGuard](https://github.com/Mattiwatti/EfiGuard) - Disable PatchGuard and Driver Signature Enforcement at boot time
 - [SaadAhla/dark-kill](https://github.com/SaadAhla/dark-kill) - A user-mode code and its rootkit that will Kill EDR Processes permanently by leveraging the power of Process Creation Blocking Kernel Callback Routine registering and ZwTerminateProcess.
-- [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
 - [aaaddress1/Windows-APT-Warfare](https://github.com/aaaddress1/Windows-APT-Warfare) - 著作《Windows APT Warfare：惡意程式前線戰術指南》各章節技術實作之原始碼內容
 - [ColinFinck/ntfs](https://github.com/ColinFinck/ntfs) - An implementation of the NTFS filesystem in a Rust crate, usable from firmware level up to user-mode.
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
