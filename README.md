@@ -975,6 +975,7 @@
 
 ## Rust 
 
+- [wangxj03/code-splitter](https://github.com/wangxj03/code-splitter) - Split code into semantic chunks
 - [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust
 - [agentclientprotocol/symposium-acp](https://github.com/agentclientprotocol/symposium-acp) - The Symposium implementation the Agent Client Protocol specification
 - [rustanlys/rupta](https://github.com/rustanlys/rupta) - A Pointer Analysis Framework for Rust
