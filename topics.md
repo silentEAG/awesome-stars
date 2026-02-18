@@ -1819,6 +1819,7 @@
 
 ## others 
 
+- [dbgbgtf1/Ceccomp](https://github.com/dbgbgtf1/Ceccomp) - A tool to resolve seccomp just like seccomp-tools, written in C
 - [wangxj03/code-splitter](https://github.com/wangxj03/code-splitter) - Split code into semantic chunks
 - [passer-W/ctfSolver](https://github.com/passer-W/ctfSolver) - 腾讯ai渗透黑客松参赛作品（xjtuHunter）
 - [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust
