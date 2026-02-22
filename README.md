@@ -1145,7 +1145,7 @@
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [BlWasp/rs-shell](https://github.com/BlWasp/rs-shell) - A dirty PoC for a reverse shell with cool features in Rust
 - [BurtonQin/lockbud](https://github.com/BurtonQin/lockbud) - Detect concurrency and memory bugs and possible panic locations in Rust projects
-- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A MITM Proxy 🧑‍💻! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities. Learning Project.
+- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is    doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI.
 - [J-Schoepplenberg/zero-packet](https://github.com/J-Schoepplenberg/zero-packet) - A zero-copy Rust library that builds and parses network packets in-place.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
