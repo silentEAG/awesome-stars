@@ -443,7 +443,7 @@
 
 - [ghuntley/how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) - The Ralph Wiggum Technique—the AI development methodology that reduces software costs to less than a fast food worker's wage.
 - [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 75+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
 - [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
@@ -1418,7 +1418,7 @@
 - [mkawalec/deluge](https://github.com/mkawalec/deluge) - Deluge, not a stream
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
-- [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
+- [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework.
 - [eminence/procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem
 - [b23r0/Heroinn](https://github.com/b23r0/Heroinn) - A cross platform C2/post-exploitation framework.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
