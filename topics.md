@@ -82,6 +82,7 @@
 - [emoji](#emoji)
 - [english](#english)
 - [ethereum](#ethereum)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -984,6 +985,11 @@
 - [crytic/not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts) - Examples of Solidity security issues
 - [WTFAcademy/WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
 - [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
+
+## fastapi 
+
+- [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
+- [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 
 ## finance 
 
