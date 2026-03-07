@@ -1363,7 +1363,7 @@
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
 - [CasualX/obfstr](https://github.com/CasualX/obfstr) - Compiletime string literal obfuscation.
 - [deepseeksss/tokio_kcp](https://github.com/deepseeksss/tokio_kcp) - A Kcp implementation for tokio
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
 - [rustsbi/rustsbi-tutorial](https://github.com/rustsbi/rustsbi-tutorial) - rustsbi 开发教程
 - [ajmwagar/merino](https://github.com/ajmwagar/merino) - :sheep: A SOCKS5 Proxy server written in Rust
