@@ -1073,6 +1073,7 @@
 
 ## git 
 
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1771,6 +1772,7 @@
 
 ## obsidian 
 
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - Obsidian Plugin for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
@@ -1778,12 +1780,14 @@
 
 ## obsidian-md 
 
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - Obsidian Plugin for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 
 ## obsidian-plugin 
 
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - Obsidian Plugin for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
@@ -1844,6 +1848,7 @@
 
 ## others 
 
+- [vysecurity/RedTips](https://github.com/vysecurity/RedTips) - Red Team Tips as posted by @vysecurity on Twitter
 - [penso/arbor](https://github.com/penso/arbor) - Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs.
 - [fawney19/Aether](https://github.com/fawney19/Aether) - 
 - [JoasASantos/SysWhispers4](https://github.com/JoasASantos/SysWhispers4) - AV/EDR evasion via direct and indirect system calls Windows NT 3.1 through Windows 11 24H2 · x64 · x86 · WoW64 · ARM64
@@ -1965,7 +1970,7 @@
 - [YDHCUI/buut](https://github.com/YDHCUI/buut) - 一款使用rust开发的高性能正反向隧道代理工具，基于多路复用技术。
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [twitchax/ratrod](https://github.com/twitchax/ratrod) - A TCP / UDP tunneler that uses public / private key authentication with encryption.
-- [SpringKill-team/CodeAuditAssistant](https://github.com/SpringKill-team/CodeAuditAssistant) - 🔍 CodeAuditAssistant - IDEA代码审计插件（公测中） ⚡ 精准追踪复杂调用链 | 🚀 毫秒级方法搜索 | 🔥 内置高危漏洞检测 原生集成 | 反编译/路径分析 | 内存优化 | 安全审计利器                      🔍 CodeAuditAssistant - JetBrains Code Audit Plugin (Beta)   ⚡ Deep Call
+- [SpringKill-team/CodeAuditAssistant](https://github.com/SpringKill-team/CodeAuditAssistant) - 🔍 CodeAuditAssistant - IDEA代码审计插件  ⚡ 精准追踪复杂调用链 | 🚀 毫秒级方法搜索 | 🔥 内置高危漏洞检测 原生集成 | 反编译/路径分析 | 内存优化 | 安全审计利器                      🔍 CodeAuditAssistant - JetBrains Code Audit Plugin (Beta)   ⚡ Deep Call-Cha
 - [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
 - [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
 - [MythicAgents/Xenon](https://github.com/MythicAgents/Xenon) - A Mythic agent for Windows written in C
@@ -2835,6 +2840,7 @@
 
 ## rust 
 
+- [iss4cf0ng/IronPE](https://github.com/iss4cf0ng/IronPE) - IronPE is a Windows PE manual loader written in Rust for both x86 and x64 PE files.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [0xMacro/awesome-solana-security](https://github.com/0xMacro/awesome-solana-security) - A collection of resources to help you build better and more secure Solana programs. Kept up to date.
 - [AeneasVerif/charon](https://github.com/AeneasVerif/charon) - Analyze Rust crates without touching compiler internals
@@ -3619,6 +3625,7 @@
 
 ## windows 
 
+- [iss4cf0ng/IronPE](https://github.com/iss4cf0ng/IronPE) - IronPE is a Windows PE manual loader written in Rust for both x86 and x64 PE files.
 - [tlsbollei/KittyLoader](https://github.com/tlsbollei/KittyLoader) - KittyLoader is a highly evasive loader written in C / Assembly
 - [NeoMaster831/kurasagi](https://github.com/NeoMaster831/kurasagi) - Windows 11 24H2-25H2 Runtime PatchGuard Bypass
 - [microsoft/Windows-rust-driver-samples](https://github.com/microsoft/Windows-rust-driver-samples) - Rust port of the official Windows Driver Samples on Github. Leverages windows-drivers-rs
