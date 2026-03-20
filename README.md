@@ -476,7 +476,7 @@
 
 ## Handlebars 
 
-- [beatai-org/beatai](https://github.com/beatai-org/beatai) - 专属于软件开发工程师的 AI 宝典。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [beatai-org/BeatAI](https://github.com/beatai-org/BeatAI) - 专属于软件开发工程师的 AI 宝典。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 - [chuxiuhong/chuxiuhong-rust-patterns-zh](https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh) - Rust设计模式中文翻译
 
 ## Java 
@@ -661,7 +661,6 @@
 - [slowmist/MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ZJUBCA/roadmap](https://github.com/ZJUBCA/roadmap) - Roadmap of learning blockchain technology and business knowledge summarized by ZJUBCA（浙大区块链协会总结的区块链知识学习路线）
-- [Network-Sec/CVE-2025-21420-PoC](https://github.com/Network-Sec/CVE-2025-21420-PoC) - We found a way to DLL sideload with cleanmgr.exe
 - [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 - [LouisTsai-Csie/awesome-smart-contract-analysis-tools](https://github.com/LouisTsai-Csie/awesome-smart-contract-analysis-tools) - A curated list of awesome smart contract analysis tools
 - [LLMQuant/quant-wiki](https://github.com/LLMQuant/quant-wiki) - We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries. 我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息
