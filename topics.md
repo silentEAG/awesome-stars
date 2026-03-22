@@ -1866,6 +1866,7 @@
 
 ## others 
 
+- [PPKunOfficial/Hikari-LLVM19](https://github.com/PPKunOfficial/Hikari-LLVM19) - An LLVM Pass from Hikari-LLVM15
 - [tmylla/Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) - An overview of LLMs for cybersecurity.
 - [openclaw/acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions
 - [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills) - Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
@@ -1887,7 +1888,6 @@
 - [pontifex73/audit-assistant-playbook](https://github.com/pontifex73/audit-assistant-playbook) - A cognitive playbook for experienced smart contract auditors. Structures audit thinking, exploration, validation, and reporting. Not an auto-auditor.
 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
-- [GaoYuCan/tenrec-linkscout](https://github.com/GaoYuCan/tenrec-linkscout) - ELF dynamic library dependency analysis plugin for Tenrec (IDA Pro MCP).
 - [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [winmin/evil-opencode](https://github.com/winmin/evil-opencode) - The open source coding agent. (Unleashed 、Removing LLM safety guardrails）
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
