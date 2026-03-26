@@ -659,7 +659,6 @@
 - [Esonhugh/My-Cloud-Security](https://github.com/Esonhugh/My-Cloud-Security) - [ALL IN ONE] Everything that I shared to public about Cloud Security is here.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [slowmist/MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ZJUBCA/roadmap](https://github.com/ZJUBCA/roadmap) - Roadmap of learning blockchain technology and business knowledge summarized by ZJUBCA（浙大区块链协会总结的区块链知识学习路线）
 - [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 - [LouisTsai-Csie/awesome-smart-contract-analysis-tools](https://github.com/LouisTsai-Csie/awesome-smart-contract-analysis-tools) - A curated list of awesome smart contract analysis tools
