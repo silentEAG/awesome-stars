@@ -352,6 +352,7 @@
 
 ## Go 
 
+- [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meeti
 - [tobilg/ai-observer](https://github.com/tobilg/ai-observer) - Unified local observability for AI coding assistants
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
 - [tesserato/CodeWeaver](https://github.com/tesserato/CodeWeaver) - Weave your codebase into a single, navigable Markdown document
@@ -669,6 +670,7 @@
 - [Esonhugh/My-Cloud-Security](https://github.com/Esonhugh/My-Cloud-Security) - [ALL IN ONE] Everything that I shared to public about Cloud Security is here.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [slowmist/MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ZJUBCA/roadmap](https://github.com/ZJUBCA/roadmap) - Roadmap of learning blockchain technology and business knowledge summarized by ZJUBCA（浙大区块链协会总结的区块链知识学习路线）
 - [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 - [LouisTsai-Csie/awesome-smart-contract-analysis-tools](https://github.com/LouisTsai-Csie/awesome-smart-contract-analysis-tools) - A curated list of awesome smart contract analysis tools
@@ -998,6 +1000,7 @@
 
 ## Rust 
 
+- [model-checking/verify-rust-std](https://github.com/model-checking/verify-rust-std) - Verifying the Rust standard library
 - [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your code is correct in an automated fashion.
 - [mkovaxx/anodized](https://github.com/mkovaxx/anodized) - Harden your Rust with specifications.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
@@ -1016,7 +1019,7 @@
 - [arkworks-rs/groth16](https://github.com/arkworks-rs/groth16) - A Rust implementation of the Groth16 zkSNARK
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 91+ formats. Available for Rust, Python
 - [mattsse/chromiumoxide](https://github.com/mattsse/chromiumoxide) - Chrome Devtools Protocol rust API
-- [safer-rust/RAPx](https://github.com/safer-rust/RAPx) - This is a static analysis project for analyzing Rust programs.
+- [safer-rust/RAPx](https://github.com/safer-rust/RAPx) - A static analysis tool for Rust programs.
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
