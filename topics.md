@@ -305,6 +305,7 @@
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox) - A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabiliti
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -1691,6 +1692,7 @@
 - [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust Performance Profiler & Channels Monitoring Toolkit (TUI, MCP)
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 - [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox) - A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabiliti
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
@@ -1905,6 +1907,8 @@
 
 ## others 
 
+- [model-checking/verify-rust-std](https://github.com/model-checking/verify-rust-std) - Verifying the Rust standard library
+- [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meeti
 - [soteria-tools/soteria](https://github.com/soteria-tools/soteria) - Sound static analysis for the masses.
 - [mkovaxx/anodized](https://github.com/mkovaxx/anodized) - Harden your Rust with specifications.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
@@ -1943,7 +1947,7 @@
 - [dcrebbin/cursor-unchained](https://github.com/dcrebbin/cursor-unchained) - Cursor's Tab complete for all: Reverse engineering Cursors AI Tab completion to allow for it to be used in other IDEs
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That  Learns
 - [CheckPointSW/VectoredOverloading](https://github.com/CheckPointSW/VectoredOverloading) - 
-- [safer-rust/RAPx](https://github.com/safer-rust/RAPx) - This is a static analysis project for analyzing Rust programs.
+- [safer-rust/RAPx](https://github.com/safer-rust/RAPx) - A static analysis tool for Rust programs.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - [yhy0/CHYing-agent](https://github.com/yhy0/CHYing-agent) - 腾讯云黑客松 - 智能渗透挑战赛 Top9
 - [m-sec-org/ez-xbow-platform-mcp](https://github.com/m-sec-org/ez-xbow-platform-mcp) - 一个用于 AI 驱动的渗透测试竞赛的**模型上下文协议 (MCP)** 服务器。该工 具提供了一个完整的 API 接口，使 LLM 能够自主参与 CTF 挑战。
@@ -2151,7 +2155,6 @@
 - [EdgeSecurityTeam/command](https://github.com/EdgeSecurityTeam/command) - 红队命令速查 是由棱角社区(Edge Forum) 整理的关于 Red Team 期间所常使用的一些基础命令。
 - [fdu-sec/JDD](https://github.com/fdu-sec/JDD) - 
 - [J-Schoepplenberg/zero-packet](https://github.com/J-Schoepplenberg/zero-packet) - A zero-copy Rust library that builds and parses network packets in-place.
-- [KiExitDispatcher/EDR-XDR-AV-Killer](https://github.com/KiExitDispatcher/EDR-XDR-AV-Killer) - Reproducing Spyboy technique, which involves terminating all EDR/XDR/AVs processes by abusing the zam64.sys driver
 - [fiddyschmitt/File-Tunnel](https://github.com/fiddyschmitt/File-Tunnel) - Tunnel TCP connections through a file
 - [ekkoo-z/Z-Godzilla_ekp](https://github.com/ekkoo-z/Z-Godzilla_ekp) - 哥斯拉webshell管理工具二次开发规避流量检测设备
 - [login-securite/DonPAPI](https://github.com/login-securite/DonPAPI) - Dumping DPAPI credz remotely
