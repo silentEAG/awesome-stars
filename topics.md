@@ -1907,6 +1907,7 @@
 
 ## others 
 
+- [wh0amitz/TailVNC](https://github.com/wh0amitz/TailVNC) - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.
 - [model-checking/verify-rust-std](https://github.com/model-checking/verify-rust-std) - Verifying the Rust standard library
 - [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meeti
 - [soteria-tools/soteria](https://github.com/soteria-tools/soteria) - Sound static analysis for the masses.
