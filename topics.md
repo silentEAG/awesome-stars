@@ -1913,6 +1913,7 @@
 
 ## others 
 
+- [Noi1r/beamer-skill](https://github.com/Noi1r/beamer-skill) - A Claude Code skill for creating, compiling, reviewing, and polishing academic Beamer LaTeX presentations. Full lifecycle workflow with quality scoring, pedagogical review, TikZ audit, and more.
 - [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) - The Red Sun vulnerability repository
 - [agentclientprotocol/rust-sdk](https://github.com/agentclientprotocol/rust-sdk) - Rust SDK for ACP clients and agents.
 - [wh0amitz/TailVNC](https://github.com/wh0amitz/TailVNC) - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.
