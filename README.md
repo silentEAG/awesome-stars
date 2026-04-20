@@ -1538,6 +1538,7 @@
 
 ## TeX 
 
+- [Noi1r/beamer-skill](https://github.com/Noi1r/beamer-skill) - A Claude Code skill for creating, compiling, reviewing, and polishing academic Beamer LaTeX presentations. Full lifecycle workflow with quality scoring, pedagogical review, TikZ audit, and more.
 - [yuange1024/ethereum_yellowpaper](https://github.com/yuange1024/ethereum_yellowpaper) - 以太坊黄皮书中文版
 
 ## TypeScript 
