@@ -306,6 +306,7 @@
 
 ## CSS 
 
+- [yaklang/hack-skills](https://github.com/yaklang/hack-skills) - Helping AI Agent become an awesome practical hacker!
 - [Aabyss-Team/Antivirus-Scan](https://github.com/Aabyss-Team/Antivirus-Scan) - What AV? 一款轻量级的杀软在线识别的项目，持续更新ing
 - [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
 - [cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
@@ -659,7 +660,6 @@
 
 ## Others 
 
-- [yaklang/hack-skills](https://github.com/yaklang/hack-skills) - Helping AI Agent become an awesome practical hacker!
 - [SunWeb3Sec/llm-sast-scanner](https://github.com/SunWeb3Sec/llm-sast-scanner) - A SAST skill that gives AI coding agents structured vulnerability detection across 34 vulnerability classes.
 - [tmylla/Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) - An overview of LLMs for cybersecurity.
 - [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills) - Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
