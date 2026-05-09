@@ -515,7 +515,7 @@
 - [datouo/CTF-Java-Gadget](https://github.com/datouo/CTF-Java-Gadget) - CTF-Java-Gadget专注于收集CTF中Java赛题的反序列化片段
 - [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
 - [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
-- [gh0stkey/CaA](https://github.com/gh0stkey/CaA) - CaA - Collector and Analyzer, Insight into information, exploring with intelligence in a thousand ways.
+- [gh0stkey/CaA](https://github.com/gh0stkey/CaA) - CaA - Collector and Analyzer, Insight into information, exploring with intelligence in a thousand ways. 信息洞察，智探千方！
 - [javaweb-sec/javaweb-sec](https://github.com/javaweb-sec/javaweb-sec) - 
 - [0x727/BypassPro](https://github.com/0x727/BypassPro) - 对Auth/Waf 自动化bypass的burpsuite插件
 - [W01fh4cker/MemshellKit](https://github.com/W01fh4cker/MemshellKit) - 针对多个框架的高度自定义的内存马一键打入工具 | A highly customized memory shell one-click injection tool for multiple frameworks
