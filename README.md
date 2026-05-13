@@ -660,6 +660,7 @@
 
 ## Others 
 
+- [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey) - YellowKey Bitlocker Bypass Vulnerability
 - [SunWeb3Sec/llm-sast-scanner](https://github.com/SunWeb3Sec/llm-sast-scanner) - A SAST skill that gives AI coding agents structured vulnerability detection across 34 vulnerability classes.
 - [tmylla/Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) - An overview of LLMs for cybersecurity.
 - [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills) - Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
@@ -1002,6 +1003,7 @@
 
 ## Rust 
 
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [asymmetric-research/crucible](https://github.com/asymmetric-research/crucible) - High-performance Solana Program Fuzzer written in Rust with LibAFL/LiteSVM backend with sBPF edge coverage and state coverage
 - [rk8s-dev/rk8s](https://github.com/rk8s-dev/rk8s) - A lightweight Kubernetes-compatible container orchestration system written in Rust, implementing the Container Runtime Interface (CRI) with support for single containers, Kubernetes-style pods, and Do
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
