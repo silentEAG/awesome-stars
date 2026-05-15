@@ -526,7 +526,7 @@
 - [kyo-w/router-router](https://github.com/kyo-w/router-router) - Java web路由内存分析工具
 - [luelueking/Bypass_JVM_Verifier](https://github.com/luelueking/Bypass_JVM_Verifier) - Bypass JVM Class ByteCode Verifier , 对抗反编译器
 - [veo/vagent](https://github.com/veo/vagent) - 多功能 java agent 内存马
-- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索，紧跟 AI 技术发展，支持 MCP 调用，支持 n8n 工作流
+- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，支持 JAR DIFF 分析，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索，紧跟 AI 技术发展，支持 MCP 和 n8n 工作流
 - [qi4L/JYso](https://github.com/qi4L/JYso) - JNDIExploit or a ysoserial.
 - [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ &lt; 5.18.3 RCE 回显利用 内存马注入
 - [silentEAG/java-patch](https://github.com/silentEAG/java-patch) - awd/awdp 小工具，使用 javassist 对 jar 包进行 patch
@@ -827,7 +827,6 @@
 - [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
 - [finvfamily/finshare](https://github.com/finvfamily/finshare) - 专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python
-- [fawney19/Aether](https://github.com/fawney19/Aether) - 
 - [forefy/.context](https://github.com/forefy/.context) - AI Agent Skills for Smart Contract Auditing to generate triaged, industry grade report findings, code locations, pocs, attacker story flow graphs and more
 - [JoasASantos/SysWhispers4](https://github.com/JoasASantos/SysWhispers4) - AV/EDR evasion via direct and indirect system calls Windows NT 3.1 through Windows 11 24H2 · x64 · x86 · WoW64 · ARM64
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
@@ -1018,6 +1017,7 @@
 - [iss4cf0ng/IronPE](https://github.com/iss4cf0ng/IronPE) - IronPE is a Windows PE manual loader written in Rust for both x86 and x64 PE files.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [penso/arbor](https://github.com/penso/arbor) - Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs.
+- [fawney19/Aether](https://github.com/fawney19/Aether) - 
 - [wangxj03/code-splitter](https://github.com/wangxj03/code-splitter) - Split code into semantic chunks
 - [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust
 - [agentclientprotocol/symposium-acp](https://github.com/agentclientprotocol/symposium-acp) - The Symposium implementation the Agent Client Protocol specification
@@ -1419,7 +1419,7 @@
 - [MythicAgents/thanatos](https://github.com/MythicAgents/thanatos) - Mythic C2 agent targeting Linux and Windows hosts written in Rust
 - [neonmoe/minreq](https://github.com/neonmoe/minreq) - Simple, minimal-dependency HTTP client.
 - [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework
-- [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Program Framework
+- [otter-sec/anchor](https://github.com/otter-sec/anchor) - ⚓ Solana Program Framework
 - [neodyme-labs/solana-poc-framework](https://github.com/neodyme-labs/solana-poc-framework) - A framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [neodyme-labs/solana-ctf](https://github.com/neodyme-labs/solana-ctf) - A collection of Solana CTF challenges
