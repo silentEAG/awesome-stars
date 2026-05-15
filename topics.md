@@ -539,7 +539,7 @@
 - [minaminao/ctf-blockchain](https://github.com/minaminao/ctf-blockchain) - A summary and solutions for 200+ CTF blockchain challenges
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
-- [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Program Framework
+- [otter-sec/anchor](https://github.com/otter-sec/anchor) - ⚓ Solana Program Framework
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
 
@@ -2365,7 +2365,7 @@
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
 - [RoderickChan/docker_pwn_env](https://github.com/RoderickChan/docker_pwn_env) - Debug pwn using docker image
-- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索，紧跟 AI 技术发展，支持 MCP 调用，支持 n8n 工作流
+- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，支持 JAR DIFF 分析，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索，紧跟 AI 技术发展，支持 MCP 和 n8n 工作流
 - [Flangvik/SharpCollection](https://github.com/Flangvik/SharpCollection) - Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.
 - [jackullrich/ShellcodeStdio](https://github.com/jackullrich/ShellcodeStdio) - An extensible framework for easily writing compiler optimized position independent x86 / x64 shellcode for windows platforms.
 - [trustedsec/COFFLoader](https://github.com/trustedsec/COFFLoader) - 
@@ -3188,7 +3188,7 @@
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [neonmoe/minreq](https://github.com/neonmoe/minreq) - Simple, minimal-dependency HTTP client.
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
-- [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Program Framework
+- [otter-sec/anchor](https://github.com/otter-sec/anchor) - ⚓ Solana Program Framework
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [RustMagazine/rustmagazine](https://github.com/RustMagazine/rustmagazine) - A publication dedicated to the Rust programming language
 - [js2xxx/oceanic](https://github.com/js2xxx/oceanic) - A PC desktop OS
