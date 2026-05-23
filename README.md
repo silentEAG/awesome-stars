@@ -205,7 +205,6 @@
 
 ## C++ 
 
-- [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) - The Red Sun vulnerability repository
 - [PPKunOfficial/Hikari-LLVM19](https://github.com/PPKunOfficial/Hikari-LLVM19) - An LLVM Pass from Hikari-LLVM15
 - [jthuraisamy/TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer) - Enumerate and disable common sources of telemetry used by AV/EDR.
 - [CheckPointSW/VectoredOverloading](https://github.com/CheckPointSW/VectoredOverloading) - 
@@ -660,7 +659,6 @@
 
 ## Others 
 
-- [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey) - YellowKey Bitlocker Bypass Vulnerability
 - [SunWeb3Sec/llm-sast-scanner](https://github.com/SunWeb3Sec/llm-sast-scanner) - A SAST skill that gives AI coding agents structured vulnerability detection across 34 vulnerability classes.
 - [tmylla/Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) - An overview of LLMs for cybersecurity.
 - [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills) - Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
