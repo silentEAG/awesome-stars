@@ -118,7 +118,7 @@
 - [MmMapIoSpace/UCMapper](https://github.com/MmMapIoSpace/UCMapper) - Unknowncheats Magically Optimized Tidy Mapper using nvaudio
 - [WKL-Sec/LayeredSyscall](https://github.com/WKL-Sec/LayeredSyscall) - Generating legitimate call stack frame along with indirect syscalls by abusing Vectored Exception Handling (VEH) to bypass User-Land EDR hooks in Windows.
 - [pathtofile/bad-bpf](https://github.com/pathtofile/bad-bpf) - A collection of eBPF programs demonstrating bad behavior, presented at DEF CON 29
-- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 - [oldboy21/RflDllOb](https://github.com/oldboy21/RflDllOb) - Reflective DLL Injection Made Bella
 - [frog-game/lua-5.4.4-comments](https://github.com/frog-game/lua-5.4.4-comments) - lua-5.4.4-每行都加注释版本
 - [trustedsec/CS-Situational-Awareness-BOF](https://github.com/trustedsec/CS-Situational-Awareness-BOF) - Situational Awareness commands implemented using Beacon Object Files
