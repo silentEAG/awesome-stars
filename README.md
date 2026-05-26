@@ -208,7 +208,7 @@
 - [PPKunOfficial/Hikari-LLVM19](https://github.com/PPKunOfficial/Hikari-LLVM19) - An LLVM Pass from Hikari-LLVM15
 - [jthuraisamy/TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer) - Enumerate and disable common sources of telemetry used by AV/EDR.
 - [CheckPointSW/VectoredOverloading](https://github.com/CheckPointSW/VectoredOverloading) - 
-- [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - The AI-Native Search Database. Unifies vector, text, structured and semi-structured data in a single engine, enabling hybrid search and in-database AI workflows.
+- [oceanbase/seekdb](https://github.com/oceanbase/seekdb) - The AI-native state store for agents. MySQL-compatible, embedded or server, hybrid vector + full-text search, COW sandboxes (FORK/MERGE).
 - [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze) - EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
 - [tlsbollei/KittyLoader](https://github.com/tlsbollei/KittyLoader) - KittyLoader is a highly evasive loader written in C / Assembly
 - [TwoSevenOneT/CreateProcessAsPPL](https://github.com/TwoSevenOneT/CreateProcessAsPPL) - This is the loader that supports running a program with Protected Process Light (PPL) protection functionality.
