@@ -546,7 +546,7 @@
 - [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马/Webshell，一种新型内存马/WebShell技术
 - [EkiXu/marshalexp](https://github.com/EkiXu/marshalexp) - 
 - [Litch1-v/ysoserial](https://github.com/Litch1-v/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
-- [SummerSec/ShiroAttack2](https://github.com/SummerSec/ShiroAttack2) - shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）修复原版中NoCC的问题 https://github.com/j1anFen/shiro_attack
+- [SummerSec/ShiroAttack2](https://github.com/SummerSec/ShiroAttack2) - shiro反序列化漏洞综合利用（仅限授权测试使用）
 - [safe6Sec/ShiroExp](https://github.com/safe6Sec/ShiroExp) - shiro综合利用工具
 - [infinilabs/analysis-ik](https://github.com/infinilabs/analysis-ik) - 🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
@@ -1262,7 +1262,7 @@
 - [luojia65/plugin-system-example](https://github.com/luojia65/plugin-system-example) - Example design of executable with `dylib`-based runtime plugin system in Rust, `libloading` used
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust dark magics by implementing an expression framework in database systems
-- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository for advanced Red Team techniques focused on Rust
+- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - Repository for advanced Red Team techniques focused on Rust
 - [Zerx0r/rs_ppid_spoof_hollow](https://github.com/Zerx0r/rs_ppid_spoof_hollow) - a PoC for combining PPID spoofing with process hollowing shellcode injection
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina) - A system information frontend with an emphasis on performance.
