@@ -1001,6 +1001,7 @@
 
 ## Rust 
 
+- [mnixry/wasm2nix](https://github.com/mnixry/wasm2nix) - WIP transpile WebAssembly to Nix.
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [asymmetric-research/crucible](https://github.com/asymmetric-research/crucible) - High-performance Solana Program Fuzzer written in Rust with LibAFL/LiteSVM backend with sBPF edge coverage and state coverage
