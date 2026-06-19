@@ -201,6 +201,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
@@ -343,7 +344,7 @@
 
 ## ai-agents 
 
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [forefy/.context](https://github.com/forefy/.context) - AI Agent Skills for Smart Contract Auditing to generate triaged, industry grade report findings, code locations, pocs, attacker story flow graphs and more
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benc
@@ -903,7 +904,7 @@
 
 ## developer-tools 
 
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen
 - [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
@@ -1126,7 +1127,7 @@
 
 ## gamedev 
 
-- [WildPixelGames/gdt-cpus](https://github.com/WildPixelGames/gdt-cpus) - Game Developer's Toolkit for CPU Management
+- [gdt-tools/gdt-cpus-rs](https://github.com/gdt-tools/gdt-cpus-rs) - Game Developer's Toolkit for CPU Management
 - [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and flexibility.
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 
@@ -1146,7 +1147,7 @@
 
 ## git 
 
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -1941,6 +1942,8 @@
 
 ## others 
 
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
+- [mgeeky/PackMyPayload](https://github.com/mgeeky/PackMyPayload) - A PoC that packages payloads into output containers to evade Mark-of-the-Web flag & demonstrate risks associated with container file formats. Supports: ZIP, 7zip, PDF, ISO, IMG, CAB, VHD, VHDX
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [mvniekerk/tokio-cron-scheduler](https://github.com/mvniekerk/tokio-cron-scheduler) - Schedule tasks on Tokio using cron-like annotation
 - [mnixry/wasm2nix](https://github.com/mnixry/wasm2nix) - WIP transpile WebAssembly to Nix.
@@ -2128,10 +2131,7 @@
 - [Sndav/mac-capture-x](https://github.com/Sndav/mac-capture-x) - MacOS 超级屏幕录制，支持排除特定应用进行屏幕录制
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [maru-re/maru](https://github.com/maru-re/maru) - 「唱歌學日文」 - 基於 YouTube 的歌曲歌詞閱讀器
-- [safedv/Rustic64Shell](https://github.com/safedv/Rustic64Shell) - A 64-bit, position-independent code reverse TCP shell for Windows — built in Rust.
 - [owo-colors/owo-colors](https://github.com/owo-colors/owo-colors) - A zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal
-- [safedv/RustiveDump](https://github.com/safedv/RustiveDump) - LSASS memory dumper using only NTAPIs, creating a minimal minidump. It can be compiled as shellcode (PIC), supports XOR encryption, and remote file transmission.
-- [safedv/Rustic64](https://github.com/safedv/Rustic64) - 64-bit, position-independent implant template for Windows in Rust.
 - [denoland/rustls-tokio-stream](https://github.com/denoland/rustls-tokio-stream) - AsyncRead/AsyncWrite interface for rustls-on-Tokio
 - [trickster0/NamelessC2](https://github.com/trickster0/NamelessC2) - Nameless C2 - A C2 with all its components written in Rust
 - [google/googletest-rust](https://github.com/google/googletest-rust) - A unit testing library which provides rich assertions, fixtures, and other advanced testing features. Inspired by Google's C++ testing library googletest.
@@ -2148,7 +2148,6 @@
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges 
 - [awake1t/HackReport](https://github.com/awake1t/HackReport) - 渗透测试报告/资料文档/渗透经验文档/安全书籍
 - [MuelNova/MuelNova.github.io](https://github.com/MuelNova/MuelNova.github.io) - Resume Page for https://zm.md
-- [tkmru/awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass) - Awesome EDR Bypass Resources For Ethical Hacking
 - [wjlab/Darksteel](https://github.com/wjlab/Darksteel) - 域内自动化信息搜集利用工具
 - [Cracked5pider/kaine-assembly](https://github.com/Cracked5pider/kaine-assembly) - a demo module for the kaine agent to execute and inject assembly modules
 - [bornacvitanic/fumble](https://github.com/bornacvitanic/fumble) - fumble is an oxidized (Rust-based) implementation of the original clumsy tool, designed to simulate adverse network conditions on Windows systems.
@@ -2176,7 +2175,6 @@
 - [lintstar/LSTAR](https://github.com/lintstar/LSTAR) - LSTAR - CobaltStrike 综合后渗透插件
 - [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 - [pathtofile/bad-bpf](https://github.com/pathtofile/bad-bpf) - A collection of eBPF programs demonstrating bad behavior, presented at DEF CON 29
-- [Pizz33/JoJoLoader](https://github.com/Pizz33/JoJoLoader) - 助力红队成员一键生成免杀木马，使用rust实现 | Help Redteam members generate Evasive Anti-virus software Trojan
 - [repnz/windbg-cheat-sheet](https://github.com/repnz/windbg-cheat-sheet) - My personal cheat sheet for using WinDbg for kernel debugging
 - [yj94/BinarySpy](https://github.com/yj94/BinarySpy) - A tool for automatic patch shellcode into binary file to bypass AV.  /  一个自动patch shellcode到二进制文件的工具
 - [delulu-hq/phnt-rs](https://github.com/delulu-hq/phnt-rs) - Rust bindings to the System Informer's (formerly known as Process Hacker) "phnt" native Windows headers
@@ -2232,7 +2230,6 @@
 - [EkiXu/WAFManis](https://github.com/EkiXu/WAFManis) - 
 - [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux)
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
-- [QAX-A-Team/BrowserGhost](https://github.com/QAX-A-Team/BrowserGhost) - 这是一个抓取浏览器密码的工具，后续会添加更多功能
 - [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) - A rewrite of YARA in Rust.
 - [One-Fox-Security-Team/One-Fox-T00ls](https://github.com/One-Fox-Security-Team/One-Fox-T00ls) - 
 - [gh0stkey/CaA](https://github.com/gh0stkey/CaA) - CaA - Collector and Analyzer, Insight into information, exploring with intelligence in a thousand ways. 信息洞察，智探千方！
@@ -2301,7 +2298,6 @@
 - [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) - 渗透测试C2、支持Lua插件扩展、域前置/CDN上线、自定义profile、前置sRDI、文件管理、进程管理、内存加载、截图、反向代理、分组管理
 - [itaymigdal/Nimbo-C2](https://github.com/itaymigdal/Nimbo-C2) - Nimbo-C2 is yet another (simple and lightweight) C2 framework
 - [Zerx0r/rs_ppid_spoof_hollow](https://github.com/Zerx0r/rs_ppid_spoof_hollow) - a PoC for combining PPID spoofing with process hollowing shellcode injection
-- [qwqdanchun/Pillager](https://github.com/qwqdanchun/Pillager) - Pillager是一个适用于后渗透期间的信息收集工具
 - [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment
 - [MuelNova/MiFitness-Uploader-XPosed](https://github.com/MuelNova/MiFitness-Uploader-XPosed) - An XPosed plugin for "MiFitness(小米健康)", allowing you to fetch the data using socket.
 - [W01fh4cker/MemshellKit](https://github.com/W01fh4cker/MemshellKit) - 针对多个框架的高度自定义的内存马一键打入工具 | A highly customized memory shell one-click injection tool for multiple frameworks
@@ -2312,7 +2308,6 @@
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [ifyour/cf-image-hosting](https://github.com/ifyour/cf-image-hosting) - 🥊  Free & Unlimited Image Hosting
 - [chaitin/Real-World-CTF-6th-Challenges](https://github.com/chaitin/Real-World-CTF-6th-Challenges) - attachments and (some) writeups/source code for RWCTF 6th
-- [S1ckB0y1337/Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet) - Some notes and examples for cobalt strike's functionality
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [JANlittle/IDARustHelper](https://github.com/JANlittle/IDARustHelper) - Small rust binary analysis helper for IDA.
@@ -2331,7 +2326,6 @@
 - [JacyCui/static-analysis](https://github.com/JacyCui/static-analysis) - 静态分析基础教程
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [icyguider/LightsOut](https://github.com/icyguider/LightsOut) - Generate an obfuscated DLL that will disable AMSI & ETW
-- [Zerx0r/dvenom](https://github.com/Zerx0r/dvenom) - 🐍 Double Venom (DVenom) is a tool that provides an encryption wrapper and loader for your shellcode.
 - [cispa/persistent-clientside-xss](https://github.com/cispa/persistent-clientside-xss) - Exploit generator and Taint Engine to find persistent (and reflected) client-side XSS
 - [helloexp/0day](https://github.com/helloexp/0day) - 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新
 - [Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识库。A knowledge base for red teaming and offensive security.
@@ -2378,7 +2372,6 @@
 - [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ &lt; 5.18.3 RCE 回显利用 内存马注入
 - [yuange1024/ethereum_yellowpaper](https://github.com/yuange1024/ethereum_yellowpaper) - 以太坊黄皮书中文版
 - [paradigmxyz/paradigm-ctf-2023](https://github.com/paradigmxyz/paradigm-ctf-2023) - 
-- [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
 - [io12/pwninit](https://github.com/io12/pwninit) - pwninit - automate starting binary exploit challenges
 - [lgandx/Responder](https://github.com/lgandx/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication
 - [silentEAG/java-patch](https://github.com/silentEAG/java-patch) - awd/awdp 小工具，使用 javassist 对 jar 包进行 patch
@@ -2416,7 +2409,6 @@
 - [91ac0m0/journally](https://github.com/91ac0m0/journally) - 
 - [project-sekai-ctf/sekaictf-2023](https://github.com/project-sekai-ctf/sekaictf-2023) - 🎵 Official source code and writeups for SekaiCTF 2023!
 - [ibaiw/2023Hvv](https://github.com/ibaiw/2023Hvv) - 2023 HVV情报速递~
-- [W01fh4cker/VcenterKit](https://github.com/W01fh4cker/VcenterKit) - Vcenter综合渗透利用工具包 | Vcenter Comprehensive Penetration and Exploitation Toolkit
 - [H4CK3RT3CH/RedTeaming_CheatSheet](https://github.com/H4CK3RT3CH/RedTeaming_CheatSheet) - 
 - [silentEAG/note](https://github.com/silentEAG/note) - 个人 notebook
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
@@ -2440,7 +2432,6 @@
 - [misprit7/computerraria](https://github.com/misprit7/computerraria) - A fully compliant RISC-V computer made inside the game Terraria
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
-- [PeiQi0/PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) - 面向网络安全从业者的知识文库🍃 (停止更新)
 - [crow821/vulntarget](https://github.com/crow821/vulntarget) - vulntarget靶场系列
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - A proxy to expose real tls handshake to the firewall
 - [static-analysis-engineering/codehawk](https://github.com/static-analysis-engineering/codehawk) - CodeHawk Abstract Interpretation Engine and Analyzers
@@ -2487,7 +2478,6 @@
 - [Drun1baby/CTF-Repo-2023](https://github.com/Drun1baby/CTF-Repo-2023) - 2023 各大 CTF 的比赛附件
 - [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara) - IDA pro plugin to find crypto constants (and more)
 - [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries. Supports openssl and diesel crates.
-- [Pizz33/GobypassAV-shellcode](https://github.com/Pizz33/GobypassAV-shellcode) - shellcode免杀加载器，使用go实现，免杀bypass火绒、360、核晶、def等主流杀软
 - [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386) - CVE-2023-0386在ubuntu22.04上的提权
 - [pho3n1x-web/HTTPServerGO](https://github.com/pho3n1x-web/HTTPServerGO) - 这是一个用Go编写的红队内网环境中一个能快速开启HTTP文件浏览服务的小工具，能够执行shell命令,可以执行webshell
 - [Kiprey/Skr_Learning](https://github.com/Kiprey/Skr_Learning) - 天问之路 - 学习笔记&学习周报。内容包括但不限于C++ STL、编译原理、LLVM IR Pass代码优化、CSAPP Lab、uCore操作系统等等。
@@ -2907,6 +2897,52 @@
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 
+## redteam 
+
+- [tlsbollei/KittyLoader](https://github.com/tlsbollei/KittyLoader) - KittyLoader is a highly evasive loader written in C / Assembly
+- [nettitude/PoshC2](https://github.com/nettitude/PoshC2) - A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.
+- [maxDcb/DreamWalkers](https://github.com/maxDcb/DreamWalkers) - Lab research on Windows loader internals, PE loading, stack artifacts, and execution tradeoffs.
+- [joaoviictorti/uwd](https://github.com/joaoviictorti/uwd) - Call Stack Spoofing for Rust
+- [joaoviictorti/hypnus](https://github.com/joaoviictorti/hypnus) - Sleep Obfuscation in Rust
+- [Kudaes/RustChain](https://github.com/Kudaes/RustChain) - Hide memory artifacts using ROP and hardware breakpoints.
+- [SaadAhla/dark-kill](https://github.com/SaadAhla/dark-kill) - A user-mode code and its rootkit that will Kill EDR Processes permanently by leveraging the power of Process Creation Blocking Kernel Callback Routine registering and ZwTerminateProcess.
+- [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox) - A self-hosted sandbox for red teams to test payloads against modern detection before deployment. MCP integration lets an LLM agent drive analysis end to end.
+- [wh0amitz/SharpADWS](https://github.com/wh0amitz/SharpADWS) - Active Directory reconnaissance and exploitation for Red Teams via the Active Directory Web Services (ADWS).
+- [vulhub/java-chains](https://github.com/vulhub/java-chains) - Java Vulnerability Exploitation Platform
+- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
+- [safedv/Rustic64Shell](https://github.com/safedv/Rustic64Shell) - A 64-bit, position-independent code reverse TCP shell for Windows — built in Rust.
+- [joaoviictorti/coffeeldr](https://github.com/joaoviictorti/coffeeldr) - A COFF Loader written in Rust
+- [safedv/RustiveDump](https://github.com/safedv/RustiveDump) - LSASS memory dumper using only NTAPIs, creating a minimal minidump. It can be compiled as shellcode (PIC), supports XOR encryption, and remote file transmission.
+- [safedv/Rustic64](https://github.com/safedv/Rustic64) - 64-bit, position-independent implant template for Windows in Rust.
+- [tkmru/awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass) - Awesome EDR Bypass Resources For Ethical Hacking
+- [Pizz33/JoJoLoader](https://github.com/Pizz33/JoJoLoader) - 助力红队成员一键生成免杀木马，使用rust实现 | Help Redteam members generate Evasive Anti-virus software Trojan
+- [QAX-A-Team/BrowserGhost](https://github.com/QAX-A-Team/BrowserGhost) - 这是一个抓取浏览器密码的工具，后续会添加更多功能
+- [b1tg/cobaltstrike-beacon-rust](https://github.com/b1tg/cobaltstrike-beacon-rust) - CobaltStrike beacon in rust
+- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - Repository for advanced Red Team techniques focused on Rust
+- [qwqdanchun/Pillager](https://github.com/qwqdanchun/Pillager) - Pillager是一个适用于后渗透期间的信息收集工具
+- [S1ckB0y1337/Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet) - Some notes and examples for cobalt strike's functionality
+- [spellshift/realm](https://github.com/spellshift/realm) - Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
+- [Zerx0r/dvenom](https://github.com/Zerx0r/dvenom) - 🐍 Double Venom (DVenom) is a tool that provides an encryption wrapper and loader for your shellcode.
+- [gloxec/CrossC2](https://github.com/gloxec/CrossC2) - generate CobaltStrike's cross-platform payload
+- [swisskyrepo/InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) - Active Directory and Internal Pentest Cheatsheets
+- [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data ingestor for BloodHound Legacy written in Rust. 🦀
+- [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
+- [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
+- [W01fh4cker/VcenterKit](https://github.com/W01fh4cker/VcenterKit) - Vcenter综合渗透利用工具包 | Vcenter Comprehensive Penetration and Exploitation Toolkit
+- [nnsee/fileless-elf-exec](https://github.com/nnsee/fileless-elf-exec) - Execute ELF files without dropping them on disk
+- [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Adversary simulation and Red teaming platform with AI
+- [ffffffff0x/1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
+- [PeiQi0/PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) - 面向网络安全从业者的知识文库🍃 (停止更新)
+- [chainreactors/gogo](https://github.com/chainreactors/gogo) - 面向红队的, 高性能高度自由可拓展的自动化扫描引擎 | A highly controllable and extensionable automated scanning engine for red teams
+- [yaklang/yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
+- [Pizz33/GobypassAV-shellcode](https://github.com/Pizz33/GobypassAV-shellcode) - shellcode免杀加载器，使用go实现，免杀bypass火绒、360、核晶、def等主流杀软
+- [Dliv3/Venom](https://github.com/Dliv3/Venom) - Venom - A Multi-hop Proxy for Penetration Testers
+- [lcvvvv/kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
+- [veo/vscan](https://github.com/veo/vscan) - 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz)
+- [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
+- [Kudaes/rust_tips_and_tricks](https://github.com/Kudaes/rust_tips_and_tricks) - Rust For Windows Cheatsheet
+- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
+
 ## redux 
 
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -2995,7 +3031,7 @@
 - [Kudaes/RustChain](https://github.com/Kudaes/RustChain) - Hide memory artifacts using ROP and hardware breakpoints.
 - [Lokathor/bytemuck](https://github.com/Lokathor/bytemuck) - A crate for mucking around with piles of bytes
 - [jedisct1/yes-rs](https://github.com/jedisct1/yes-rs) - 🚀 A blazingly fast, memory-safe rewrite of the classic Unix 'yes' command. Written in Rust! 🦀
-- [WildPixelGames/gdt-cpus](https://github.com/WildPixelGames/gdt-cpus) - Game Developer's Toolkit for CPU Management
+- [gdt-tools/gdt-cpus-rs](https://github.com/gdt-tools/gdt-cpus-rs) - Game Developer's Toolkit for CPU Management
 - [folo-rs/folo](https://github.com/folo-rs/folo) - Mechanisms for high-performance hardware-aware programming in Rust
 - [zyantific/zydis-rs](https://github.com/zyantific/zydis-rs) - Zydis Rust Bindings
 - [0xflux/Sanctum](https://github.com/0xflux/Sanctum) - Sanctum is an experimental proof-of-concept EDR, designed to detect modern malware techniques, above and beyond the capabilities of antivirus.  Built in Rust.
@@ -3604,7 +3640,7 @@
 
 ## typescript 
 
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - 🦾 Runtime for Physical AI. Connect streams. Detect events. Control your world.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
