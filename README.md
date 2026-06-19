@@ -815,6 +815,7 @@
 
 ## Python 
 
+- [mgeeky/PackMyPayload](https://github.com/mgeeky/PackMyPayload) - A PoC that packages payloads into output containers to evade Mark-of-the-Web flag & demonstrate risks associated with container file formats. Supports: ZIP, 7zip, PDF, ISO, IMG, CAB, VHD, VHDX
 - [exploitbench/exploitbench](https://github.com/exploitbench/exploitbench) - ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug, to building exploit primitives, to arbitrary code execution.
 - [Sndav/CVE-2026-31431-Advanced-Exploit](https://github.com/Sndav/CVE-2026-31431-Advanced-Exploit) - CVE-2026-31431 纯文件利用
 - [berabuddies/agentflow](https://github.com/berabuddies/agentflow) - Orchestrate thousands of agents and harnesses as a graph programatically
@@ -1001,10 +1002,11 @@
 
 ## Rust 
 
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [mvniekerk/tokio-cron-scheduler](https://github.com/mvniekerk/tokio-cron-scheduler) - Schedule tasks on Tokio using cron-like annotation
 - [apalis-dev/apalis](https://github.com/apalis-dev/apalis) - Type-safe, extensible, and high-performance background processing library for Rust
 - [mnixry/wasm2nix](https://github.com/mnixry/wasm2nix) - WIP transpile WebAssembly to Nix.
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [asymmetric-research/crucible](https://github.com/asymmetric-research/crucible) - High-performance Solana Program Fuzzer written in Rust with LibAFL/LiteSVM backend with sBPF edge coverage and state coverage
 - [rk8s-dev/rk8s](https://github.com/rk8s-dev/rk8s) - A lightweight Kubernetes-compatible container orchestration system written in Rust, implementing the Container Runtime Interface (CRI) with support for single containers, Kubernetes-style pods, and Do
@@ -1085,7 +1087,7 @@
 - [jedisct1/yes-rs](https://github.com/jedisct1/yes-rs) - 🚀 A blazingly fast, memory-safe rewrite of the classic Unix 'yes' command. Written in Rust! 🦀
 - [0xTriboulet/scepter-rs](https://github.com/0xTriboulet/scepter-rs) - A hacky way of getting cross-arch/platform support in Cobalt Strike
 - [edransy/pipex](https://github.com/edransy/pipex) - 
-- [WildPixelGames/gdt-cpus](https://github.com/WildPixelGames/gdt-cpus) - Game Developer's Toolkit for CPU Management
+- [gdt-tools/gdt-cpus-rs](https://github.com/gdt-tools/gdt-cpus-rs) - Game Developer's Toolkit for CPU Management
 - [folo-rs/folo](https://github.com/folo-rs/folo) - Mechanisms for high-performance hardware-aware programming in Rust
 - [0xTriboulet/rdll-rs](https://github.com/0xTriboulet/rdll-rs) - A reflective DLL development template for the Rust programming language
 - [zyantific/zydis-rs](https://github.com/zyantific/zydis-rs) - Zydis Rust Bindings
