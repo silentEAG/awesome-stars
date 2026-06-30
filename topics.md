@@ -303,7 +303,7 @@
 ## agents 
 
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it!
 - [paradigmxyz/evmbench](https://github.com/paradigmxyz/evmbench) - A benchmark and harness for finding and exploiting smart contract bugs
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That  Learns
@@ -434,7 +434,7 @@
 
 ## artificial-intelligence 
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
@@ -513,6 +513,7 @@
 
 ## bash 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [EpicsDAO/solv](https://github.com/EpicsDAO/solv) - 🔥 solv - CLI Tool for Managing Solana Validators 🚧 What...? solv is evolving to SLV!
 - [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
@@ -669,6 +670,7 @@
 
 ## cli 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [tesserato/CodeWeaver](https://github.com/tesserato/CodeWeaver) - Weave your codebase into a single, navigable Markdown document
 - [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
@@ -719,7 +721,7 @@
 
 ## code-quality 
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 
 ## command-line 
@@ -830,7 +832,7 @@
 
 ## cybersecurity 
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [tlsbollei/KittyLoader](https://github.com/tlsbollei/KittyLoader) - KittyLoader is a highly evasive loader written in C / Assembly
 - [onhexgroup/Conferences](https://github.com/onhexgroup/Conferences) - Conference presentation slides
@@ -956,6 +958,7 @@
 
 ## docker 
 
+- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [0voice/cpp_backend_awsome_blog](https://github.com/0voice/cpp_backend_awsome_blog) - 2023年最新整理 c++后端开发，1000篇优秀博文，含内存，网络，架构设计，高性能，数据结构，基础组件，中间件，分布式相关
@@ -1172,6 +1175,7 @@
 
 ## go 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [ABCDELabs/Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 - [KiExitDispatcher/GoRedOps](https://github.com/KiExitDispatcher/GoRedOps) - 🦫  | GoRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Go programming language, all is made for education
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -1254,7 +1258,7 @@
 
 ## hacking 
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [UCYBERS/Awesome-Blackhat-Tools](https://github.com/UCYBERS/Awesome-Blackhat-Tools) - A curated list of tools officially presented at Black Hat events
 - [Kudaes/RustChain](https://github.com/Kudaes/RustChain) - Hide memory artifacts using ROP and hardware breakpoints.
 - [aaaddress1/Windows-APT-Warfare](https://github.com/aaaddress1/Windows-APT-Warfare) - 著作《Windows APT Warfare：惡意程式前線戰術指南》各章節技術實作之原始碼內容
@@ -1508,6 +1512,8 @@
 
 ## kubernetes 
 
+- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [rk8s-dev/rk8s](https://github.com/rk8s-dev/rk8s) - A lightweight Kubernetes-compatible container orchestration system written in Rust, implementing the Container Runtime Interface (CRI) with support for single containers, Kubernetes-style pods, and Do
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [Metarget/metarget](https://github.com/Metarget/metarget) - Metarget is a framework providing automatic constructions of vulnerable infrastructures.
@@ -1795,6 +1801,7 @@
 
 ## neovim 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
@@ -1956,7 +1963,6 @@
 
 - [FishCodeTech/muteki](https://github.com/FishCodeTech/muteki) - Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm
 - [Arize-ai/coding-harness-tracing](https://github.com/Arize-ai/coding-harness-tracing) - Trace coding harnesses like claude-code, cursor, and codex to Arize AX or Phoenix
-- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [mgeeky/PackMyPayload](https://github.com/mgeeky/PackMyPayload) - A PoC that packages payloads into output containers to evade Mark-of-the-Web flag & demonstrate risks associated with container file formats. Supports: ZIP, 7zip, PDF, ISO, IMG, CAB, VHD, VHDX
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [mvniekerk/tokio-cron-scheduler](https://github.com/mvniekerk/tokio-cron-scheduler) - Schedule tasks on Tokio using cron-like annotation
@@ -2639,7 +2645,7 @@
 ## p2p 
 
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
@@ -2661,7 +2667,7 @@
 ## penetration-testing 
 
 - [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and report generation. All inside Claude Code.
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
 - [safebuffer/vulnerable-AD](https://github.com/safebuffer/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
 - [trickest/wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
@@ -3006,6 +3012,7 @@
 
 ## rust 
 
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [apalis-dev/apalis](https://github.com/apalis-dev/apalis) - Type-safe, extensible, and high-performance background processing library for Rust
 - [asymmetric-research/crucible](https://github.com/asymmetric-research/crucible) - High-performance Solana Program Fuzzer written in Rust with LibAFL/LiteSVM backend with sBPF edge coverage and state coverage
 - [rk8s-dev/rk8s](https://github.com/rk8s-dev/rk8s) - A lightweight Kubernetes-compatible container orchestration system written in Rust, implementing the Container Runtime Interface (CRI) with support for single containers, Kubernetes-style pods, and Do
@@ -3107,7 +3114,7 @@
 - [N0fix/rustbinsign](https://github.com/N0fix/rustbinsign) - Rust symbol recovery tool
 - [taiki-e/pin-project](https://github.com/taiki-e/pin-project) - A crate for safe and ergonomic pin-projection.
 - [joaoviictorti/shadow](https://github.com/joaoviictorti/shadow) - Windows Kernel Rootkit in Rust
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [SoftbearStudios/bitcode](https://github.com/SoftbearStudios/bitcode) - A binary encoder/decoder for Rust
 - [spacewalkhq/raft-rs](https://github.com/spacewalkhq/raft-rs) - An understandable, fast and scalable Raft Consensus implementation
 - [robiot/rustcat](https://github.com/robiot/rustcat) - Rustcat(rcat) - The modern Port listener and Reverse shell
@@ -3309,8 +3316,9 @@
 
 ## security 
 
+- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [paradigmxyz/evmbench](https://github.com/paradigmxyz/evmbench) - A benchmark and harness for finding and exploiting smart contract bugs
 - [0xMacro/awesome-solana-security](https://github.com/0xMacro/awesome-solana-security) - A collection of resources to help you build better and more secure Solana programs. Kept up to date.
 - [tlsbollei/KittyLoader](https://github.com/tlsbollei/KittyLoader) - KittyLoader is a highly evasive loader written in C / Assembly
@@ -3738,6 +3746,7 @@
 
 ## vim 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ## visualization 
@@ -3905,6 +3914,7 @@
 
 ## zsh 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh My Zsh and plugins inside a Docker container with one line!
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
