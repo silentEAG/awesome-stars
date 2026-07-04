@@ -542,7 +542,6 @@
 - [4ra1n/mysql-fake-server](https://github.com/4ra1n/mysql-fake-server) - 纯 Java 实现的 MySQL Fake Server | 支持 GUI 版和命令行版 | 支持反序列化和文件读取的利用方式 | 支持常见的 GADGET 和自定义 GADGET 数据 | 根据目标环境自动生成匹配的 PAYLOAD | 支持 PGSQL 和 DERBY 的利用
 - [pen4uin/java-memshell-generator](https://github.com/pen4uin/java-memshell-generator) - 一款支持自定义的 Java 内存马生成工具｜A customizable Java in-memory webshell generation tool.
 - [tabby-sec/tabby-path-finder](https://github.com/tabby-sec/tabby-path-finder) - A neo4j procedure for tabby
-- [SafeGroceryStore/MDUT](https://github.com/SafeGroceryStore/MDUT) - MDUT - Multiple Database Utilization Tools
 - [iSafeBlue/TrackRay](https://github.com/iSafeBlue/TrackRay) - 溯光 (TrackRay) 3 beta⚡渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|代码审计|AWVS|NMAP|Metasploit|SQLMap）
 - [pwntester/BlockingServer](https://github.com/pwntester/BlockingServer) - Web Server that serves a single file and keeps the connection open until user releases it.
 - [nneonneo/ghidra-wasm-plugin](https://github.com/nneonneo/ghidra-wasm-plugin) - Ghidra Wasm plugin with disassembly and decompilation support
@@ -752,6 +751,7 @@
 - [Illumine-Labs/GreatMaster](https://github.com/Illumine-Labs/GreatMaster) - Master, help us to awaken and enlighten. 大师，我悟了。
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [dogadmin/windodws-logs-analysis](https://github.com/dogadmin/windodws-logs-analysis) - windows日志一键分析小工具
+- [SafeGroceryStore/MDUT](https://github.com/SafeGroceryStore/MDUT) - MDUT - Multiple Database Utilization Tools
 - [safe6Sec/PentestDB](https://github.com/safe6Sec/PentestDB) - 各种数据库的利用姿势
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [SEC-GO/Red-vs-Blue](https://github.com/SEC-GO/Red-vs-Blue) - 红蓝对抗交流心得
@@ -862,7 +862,7 @@
 - [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordi
 - [GaoYuCan/IDAPlugins](https://github.com/GaoYuCan/IDAPlugins) - 个人使用的 IDA Pro Plugins 集合
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [CERT-Polska/drakvuf-sandbox](https://github.com/CERT-Polska/drakvuf-sandbox) - DRAKVUF Sandbox - automated hypervisor-level malware analysis system
 - [cert-ee/cuckoo3](https://github.com/cert-ee/cuckoo3) - Cuckoo3 is a Python 3 open source automated malware analysis system.
 - [cybrly/badsuccessor](https://github.com/cybrly/badsuccessor) - 
@@ -1067,7 +1067,7 @@
 - [statrs-dev/statrs](https://github.com/statrs-dev/statrs) - Statistical computation library for Rust
 - [NoahKirchner/speedloader](https://github.com/NoahKirchner/speedloader) - Rust template/library for implementing your own COFF loader
 - [Tylous/FaceDancer](https://github.com/Tylous/FaceDancer) - FaceDancer is an exploitation tool aimed at creating hijackable, proxy-based DLLs by taking advantage of COM-based system DLL image loading
-- [hoxxep/rapidhash](https://github.com/hoxxep/rapidhash) - An extremely fast, high-quality, non-cryptographic hash function. Platform independent compile-time and run-time hashing in rust.
+- [hoxxep/rapidhash](https://github.com/hoxxep/rapidhash) - An extremely fast, high quality, non-cryptographic hash function. Platform independent compile-time and run-time hashing in rust.
 - [0xflux/Hells-Hollow](https://github.com/0xflux/Hells-Hollow) - Hells Hollow Windows 11 Rootkit technique to Hook the SSDT via Alt Syscalls
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 - [microsoft/Windows-rust-driver-samples](https://github.com/microsoft/Windows-rust-driver-samples) - Rust port of the official Windows Driver Samples on Github. Leverages windows-drivers-rs
