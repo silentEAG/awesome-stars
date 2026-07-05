@@ -1037,7 +1037,7 @@
 
 ## embedded 
 
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - Efficient and versatile WebAssembly interpreter for embedded systems.
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
@@ -1979,6 +1979,7 @@
 
 ## others 
 
+- [huangzheng2016/eTerm](https://github.com/huangzheng2016/eTerm) - 终端 SSH/SFTP 客户端：支持跳板与 ProxyCommand、HTTP(S)/SOCKS 代理、本地/远程/动态端口转发、命令片段、多标签与双栏 SFTP 文件管理。 A terminal SSH/SFTP client with jump hosts, ProxyCommand, HTTP(S) and SOCKS proxies, local/remote/dynamic port f
 - [iris-sast/iris](https://github.com/iris-sast/iris) - A neurosymbolic framework for vulnerability detection in code
 - [FishCodeTech/muteki](https://github.com/FishCodeTech/muteki) - Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm
 - [Arize-ai/coding-harness-tracing](https://github.com/Arize-ai/coding-harness-tracing) - Trace coding harnesses like claude-code, cursor, and codex to Arize AX or Phoenix
@@ -3037,7 +3038,7 @@
 - [rk8s-dev/rk8s](https://github.com/rk8s-dev/rk8s) - A lightweight Kubernetes-compatible container orchestration system written in Rust, implementing the Container Runtime Interface (CRI) with support for single containers, Kubernetes-style pods, and Do
 - [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your Rust code is correct.
 - [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) - A verification toolchain for Rust programs
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it!
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -3336,7 +3337,7 @@
 ## security 
 
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [paradigmxyz/evmbench](https://github.com/paradigmxyz/evmbench) - A benchmark and harness for finding and exploiting smart contract bugs
 - [0xMacro/awesome-solana-security](https://github.com/0xMacro/awesome-solana-security) - A collection of resources to help you build better and more secure Solana programs. Kept up to date.
@@ -3458,7 +3459,7 @@
 
 ## self-hosted 
 
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -3477,7 +3478,7 @@
 
 ## serverless 
 
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
