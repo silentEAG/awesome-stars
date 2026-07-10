@@ -262,6 +262,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [workflow](#workflow)
 - [xamarin](#xamarin)
 - [xml](#xml)
 - [youtube](#youtube)
@@ -3919,6 +3920,13 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+## workflow 
+
+- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 
 ## xamarin 
 
