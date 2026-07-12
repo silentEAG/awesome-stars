@@ -2010,7 +2010,7 @@
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [SunWeb3Sec/llm-sast-scanner](https://github.com/SunWeb3Sec/llm-sast-scanner) - A SAST skill that gives AI coding agents structured vulnerability detection across 34 vulnerability classes.
 - [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen) - 
-- [PPKunOfficial/Hikari-LLVM19](https://github.com/PPKunOfficial/Hikari-LLVM19) - An LLVM Pass from Hikari-LLVM15
+- [PPKunOfficial/Hikari-fix](https://github.com/PPKunOfficial/Hikari-fix) - An LLVM Pass from Hikari-LLVM15
 - [tmylla/Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) - An overview of LLMs for cybersecurity.
 - [openclaw/acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions
 - [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills) - Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
