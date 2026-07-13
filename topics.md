@@ -276,7 +276,7 @@
 
 ## agent 
 
-- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - System-level AI agent profling/tracing/monitoring tool and skills in eBPF
+- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - System-level AI agent profling/tracing/monitoring tool and skills in eBPF or Mac
 - [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
 - [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
@@ -1627,7 +1627,7 @@
 
 ## llm 
 
-- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - System-level AI agent profling/tracing/monitoring tool and skills in eBPF
+- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - System-level AI agent profling/tracing/monitoring tool and skills in eBPF or Mac
 - [modelscope/evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
