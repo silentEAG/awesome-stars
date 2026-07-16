@@ -88,7 +88,7 @@
 
 ## C 
 
-- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - System-level AI agent profling/tracing/monitoring tool and skills in eBPF or Mac
+- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - top/perf/nsight-like tool and skills for Agents in eBPF or Mac
 - [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG) - eBPF-based lightweight debugger for Android with MCP support
 - [ceccomp/ceccomp](https://github.com/ceccomp/ceccomp) - A tool to resolve seccomp just like seccomp-tools, written in C
 - [Maldev-Academy/MaldevAcademyLdr.2](https://github.com/Maldev-Academy/MaldevAcademyLdr.2) - RunPE implementation with multiple evasive techniques (2)
@@ -227,7 +227,7 @@
 - [SaadAhla/dark-kill](https://github.com/SaadAhla/dark-kill) - A user-mode code and its rootkit that will Kill EDR Processes permanently by leveraging the power of Process Creation Blocking Kernel Callback Routine registering and ZwTerminateProcess.
 - [rad9800/TamperingSyscalls](https://github.com/rad9800/TamperingSyscalls) - 
 - [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) - Advanced VM detection library and tool
-- [ashvardanian/ForkUnion](https://github.com/ashvardanian/ForkUnion) - Lower-latency OpenMP-style minimalistic scoped thread-pool designed for 'Fork-Join' parallelism in Rust and C++, avoiding memory allocations, mutexes, CAS-primitives, and false-sharing on the hot path
+- [ashvardanian/ForkUnion](https://github.com/ashvardanian/ForkUnion) - Lower-latency OpenMP-style NUMA-aware minimalistic scoped thread-pool designed for 'Fork-Join' parallelism in C, C++, Rust, & Zig, avoiding memory allocations, mutexes, CAS-primitives, and false-shari
 - [aaaddress1/Windows-APT-Warfare](https://github.com/aaaddress1/Windows-APT-Warfare) - 著作《Windows APT Warfare：惡意程式前線戰術指南》各章節技術實作之原始碼內容
 - [za233/NeacController](https://github.com/za233/NeacController) - Exploit vulnerabilities in NeacSafe64.sys to achieve privilege escalation and kernel-mode shellcode execution
 - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api)
@@ -748,7 +748,7 @@
 - [ProbiusOfficial/SecToolKit](https://github.com/ProbiusOfficial/SecToolKit) - Cybersecurity tool repository / Wiki 收录常用 / 前沿 的CTF和渗透工具以及其 官方/使用 文档，致力于让每个工具都能发挥作用ww，不管你是萌新还是领域从业者希望你都能在这里找到适合你的工具或者获得一定的启发。
 - [ExpLangcn/NucleiTP](https://github.com/ExpLangcn/NucleiTP) - 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！
 - [UltimateSec/ultimaste-nuclei-templates](https://github.com/UltimateSec/ultimaste-nuclei-templates) - 极致攻防实验室 nuclei 检测 POC
-- [0xJuancito/multichain-auditor](https://github.com/0xJuancito/multichain-auditor) - Observations and tips checklist for auditing protocols on multiple chains 🧐
+- [juancito-dev/multichain-auditor](https://github.com/juancito-dev/multichain-auditor) - Observations and tips checklist for auditing protocols on multiple chains 🧐
 - [Illumine-Labs/GreatMaster](https://github.com/Illumine-Labs/GreatMaster) - Master, help us to awaken and enlighten. 大师，我悟了。
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [dogadmin/windodws-logs-analysis](https://github.com/dogadmin/windodws-logs-analysis) - windows日志一键分析小工具
