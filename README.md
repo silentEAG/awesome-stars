@@ -88,7 +88,7 @@
 
 ## C 
 
-- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - top/perf/nsight-like tool and skills for Agents in eBPF or Mac
+- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - system-level profiler/monitor and skills for Agents in eBPF or Mac
 - [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG) - eBPF-based lightweight debugger for Android with MCP support
 - [ceccomp/ceccomp](https://github.com/ceccomp/ceccomp) - A tool to resolve seccomp just like seccomp-tools, written in C
 - [Maldev-Academy/MaldevAcademyLdr.2](https://github.com/Maldev-Academy/MaldevAcademyLdr.2) - RunPE implementation with multiple evasive techniques (2)
@@ -363,7 +363,6 @@
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [tesserato/CodeWeaver](https://github.com/tesserato/CodeWeaver) - Weave your codebase into a single, navigable Markdown document
 - [m-sec-org/ez-xbow-platform-mcp](https://github.com/m-sec-org/ez-xbow-platform-mcp) - 一个用于 AI 驱动的渗透测试竞赛的**模型上下文协议 (MCP)** 服务器。该工 具提供了一个完整的 API 接口，使 LLM 能够自主参与 CTF 挑战。
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [EndlessCheng/mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
 - [ABCDELabs/Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -866,6 +865,7 @@
 - [CERT-Polska/drakvuf-sandbox](https://github.com/CERT-Polska/drakvuf-sandbox) - DRAKVUF Sandbox - automated hypervisor-level malware analysis system
 - [cert-ee/cuckoo3](https://github.com/cert-ee/cuckoo3) - Cuckoo3 is a Python 3 open source automated malware analysis system.
 - [cybrly/badsuccessor](https://github.com/cybrly/badsuccessor) - 
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -1082,7 +1082,7 @@
 - [hyperliquid-dex/hyperliquid-rust-sdk](https://github.com/hyperliquid-dex/hyperliquid-rust-sdk) - 
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [richardscollin/tmux-rs](https://github.com/richardscollin/tmux-rs) - A Rust port of tmux
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [joaoviictorti/hypnus](https://github.com/joaoviictorti/hypnus) - Sleep Obfuscation in Rust
 - [chainreactors/malefic](https://github.com/chainreactors/malefic) - IoM implant, C2 Framework and Infrastructure
@@ -1165,7 +1165,7 @@
 - [safedv/Rustic64](https://github.com/safedv/Rustic64) - 64-bit, position-independent implant template for Windows in Rust.
 - [denoland/rustls-tokio-stream](https://github.com/denoland/rustls-tokio-stream) - AsyncRead/AsyncWrite interface for rustls-on-Tokio
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
-- [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - the zero-copy data plane with a Rust core
+- [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication with a Rust core
 - [trickster0/NamelessC2](https://github.com/trickster0/NamelessC2) - Nameless C2 - A C2 with all its components written in Rust
 - [google/googletest-rust](https://github.com/google/googletest-rust) - A unit testing library which provides rich assertions, fixtures, and other advanced testing features. Inspired by Google's C++ testing library googletest.
 - [kevinheavey/solders](https://github.com/kevinheavey/solders) - A high-performance Python toolkit for Solana, written in Rust
