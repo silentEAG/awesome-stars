@@ -277,6 +277,7 @@
 
 ## agent 
 
+- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Orchestrate AI agents to find real vulnerabilities in code.
 - [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - system-level profiler/monitor and skills for Agents in eBPF or Mac
 - [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
@@ -306,6 +307,7 @@
 
 ## agents 
 
+- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Orchestrate AI agents to find real vulnerabilities in code.
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
@@ -320,6 +322,7 @@
 
 ## ai 
 
+- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Orchestrate AI agents to find real vulnerabilities in code.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [paradigmxyz/evmbench](https://github.com/paradigmxyz/evmbench) - A benchmark and harness for finding and exploiting smart contract bugs
@@ -577,6 +580,7 @@
 
 ## bugbounty 
 
+- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Orchestrate AI agents to find real vulnerabilities in code.
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers identifying devices with default password 🛡️
 - [trickest/wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
 - [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) - Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
@@ -3353,6 +3357,7 @@
 
 ## security 
 
+- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Orchestrate AI agents to find real vulnerabilities in code.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
