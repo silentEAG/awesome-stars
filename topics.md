@@ -652,7 +652,7 @@
 
 ## chrome-extension 
 
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
 - [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
 
 ## clash 
@@ -916,7 +916,7 @@
 - [k8gege/K8tools](https://github.com/k8gege/K8tools) - K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A course of building an LSM-Tree storage engine (database) in a week.
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - learn database internals by building a storage engine in Rust
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
@@ -1063,7 +1063,7 @@
 
 ## english 
 
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 
 ## ethereum 
@@ -1410,7 +1410,7 @@
 - [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
 - [zino-rs/zino](https://github.com/zino-rs/zino) - Spec-driven framework for composable applications in Rust.
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
-- [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions
+- [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions. Maintenance mode now, please switch to use [VEY](https://github.com/VEY-OSS/vey) for new development efforts
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
@@ -1642,7 +1642,7 @@
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benc
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -1768,7 +1768,7 @@
 
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, time, memory, SQL and async code.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, memory, SQL, HTTP, I/O and async code.
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 - [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox) - A self-hosted sandbox for red teams to test payloads against modern detection before deployment. MCP integration lets an LLM agent drive analysis end to end.
@@ -1951,7 +1951,7 @@
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
 - [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -2916,7 +2916,7 @@
 ## react 
 
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.
 - [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) - Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -3076,7 +3076,7 @@
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [nubskr/walrus](https://github.com/nubskr/walrus) - 🦭 Distributed log streaming engine built from first principles
 - [SeaQL/seaography](https://github.com/SeaQL/seaography) - 🧭 A GraphQL framework for Rust
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, time, memory, SQL and async code.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, memory, SQL, HTTP, I/O and async code.
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [trailofbits/dylint](https://github.com/trailofbits/dylint) - Run Rust lints from dynamic libraries
 - [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - 🦾 Runtime for Physical AI. Connect streams. Detect events. Control your world.
@@ -3266,7 +3266,7 @@
 - [zino-rs/zino](https://github.com/zino-rs/zino) - Spec-driven framework for composable applications in Rust.
 - [udoprog/musli](https://github.com/udoprog/musli) - Müsli is a flexible and efficient serialization framework
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
-- [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions
+- [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions. Maintenance mode now, please switch to use [VEY](https://github.com/VEY-OSS/vey) for new development efforts
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦 https://github.com/johnthagen/min-sized-rust
 - [b1nhack/rust-shellcode](https://github.com/b1nhack/rust-shellcode) - windows-rs shellcode loaders
@@ -3308,7 +3308,7 @@
 - [rust-scraper/scraper](https://github.com/rust-scraper/scraper) - HTML parsing and querying with CSS selectors
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A course of building an LSM-Tree storage engine (database) in a week.
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - learn database internals by building a storage engine in Rust
 - [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, 
 - [postrequest/link](https://github.com/postrequest/link) - link is a command and control framework written in rust
 - [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation
@@ -3413,7 +3413,7 @@
 - [Vu1nT0tal/yarb](https://github.com/Vu1nT0tal/yarb) - 方便获取每日安全资讯的爬虫和推送程序
 - [yaklang/yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
-- [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions
+- [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions. Maintenance mode now, please switch to use [VEY](https://github.com/VEY-OSS/vey) for new development efforts
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
