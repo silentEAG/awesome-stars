@@ -680,7 +680,7 @@
 ## claude-code 
 
 - [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and report generation. All inside Claude Code.
-- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
+- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Pi / OpenCode / Kimi Code, vibe coding anytime, anywhere
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
@@ -1776,6 +1776,7 @@
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 - [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox) - A self-hosted sandbox for red teams to test payloads against modern detection before deployment. MCP integration lets an LLM agent drive analysis end to end.
+- [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
@@ -2137,7 +2138,6 @@
 - [twitchax/ratrod](https://github.com/twitchax/ratrod) - A TCP / UDP tunneler that uses public / private key authentication with encryption.
 - [SpringKill-team/CodeAuditAssistant](https://github.com/SpringKill-team/CodeAuditAssistant) - 🔍 CodeAuditAssistant - JetBrains Code Audit Plugin (Beta)   ⚡ Deep Call-Chain Tracking | 🚀 Method/Class Search | 🔥 Prebuilt Vuln Sinks   Native Integration | Decompiler/Path Finder | Memory Optimized 
 - [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
-- [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
 - [MythicAgents/Xenon](https://github.com/MythicAgents/Xenon) - A Mythic agent for Windows written in C
 - [wdanilo/crabtime](https://github.com/wdanilo/crabtime) - 
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
@@ -2171,6 +2171,7 @@
 - [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual) - Prompt越狱手册
 - [vxCrypt0r/Voidmaw](https://github.com/vxCrypt0r/Voidmaw) - A new technique that can be used to bypass memory scanners. This can be useful in hiding problematic code (such as reflective loaders implemented by C2 beacons) or other problematic executables that w
 - [yanghaoi/CobaltStrike_CNA](https://github.com/yanghaoi/CobaltStrike_CNA) - 使用多种WinAPI进行权限维持的CobaltStrike脚本，包含API设置系统服务，设置计划任务，管理用户等。
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [Offensive-Panda/ShadowDumper](https://github.com/Offensive-Panda/ShadowDumper) - Shadow Dumper is a powerful tool used to dump LSASS memory, often needed in penetration testing and red teaming. It uses multiple advanced techniques to dump memory, allowing to access sensitive data 
 - [JackOfMostTrades/gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector) - A byte code analyzer for finding deserialization gadget chains in Java applications
 - [silentEAG/RedTeamOps](https://github.com/silentEAG/RedTeamOps) - Use Rust to implement some Red Team techniques :)
@@ -3119,6 +3120,7 @@
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [ynqa/promkit](https://github.com/ynqa/promkit) - Make interactive prompt in Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
 - [cmackenzie1/torii-rs](https://github.com/cmackenzie1/torii-rs) - Torii is a powerful authentication framework for Rust applications that gives you complete control over your users' data.
 - [ZJUBCA/roadmap](https://github.com/ZJUBCA/roadmap) - Roadmap of learning blockchain technology and business knowledge summarized by ZJUBCA（浙大区块链协会总结的区块链知识学习路线）
 - [mmastrac/linktime](https://github.com/mmastrac/linktime) - Link-time initialization, destruction, scattered data collection macros for Rust
@@ -3138,7 +3140,6 @@
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [alysonhower/tauri2-svelte5-boilerplate](https://github.com/alysonhower/tauri2-svelte5-boilerplate) - A clean desktop application template that combines Tauri 2 with Svelte 5 + DaisyUI, including automated CI/CD pipelines for Windows, Linux, and Mac builds.
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [arrow-udf/arrow-udf](https://github.com/arrow-udf/arrow-udf) - A User-Defined Function Framework for Apache Arrow.
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
