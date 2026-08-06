@@ -1994,6 +1994,7 @@
 
 ## others 
 
+- [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
 - [huangzheng2016/eTerm](https://github.com/huangzheng2016/eTerm) - 终端 SSH/SFTP 客户端：支持跳板与 ProxyCommand、HTTP(S)/SOCKS 代理、本地/远程/动态端口转发、命令片段、多标签与双栏 SFTP 文件管理。 A terminal SSH/SFTP client with jump hosts, ProxyCommand, HTTP(S) and SOCKS proxies, local/remote/dynamic port f
 - [iris-sast/iris](https://github.com/iris-sast/iris) - A neurosymbolic framework for vulnerability detection in code
