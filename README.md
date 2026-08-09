@@ -16,6 +16,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CodeQL](#codeql)
+- [Cuda](#cuda)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -90,7 +91,7 @@
 
 - [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - system-level profiler/monitor and skills for Agents in eBPF or Mac
 - [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG) - eBPF-based lightweight debugger for Android with MCP support
-- [ceccomp/ceccomp](https://github.com/ceccomp/ceccomp) - A tool to resolve seccomp just like seccomp-tools, written in C
+- [ceccomp/ceccomp](https://github.com/ceccomp/ceccomp) - C reimplementation of seccomp-tools with advanced features
 - [Maldev-Academy/MaldevAcademyLdr.2](https://github.com/Maldev-Academy/MaldevAcademyLdr.2) - RunPE implementation with multiple evasive techniques (2)
 - [passthehashbrowns/VectoredExceptionHandling](https://github.com/passthehashbrowns/VectoredExceptionHandling) - 
 - [Team-Atlanta/aixcc-afc-atlantis](https://github.com/Team-Atlanta/aixcc-afc-atlantis) - 
@@ -323,6 +324,10 @@
 ## CodeQL 
 
 - [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
+
+## Cuda 
+
+- [lcpu-club/wmhpc-training-camp-x-lcpu-ai-infra-seminars](https://github.com/lcpu-club/wmhpc-training-camp-x-lcpu-ai-infra-seminars) - 北京大学未名超算队与北京大学学生 Linux 俱乐部合办的暑期 AI Infra 系列活动仓库
 
 ## Dart 
 
@@ -821,6 +826,8 @@
 
 ## Python 
 
+- [tile-ai/tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.
 - [FishCodeTech/muteki](https://github.com/FishCodeTech/muteki) - Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm
 - [Arize-ai/coding-harness-tracing](https://github.com/Arize-ai/coding-harness-tracing) - Trace coding harnesses like claude-code, cursor, and codex to Arize AX or Phoenix
 - [mgeeky/PackMyPayload](https://github.com/mgeeky/PackMyPayload) - A PoC that packages payloads into output containers to evade Mark-of-the-Web flag & demonstrate risks associated with container file formats. Supports: ZIP, 7zip, PDF, ISO, IMG, CAB, VHD, VHDX
