@@ -279,7 +279,6 @@
 
 ## agent 
 
-- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Orchestrate AI agents to find real vulnerabilities in code.
 - [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - system-level profiler/monitor and skills for Agents in eBPF or Mac
 - [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
@@ -309,7 +308,6 @@
 
 ## agents 
 
-- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Orchestrate AI agents to find real vulnerabilities in code.
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
@@ -325,7 +323,7 @@
 
 ## ai 
 
-- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Orchestrate AI agents to find real vulnerabilities in code.
+- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [paradigmxyz/evmbench](https://github.com/paradigmxyz/evmbench) - A benchmark and harness for finding and exploiting smart contract bugs
@@ -364,6 +362,7 @@
 ## ai-agents 
 
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
+- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [forefy/.context](https://github.com/forefy/.context) - AI Agent Skills for Security Auditing to generate triaged, industry grade report findings, code locations, pocs, attacker story flow graphs and more
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benc
@@ -583,7 +582,6 @@
 
 ## bugbounty 
 
-- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Orchestrate AI agents to find real vulnerabilities in code.
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers identifying devices with default password 🛡️
 - [trickest/wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
 - [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) - Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
@@ -681,7 +679,7 @@
 ## claude-code 
 
 - [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and report generation. All inside Claude Code.
-- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Pi / OpenCode / Kimi Code, vibe coding anytime, anywhere
+- [tiann/hapi](https://github.com/tiann/hapi) - App for Codex / Claude Code / Pi / OpenCode / Kimi Code / Grok Build, vibe coding anytime, anywhere
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
@@ -1156,7 +1154,6 @@
 
 ## game 
 
-- [renpy/renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
 - [veloren/veloren](https://github.com/veloren/veloren) - [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitL
 
 ## game-development 
@@ -1166,6 +1163,7 @@
 
 ## game-engine 
 
+- [renpy/renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 
 ## gamedev 
@@ -1641,7 +1639,7 @@
 
 ## llm 
 
-- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - learn LLM inference on Apple Silicon for systems engineers: build a tiny vLLM + Qwen
 - [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) - system-level profiler/monitor and skills for Agents in eBPF or Mac
 - [modelscope/evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -2832,7 +2830,7 @@
 
 ## python 
 
-- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - learn LLM inference on Apple Silicon for systems engineers: build a tiny vLLM + Qwen
 - [JoinQuant/jqdatasdk](https://github.com/JoinQuant/jqdatasdk) - 简单易用的量化金融数据包(easy utility for getting financial market data of China)
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
 - [finvfamily/finshare](https://github.com/finvfamily/finshare) - 专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python
@@ -3380,7 +3378,6 @@
 ## security 
 
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
-- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Orchestrate AI agents to find real vulnerabilities in code.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
@@ -3469,6 +3466,7 @@
 
 ## security-tools 
 
+- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.
 - [jthuraisamy/TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer) - Enumerate and disable common sources of telemetry used by AV/EDR.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [jd-opensource/arkdecompiler](https://github.com/jd-opensource/arkdecompiler) - HarmonyOS NEXT Decompiler(纯血鸿蒙反编译器)
@@ -3505,6 +3503,7 @@
 
 ## self-hosted 
 
+- [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) - Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.
