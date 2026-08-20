@@ -81,6 +81,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -351,7 +352,7 @@
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
-- [iorigin-ai/beat-ai](https://github.com/iorigin-ai/beat-ai) - 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
+- [origin-bi/beat-ai](https://github.com/origin-bi/beat-ai) - 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -1033,6 +1034,10 @@
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 
+## dsh-plugin 
+
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
+
 ## education 
 
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
@@ -1579,7 +1584,7 @@
 ## learning 
 
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
-- [iorigin-ai/rust-by-practice](https://github.com/iorigin-ai/rust-by-practice) - Rust By Practice will evolve into Origin.
+- [origin-bi/rust-by-practice](https://github.com/origin-bi/rust-by-practice) - Rust By Practice will evolve into Origin.
 
 ## library 
 
@@ -1666,7 +1671,7 @@
 - [phodal/aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
-- [iorigin-ai/beat-ai](https://github.com/iorigin-ai/beat-ai) - 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
+- [origin-bi/beat-ai](https://github.com/origin-bi/beat-ai) - 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
@@ -1850,7 +1855,7 @@
 ## neural-network 
 
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
-- [iorigin-ai/beat-ai](https://github.com/iorigin-ai/beat-ai) - 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
+- [origin-bi/beat-ai](https://github.com/origin-bi/beat-ai) - 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 
 ## nextjs 
@@ -2020,7 +2025,7 @@
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [Sndav/CVE-2026-31431-Advanced-Exploit](https://github.com/Sndav/CVE-2026-31431-Advanced-Exploit) - CVE-2026-31431 纯文件利用
 - [yaklang/hack-skills](https://github.com/yaklang/hack-skills) - Helping AI Agent become an awesome practical hacker!
-- [berabuddies/agentflow](https://github.com/berabuddies/agentflow) - Orchestrate thousands of agents and harnesses as a graph programatically
+- [agentenv/agentflow](https://github.com/agentenv/agentflow) - Orchestrate thousands of agents and harnesses as a graph programatically
 - [Noi1r/beamer-skill](https://github.com/Noi1r/beamer-skill) - A Claude Code skill for creating, compiling, reviewing, and polishing academic Beamer LaTeX presentations. Full lifecycle workflow with quality scoring, pedagogical review, TikZ audit, and more.
 - [agentclientprotocol/rust-sdk](https://github.com/agentclientprotocol/rust-sdk) - Rust SDK for ACP clients and agents.
 - [wh0amitz/TailVNC](https://github.com/wh0amitz/TailVNC) - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.
@@ -3367,7 +3372,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
-- [iorigin-ai/rust-by-practice](https://github.com/iorigin-ai/rust-by-practice) - Rust By Practice will evolve into Origin.
+- [origin-bi/rust-by-practice](https://github.com/origin-bi/rust-by-practice) - Rust By Practice will evolve into Origin.
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
