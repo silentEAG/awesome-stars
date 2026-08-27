@@ -2008,6 +2008,7 @@
 
 ## others 
 
+- [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 - [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna) - An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was originally ported from Ghidra.
 - [trailofbits/buttercup](https://github.com/trailofbits/buttercup) - Buttercup finds and patches software vulnerabilities
 - [lcpu-club/wmhpc-training-camp-x-lcpu-ai-infra-seminars](https://github.com/lcpu-club/wmhpc-training-camp-x-lcpu-ai-infra-seminars) - 北京大学未名超算队与北京大学学生 Linux 俱乐部合办的暑期 AI Infra 系列活动仓库
