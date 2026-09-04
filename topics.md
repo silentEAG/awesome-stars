@@ -314,7 +314,7 @@
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
 - [paradigmxyz/evmbench](https://github.com/paradigmxyz/evmbench) - Collab with OpenAI. A benchmark and harness for finding and exploiting smart contract bugs
-- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That  Learns
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
@@ -2049,7 +2049,6 @@
 - [penso/arbor](https://github.com/penso/arbor) - Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs.
 - [fawney19/Aether](https://github.com/fawney19/Aether) - 
 - [forefy/.context](https://github.com/forefy/.context) - AI Agent Skills, Goals and Dynamic Workflows for Security Auditing, Pentesting and Research
-- [JoasASantos/SysWhispers4](https://github.com/JoasASantos/SysWhispers4) - AV/EDR evasion via direct and indirect system calls Windows NT 3.1 through Windows 11 24H2 · x64 · x86 · WoW64 · ARM64
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) - 
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 - [ceccomp/ceccomp](https://github.com/ceccomp/ceccomp) - C reimplementation of seccomp-tools with advanced features
