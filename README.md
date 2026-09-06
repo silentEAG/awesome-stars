@@ -1293,7 +1293,7 @@
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [luojia65/plugin-system-example](https://github.com/luojia65/plugin-system-example) - Example design of executable with `dylib`-based runtime plugin system in Rust, `libloading` used
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
-- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn advanced Rust techniques by building an expression evaluation framework for a database system.
+- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn advanced Rust by building a type-safe, auto-vectorized database expression engine
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - Repository for advanced Red Team techniques focused on Rust
 - [Zerx0r/rs_ppid_spoof_hollow](https://github.com/Zerx0r/rs_ppid_spoof_hollow) - a PoC for combining PPID spoofing with process hollowing shellcode injection
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
