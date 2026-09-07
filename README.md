@@ -634,7 +634,6 @@
 ## Lua 
 
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [PY44N/LuaObfuscatorV2](https://github.com/PY44N/LuaObfuscatorV2) - A program that obfuscates Lua programs so no one can steal your source code
 - [prometheus-lua/Prometheus](https://github.com/prometheus-lua/Prometheus) - Lua Obfuscator written in pure Lua
 - [crisprss/Extracted_WD_VDM](https://github.com/crisprss/Extracted_WD_VDM) - Windows Defender VDM lua collections
 
@@ -1243,6 +1242,7 @@
 - [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) - A rewrite of YARA in Rust.
 - [b1tg/cobaltstrike-beacon-rust](https://github.com/b1tg/cobaltstrike-beacon-rust) - CobaltStrike beacon in rust
 - [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings to the quickjs javascript engine
+- [PY44N/LuaObfuscatorV2](https://github.com/PY44N/LuaObfuscatorV2) - A program that obfuscates Lua programs so no one can steal your source code
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwardi
 - [kyren/piccolo](https://github.com/kyren/piccolo) - An experimental stackless Lua VM implemented in pure Rust
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
