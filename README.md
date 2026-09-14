@@ -856,7 +856,6 @@
 - [studio-dots-ai/dots.ocr](https://github.com/studio-dots-ai/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec) - A headless, extendable, multi-session, IDA Pro MCP framework.
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
 - [zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli) - Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows whil
@@ -976,7 +975,7 @@
 - [plasma-umass/ChatDBG](https://github.com/plasma-umass/ChatDBG) - ChatDBG - AI-assisted debugging. Uses AI to answer 'why'
 - [CS-BAOYAN/CSSummerCamp2023](https://github.com/CS-BAOYAN/CSSummerCamp2023) - 
 - [Vu1nT0tal/IoT-vulhub](https://github.com/Vu1nT0tal/IoT-vulhub) - IoT固件漏洞复现环境
-- [tp7309/TTDeDroid](https://github.com/tp7309/TTDeDroid) - One key for quickly decompile apk/aar/dex/jar,  support by jadx/dex2jar/enjarify.
+- [tp7309/TTDeDroid](https://github.com/tp7309/TTDeDroid) - 一键反编译工具 One key for quickly decompile apk/aar/dex/jar,  support by jadx/dex2jar/enjarify.
 - [crow821/crowsec](https://github.com/crow821/crowsec) - 视频课件和工具分享
 - [EddieIvan01/pker](https://github.com/EddieIvan01/pker) - Automatically converts Python source code to Pickle opcode
 - [LJP-TW/Windows-Pwn-Step-by-Step](https://github.com/LJP-TW/Windows-Pwn-Step-by-Step) - Let's get familiar with Windows pwn 😎
@@ -1525,6 +1524,7 @@
 
 ## Shell 
 
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [vulhub/java-chains](https://github.com/vulhub/java-chains) - Java Vulnerability Exploitation Platform
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges 
