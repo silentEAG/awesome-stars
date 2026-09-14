@@ -415,7 +415,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [WindXaa/Android-Vulnerability-Mining](https://github.com/WindXaa/Android-Vulnerability-Mining) - Android APP漏洞之战系列，主要讲述如何快速挖掘APP漏洞
-- [tp7309/TTDeDroid](https://github.com/tp7309/TTDeDroid) - One key for quickly decompile apk/aar/dex/jar,  support by jadx/dex2jar/enjarify.
+- [tp7309/TTDeDroid](https://github.com/tp7309/TTDeDroid) - 一键反编译工具 One key for quickly decompile apk/aar/dex/jar,  support by jadx/dex2jar/enjarify.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely take over Android devices.
 - [simpleble/simpleble](https://github.com/simpleble/simpleble) - SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, Linux and Android.
