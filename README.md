@@ -662,7 +662,6 @@
 
 ## OCaml 
 
-- [soteria-tools/soteria](https://github.com/soteria-tools/soteria) - Scaling Reasoning for the Age of AI
 - [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) - A verification toolchain for Rust programs
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [static-analysis-engineering/codehawk](https://github.com/static-analysis-engineering/codehawk) - CodeHawk Abstract Interpretation Engine and Analyzers
