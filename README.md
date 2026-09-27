@@ -847,7 +847,7 @@
 - [forefy/.context](https://github.com/forefy/.context) - AI Agent Skills, Goals and Dynamic Workflows for Security Auditing, Pentesting and Research
 - [JoasASantos/SysWhispers4](https://github.com/JoasASantos/SysWhispers4) - AV/EDR evasion via direct and indirect system calls Windows NT 3.1 through Windows 11 24H2 · x64 · x86 · WoW64 · ARM64
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 - [passer-W/ctfSolver](https://github.com/passer-W/ctfSolver) - 腾讯ai渗透黑客松参赛作品（xjtuHunter）
 - [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) - Python SDK for ACP clients and agents.
