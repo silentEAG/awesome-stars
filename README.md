@@ -425,7 +425,7 @@
 - [selinuxG/Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具、键盘记录器
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [chainreactors/gogo](https://github.com/chainreactors/gogo) - 面向红队的, 高性能高度自由可拓展的自动化扫描引擎 | A highly controllable and extensionable automated scanning engine for red teams
 - [qjfoidnh/BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
 - [i11us0ry/winlog](https://github.com/i11us0ry/winlog) - 一款基于go的windows信息收集工具，主要收集目标机器rdp端口、mstsc远程连接记录、mstsc密码和安全事件中4624、4625登录事件记录
