@@ -829,7 +829,7 @@
 - [lcpu-club/wmhpc-training-camp-x-lcpu-ai-infra-seminars](https://github.com/lcpu-club/wmhpc-training-camp-x-lcpu-ai-infra-seminars) - 北京大学未名超算队与北京大学学生 Linux 俱乐部合办的暑期 AI Infra 系列活动仓库
 - [tile-ai/tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - learn LLM inference system on Apple Silicon for systems engineers: build a tiny vLLM + Qwen
-- [FishCodeTech/muteki](https://github.com/FishCodeTech/muteki) - Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm
+- [FishCodeTech/muteki](https://github.com/FishCodeTech/muteki) - Project Muteki (無敵): Open-source AI-powered offensive security harness for automated penetration testing.
 - [Arize-ai/coding-harness-tracing](https://github.com/Arize-ai/coding-harness-tracing) - Trace coding harnesses like claude-code, cursor, and codex to Arize AX or Phoenix
 - [mgeeky/PackMyPayload](https://github.com/mgeeky/PackMyPayload) - A PoC that packages payloads into output containers to evade Mark-of-the-Web flag & demonstrate risks associated with container file formats. Supports: ZIP, 7zip, PDF, ISO, IMG, CAB, VHD, VHDX
 - [exploitbench/exploitbench](https://github.com/exploitbench/exploitbench) - ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug, to building exploit primitives, to arbitrary code execution.
