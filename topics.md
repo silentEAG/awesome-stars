@@ -2027,7 +2027,7 @@
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
 - [huangzheng2016/eTerm](https://github.com/huangzheng2016/eTerm) - 终端 SSH/SFTP 客户端：支持跳板与 ProxyCommand、HTTP(S)/SOCKS 代理、本地/远程/动态端口转发、命令片段、多标签与双栏 SFTP 文件管理。 A terminal SSH/SFTP client with jump hosts, ProxyCommand, HTTP(S) and SOCKS proxies, local/remote/dynamic port f
 - [iris-sast/iris](https://github.com/iris-sast/iris) - A neurosymbolic framework for vulnerability detection in code
-- [FishCodeTech/muteki](https://github.com/FishCodeTech/muteki) - Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm
+- [FishCodeTech/muteki](https://github.com/FishCodeTech/muteki) - Project Muteki (無敵): Open-source AI-powered offensive security harness for automated penetration testing.
 - [Arize-ai/coding-harness-tracing](https://github.com/Arize-ai/coding-harness-tracing) - Trace coding harnesses like claude-code, cursor, and codex to Arize AX or Phoenix
 - [mgeeky/PackMyPayload](https://github.com/mgeeky/PackMyPayload) - A PoC that packages payloads into output containers to evade Mark-of-the-Web flag & demonstrate risks associated with container file formats. Supports: ZIP, 7zip, PDF, ISO, IMG, CAB, VHD, VHDX
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
