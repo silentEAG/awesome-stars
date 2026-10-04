@@ -1158,7 +1158,7 @@
 - [X1r0z/pivot-rs](https://github.com/X1r0z/pivot-rs) - A lightweight port-forwarding and socks proxy tool written in Rust 🦀
 - [andfoy/winpty-rs](https://github.com/andfoy/winpty-rs) - Create and spawn processes inside a pseudoterminal in Windows from Rust
 - [safedv/RustSoliloquy](https://github.com/safedv/RustSoliloquy) - A Rust implementation of Internal-Monologue — retrieving NetNTLM hashes without touching LSASS, leveraging SSPI for NTLM negotiation and indirect NTAPIs for core operations.
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [Teach2Breach/snapinject_rs](https://github.com/Teach2Breach/snapinject_rs) - A remote process injection using process snapshotting based on https://gitlab.com/ORCA000/snaploader , in rust. It creates a sacrificial process, takes a snapshot of the process, and injects shellcode
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [anush008/fastembed-rs](https://github.com/anush008/fastembed-rs) - Rust library for generating vector embeddings and reranking locally!
