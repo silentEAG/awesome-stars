@@ -1450,7 +1450,7 @@
 - [neodyme-labs/solana-poc-framework](https://github.com/neodyme-labs/solana-poc-framework) - A framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [neodyme-labs/solana-ctf](https://github.com/neodyme-labs/solana-ctf) - A collection of Solana CTF challenges
-- [js2xxx/oceanic](https://github.com/js2xxx/oceanic) - A PC desktop OS
+- [js2xxx/oceanic](https://github.com/js2xxx/oceanic) - A PC OS kernel
 - [riscv-rust/k210-hal](https://github.com/riscv-rust/k210-hal) - Rust's hardware abstract layer (HAL) for K210 chip, a dual RV64GC SoC with hardware accelerated AI peripherals. Contributions welcomed!
 - [riscv-rust/k210-example](https://github.com/riscv-rust/k210-example) - Example project for K210 SoC to show usage of k210-hal project
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -1523,7 +1523,7 @@
 ## Shell 
 
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [vulhub/java-chains](https://github.com/vulhub/java-chains) - Java Vulnerability Exploitation Platform
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges 
 - [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
