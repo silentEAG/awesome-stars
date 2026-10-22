@@ -2556,7 +2556,7 @@
 - [DasSecurity-HatLab/AoiAWD](https://github.com/DasSecurity-HatLab/AoiAWD) - AoiAWD-专为比赛设计，便携性好，低权限运行的EDR系统。
 - [tabby-sec/tabby-path-finder](https://github.com/tabby-sec/tabby-path-finder) - A neo4j procedure for tabby
 - [MuelNova/PwnUtils](https://github.com/MuelNova/PwnUtils) - A collection of useful pwn scripts in one.
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.
 - [dogadmin/windodws-logs-analysis](https://github.com/dogadmin/windodws-logs-analysis) - windows日志一键分析小工具
 - [SafeGroceryStore/MDUT](https://github.com/SafeGroceryStore/MDUT) - MDUT - Multiple Database Utilization Tools
 - [safe6Sec/PentestDB](https://github.com/safe6Sec/PentestDB) - 各种数据库的利用姿势
