@@ -53,7 +53,6 @@
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [V](#v)
-- [VBA](#vba)
 - [VBScript](#vbscript)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
@@ -1682,10 +1681,6 @@
 ## V 
 
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
-
-## VBA 
-
-- [mdsecactivebreach/SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework
 
 ## VBScript 
 
