@@ -129,7 +129,6 @@
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [ybdt/Evasion-Hub](https://github.com/ybdt/Evasion-Hub) - Endpoint and Lateral Movement Evasion
 - [trustedsec/CS-Remote-OPs-BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF) - Remote operations commands implemented using Beacon Object Files
-- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - A modern 32/64-bit position independent implant template
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [CCob/BOF.NET](https://github.com/CCob/BOF.NET) - A .NET Runtime for Cobalt Strike's Beacon Object Files
@@ -266,6 +265,7 @@
 - [carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation) - 
 - [0xlane/ollvm-rust](https://github.com/0xlane/ollvm-rust) - out-of-tree llvm obfuscation pass plugin (dynamically loadable by rustc). || rust toolchain with obfuscation llvm pass.
 - [Cloaked9000/ElfLoader](https://github.com/Cloaked9000/ElfLoader) - An ELF loader capable of manually loading ELF executables directly from memory into a new process, without the use of exec.
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [Neo-Maoku/SearchAvailableExe](https://github.com/Neo-Maoku/SearchAvailableExe) - 寻找可利用的白文件
 - [myzxcg/RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR) - Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...
 - [HackOvert/AntiDBG](https://github.com/HackOvert/AntiDBG) - A bunch of Windows anti-debugging tricks for x86 and x64.
@@ -290,7 +290,7 @@
 - [OpenL2D/moc3ingbird](https://github.com/OpenL2D/moc3ingbird) - MOC3ingbird Exploit for Live2D (CVE-2023-27566)
 - [jxy-s/herpaderping](https://github.com/jxy-s/herpaderping) - Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-- [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
+- [meta/rocksdb](https://github.com/meta/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [FrozenFish259/Goose_Goose_Duck_Hack](https://github.com/FrozenFish259/Goose_Goose_Duck_Hack) - External Hack for Goose Goose Duck.  鹅鸭杀外部辅助
 - [sampsyo/llvm-pass-skeleton](https://github.com/sampsyo/llvm-pass-skeleton) - example LLVM pass
 - [mthipparthi/operating-systems-three-easy-pieces](https://github.com/mthipparthi/operating-systems-three-easy-pieces) - operating systems three easy pieces by Rezmi
@@ -662,7 +662,7 @@
 ## OCaml 
 
 - [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) - A verification toolchain for Rust programs
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+- [meta/infer](https://github.com/meta/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [static-analysis-engineering/codehawk](https://github.com/static-analysis-engineering/codehawk) - CodeHawk Abstract Interpretation Engine and Analyzers
 
 ## Others 
@@ -1297,7 +1297,7 @@
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - Advanced Red Team techniques focused on Rust
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina) - A system information frontend with an emphasis on performance.
-- [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment
+- [meta/dotslash](https://github.com/meta/dotslash) - Simplified executable deployment
 - [mira-screen-share/sharer](https://github.com/mira-screen-share/sharer) - A screen-sharing / remote collaboration software written in Rust
 - [0xor0ne/debugoff](https://github.com/0xor0ne/debugoff) - Linux anti-debugging and anti-analysis rust library
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
@@ -1414,7 +1414,7 @@
 - [wumb0/rust_bof](https://github.com/wumb0/rust_bof) - Cobalt Strike Beacon Object Files (BOFs) written in rust with rust core and alloc.
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
-- [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
+- [meta/buck2](https://github.com/meta/buck2) - Build system, successor to Buck
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [memN0ps/eagle-rs](https://github.com/memN0ps/eagle-rs) - Rusty Rootkit - Windows Kernel Rookit in Rust (Codename: Eagle)
@@ -1610,7 +1610,7 @@
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [paradigmxyz/rivet](https://github.com/paradigmxyz/rivet) - Developer Wallet & DevTools for Anvil
 - [piotrostr/listen](https://github.com/piotrostr/listen) - DeFAI Swiss Army Knife
