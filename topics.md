@@ -1617,7 +1617,7 @@
 ## learning 
 
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
-- [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Rust By Practice will evolve into Origin.
+- [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Practice your rust skill hardly
 
 ## library 
 
@@ -2315,7 +2315,7 @@
 - [d-xo/weird-erc20](https://github.com/d-xo/weird-erc20) - weird erc20 tokens
 - [ir0nstone/cybersec-notes](https://github.com/ir0nstone/cybersec-notes) - My notes on pwn
 - [ElliotKillick/operating-system-design-review](https://github.com/ElliotKillick/operating-system-design-review) - Operating System Design Review: A systematic analysis of modern systems architecture
-- [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
+- [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework
 - [EdgeSecurityTeam/command](https://github.com/EdgeSecurityTeam/command) - 红队命令速查 是由棱角社区(Edge Forum) 整理的关于 Red Team 期间所常使用的一些基础命令。
 - [fdu-sec/JDD](https://github.com/fdu-sec/JDD) - 
 - [J-Schoepplenberg/zero-packet](https://github.com/J-Schoepplenberg/zero-packet) - A zero-copy Rust library that builds and parses network packets in-place.
@@ -3411,7 +3411,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
-- [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Rust By Practice will evolve into Origin.
+- [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Practice your rust skill hardly
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
