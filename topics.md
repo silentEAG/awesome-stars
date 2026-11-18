@@ -1386,7 +1386,6 @@
 ## hacktoberfest 
 
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
-- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [SeaQL/seaography](https://github.com/SeaQL/seaography) - 🧭 A GraphQL framework for Rust
 - [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) - Hiding kernel-driver for x86/x64.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -2075,6 +2074,8 @@
 
 ## others 
 
+- [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
+- [seL4/microkit](https://github.com/seL4/microkit) - Microkit - A simple operating system framework for the seL4 microkernel
 - [crisprss/CVE-2026-88235](https://github.com/crisprss/CVE-2026-88235) - One of the most powerful primitives for Windows default configuration LPE
 - [makepad/relax](https://github.com/makepad/relax) - Relax Rust JIT
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
