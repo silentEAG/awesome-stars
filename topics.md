@@ -1101,7 +1101,7 @@
 ## embedded 
 
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
-- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Write Game Boy games in Rust
+- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Write Game Boy programs in Rust
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
@@ -1209,7 +1209,7 @@
 
 ## game-development 
 
-- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Write Game Boy games in Rust
+- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Write Game Boy programs in Rust
 - [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and flexibility.
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 
@@ -3237,7 +3237,7 @@
 - [knsd/daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons
 - [sonodima/microseh](https://github.com/sonodima/microseh) - Structured Exception Handling (SEH) for Rust
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
-- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Write Game Boy games in Rust
+- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Write Game Boy programs in Rust
 - [httpmock/httpmock](https://github.com/httpmock/httpmock) - HTTP mocking library for Rust
 - [lloydmeta/frunk](https://github.com/lloydmeta/frunk) - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser
